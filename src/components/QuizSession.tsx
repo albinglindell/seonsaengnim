@@ -4,6 +4,7 @@ import type { NumbersSystemFilter, QuizDirection, VocabEntry } from "@/types";
 import { answersMatch } from "@/lib/normalize";
 import { entryMatchesNumbersFilter, isNumbersTopic } from "@/lib/numbersTopic";
 import { buildMcOptions, shuffleInPlace } from "@/lib/quiz";
+import { recordQuizOutcome } from "@/lib/quizStorage";
 import { HintPanel } from "@/components/HintPanel";
 
 type QuizMode = "mc" | "type";
@@ -109,6 +110,13 @@ export const QuizSession = ({
       right: s.right + (ok ? 1 : 0),
       total: s.total + 1,
     }));
+    recordQuizOutcome({
+      correct: ok,
+      entry: current,
+      userAnswer: opt,
+      direction,
+      mode: "mc",
+    });
   };
 
   const onTypedChangeHandler = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -128,6 +136,13 @@ export const QuizSession = ({
       right: s.right + (ok ? 1 : 0),
       total: s.total + 1,
     }));
+    recordQuizOutcome({
+      correct: ok,
+      entry: current,
+      userAnswer: typed,
+      direction,
+      mode: "type",
+    });
   };
 
   const onNextHandler = () => {
@@ -139,9 +154,19 @@ export const QuizSession = ({
 
   const prompt =
     current && direction === "koToEn" ? (
-      <p className="font-korean text-2xl font-semibold leading-snug text-paper sm:text-3xl">
-        {current.ko}
-      </p>
+      <div className="flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between sm:gap-6">
+        <p className="font-korean text-2xl font-semibold leading-snug text-paper sm:text-3xl">
+          {current.ko}
+        </p>
+        {current.rom ? (
+          <p
+            className="shrink-0 text-base italic leading-snug text-white/55 sm:max-w-[45%] sm:pt-1 sm:text-right sm:text-lg"
+            aria-label={`Pronunciation: ${current.rom}`}
+          >
+            {current.rom}
+          </p>
+        ) : null}
+      </div>
     ) : current ? (
       <p className="text-2xl font-semibold leading-snug text-paper sm:text-3xl">{current.en}</p>
     ) : null;
@@ -211,23 +236,45 @@ export const QuizSession = ({
                     ? answersMatch(opt, current.en, "en")
                     : answersMatch(opt, current.ko, "ko"));
                 const showWrong = feedback !== null && isSel && !showCorrect;
+                const optionRom =
+                  direction === "enToKo" ? pool.find((e) => e.ko === opt)?.rom ?? "" : "";
                 return (
                   <button
                     key={opt}
                     type="button"
                     disabled={feedback !== null}
                     onClick={() => onSelectMcHandler(opt)}
-                    className={`rounded-2xl border px-4 py-4 text-left text-base font-medium transition focus:outline-none focus-visible:ring-2 focus-visible:ring-mint ${
+                    className={`rounded-2xl border px-4 py-4 text-left text-base font-medium transition focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-offset-ink-900 ${
                       showCorrect
-                        ? "border-mint bg-mint/20 text-paper"
+                        ? "border-emerald-500/70 bg-emerald-950/50 text-emerald-100 focus-visible:ring-emerald-500/50"
                         : showWrong
-                          ? "border-accent/60 bg-accent/15 text-paper"
+                          ? "border-red-500/70 bg-red-950/50 text-red-100 focus-visible:ring-red-500/50"
                           : isSel
-                            ? "border-white/30 bg-white/10 text-paper"
-                            : "border-white/10 bg-ink-900/40 text-paper/95 hover:border-white/20"
-                    } ${direction === "enToKo" ? "font-korean text-lg" : ""}`}
+                            ? "border-white/30 bg-white/10 text-paper focus-visible:ring-white/30"
+                            : "border-white/10 bg-ink-900/40 text-paper/95 hover:border-white/20 focus-visible:ring-mint/40"
+                    }`}
                   >
-                    {opt}
+                    {direction === "enToKo" ? (
+                      <span className="flex w-full items-start justify-between gap-3">
+                        <span className="min-w-0 flex-1 font-korean text-lg leading-snug">{opt}</span>
+                        {optionRom ? (
+                          <span
+                            className={`max-w-[48%] shrink-0 text-right text-sm font-normal italic leading-snug ${
+                              showCorrect
+                                ? "text-emerald-200/80"
+                                : showWrong
+                                  ? "text-red-200/80"
+                                  : "text-white/50"
+                            }`}
+                            aria-label={`Pronunciation: ${optionRom}`}
+                          >
+                            {optionRom}
+                          </span>
+                        ) : null}
+                      </span>
+                    ) : (
+                      opt
+                    )}
                   </button>
                 );
               })}
@@ -245,7 +292,13 @@ export const QuizSession = ({
                 autoComplete="off"
                 lang={direction === "enToKo" ? "ko" : "en"}
                 placeholder={direction === "enToKo" ? "한국어로 입력…" : "Type English…"}
-                className="w-full rounded-2xl border border-white/10 bg-ink-900/60 px-4 py-3.5 text-base text-paper placeholder:text-white/35 focus:border-mint/50 focus:outline-none focus:ring-2 focus:ring-mint/30"
+                className={`w-full rounded-2xl border bg-ink-900/60 px-4 py-3.5 text-base text-paper placeholder:text-white/35 focus:outline-none focus:ring-2 ${
+                  feedback === "wrong"
+                    ? "border-red-500/50 focus:border-red-500/60 focus:ring-red-500/25"
+                    : feedback === "correct"
+                      ? "border-emerald-500/50 focus:border-emerald-500/60 focus:ring-emerald-500/25"
+                      : "border-white/10 focus:border-mint/50 focus:ring-mint/30"
+                }`}
               />
               <button
                 type="button"
@@ -259,17 +312,64 @@ export const QuizSession = ({
             </div>
           )}
           {feedback !== null ? (
-            <div className="mt-6 space-y-3 rounded-2xl border border-white/10 bg-black/20 p-4">
-              <p className={feedback === "correct" ? "font-semibold text-mint" : "font-semibold text-accent"}>
+            <div
+              className={`mt-6 space-y-3 rounded-2xl border p-4 ${
+                feedback === "correct"
+                  ? "border-emerald-500/45 bg-emerald-950/35"
+                  : "border-red-500/45 bg-red-950/35"
+              }`}
+            >
+              <p
+                className={
+                  feedback === "correct"
+                    ? "font-semibold text-emerald-300"
+                    : "font-semibold text-red-300"
+                }
+              >
                 {feedback === "correct" ? "Correct!" : "Not quite — compare with the answer below."}
               </p>
-              <p className="text-sm text-white/75">
-                <span className="text-paper/90">Answer: </span>
-                <span className={direction === "enToKo" ? "font-korean text-lg text-paper" : "text-paper"}>
-                  {correctAnswer}
-                </span>
-              </p>
-              {current.rom ? (
+              {direction === "enToKo" && current.rom ? (
+                <div className="flex flex-col gap-1 sm:flex-row sm:items-start sm:justify-between sm:gap-4">
+                  <p className="text-sm text-white/80">
+                    <span
+                      className={feedback === "correct" ? "text-emerald-200/90" : "text-red-200/90"}
+                    >
+                      Answer:{" "}
+                    </span>
+                    <span
+                      className={`font-korean text-lg ${feedback === "correct" ? "text-emerald-100" : "text-red-100"}`}
+                    >
+                      {correctAnswer}
+                    </span>
+                  </p>
+                  <p
+                    className={`shrink-0 text-sm italic sm:max-w-[45%] sm:pt-0.5 sm:text-right ${
+                      feedback === "correct" ? "text-emerald-200/75" : "text-red-200/75"
+                    }`}
+                    aria-label={`Pronunciation: ${current.rom}`}
+                  >
+                    {current.rom}
+                  </p>
+                </div>
+              ) : (
+                <p className="text-sm text-white/80">
+                  <span className={feedback === "correct" ? "text-emerald-200/90" : "text-red-200/90"}>
+                    Answer:{" "}
+                  </span>
+                  <span
+                    className={
+                      direction === "enToKo"
+                        ? `font-korean text-lg ${feedback === "correct" ? "text-emerald-100" : "text-red-100"}`
+                        : feedback === "correct"
+                          ? "text-emerald-100"
+                          : "text-red-100"
+                    }
+                  >
+                    {correctAnswer}
+                  </span>
+                </p>
+              )}
+              {current.rom && direction === "koToEn" ? (
                 <p className="text-sm text-white/55">
                   Romanization: <span className="italic">{current.rom}</span>
                 </p>
@@ -277,7 +377,11 @@ export const QuizSession = ({
               <button
                 type="button"
                 onClick={onNextHandler}
-                className="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-white/10 py-3 text-sm font-semibold text-paper transition hover:bg-white/15 focus:outline-none focus-visible:ring-2 focus-visible:ring-mint"
+                className={`inline-flex w-full items-center justify-center gap-2 rounded-xl py-3 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-offset-ink-900 ${
+                  feedback === "correct"
+                    ? "bg-emerald-800/50 text-emerald-50 hover:bg-emerald-800/65 focus-visible:ring-emerald-500/50"
+                    : "bg-red-900/45 text-red-50 hover:bg-red-900/60 focus-visible:ring-red-500/50"
+                }`}
               >
                 Next
                 <ChevronRight className="h-4 w-4" aria-hidden />

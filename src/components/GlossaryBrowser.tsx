@@ -2,6 +2,7 @@ import { useMemo, useState } from "react";
 import { BookOpen, Search } from "lucide-react";
 import type { NumbersSystemFilter, VocabEntry } from "@/types";
 import { NumbersTopicInfobox } from "@/components/NumbersTopicInfobox";
+import { SearchableTopicSelect } from "@/components/SearchableTopicSelect";
 import { entryMatchesNumbersFilter, isNumbersTopic } from "@/lib/numbersTopic";
 
 type GlossaryBrowserProps = {
@@ -44,7 +45,7 @@ export const GlossaryBrowser = ({ items }: GlossaryBrowserProps) => {
     setQuery(() => e.target.value);
   };
 
-  const onTopicClickHandler = (t: string | null) => {
+  const onTopicSelectChangeHandler = (t: string | null) => {
     setTopic(() => t);
     if (!isNumbersTopic(t)) {
       setNumbersFilter(() => "all");
@@ -62,46 +63,27 @@ export const GlossaryBrowser = ({ items }: GlossaryBrowserProps) => {
         <h2 className="text-xl font-semibold tracking-tight">Glossary</h2>
         <span className="ml-auto text-sm text-white/50">{filtered.length} entries</span>
       </div>
-      <div className="relative">
-        <Search
-          className="pointer-events-none absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-white/35"
-          aria-hidden
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 sm:gap-4">
+        <SearchableTopicSelect
+          topics={topics}
+          value={topic}
+          onChangeHandler={onTopicSelectChangeHandler}
+          totalEntryCount={items.length}
         />
-        <input
-          type="search"
-          value={query}
-          onChange={onQueryChangeHandler}
-          placeholder="Search English, Korean, romanization…"
-          aria-label="Search glossary"
-          className="w-full rounded-2xl border border-white/10 bg-ink-800 py-3.5 pl-12 pr-4 text-base text-paper placeholder:text-white/35 focus:border-mint/50 focus:outline-none focus:ring-2 focus:ring-mint/30"
-        />
-      </div>
-      <div className="flex flex-wrap gap-2">
-        <button
-          type="button"
-          onClick={() => onTopicClickHandler(null)}
-          className={`rounded-full px-4 py-2 text-sm font-medium transition focus:outline-none focus-visible:ring-2 focus-visible:ring-mint ${
-            topic === null
-              ? "bg-accent text-white"
-              : "bg-white/10 text-paper/90 hover:bg-white/15"
-          }`}
-        >
-          All topics
-        </button>
-        {topics.map((t) => (
-          <button
-            key={t}
-            type="button"
-            onClick={() => onTopicClickHandler(t)}
-            className={`max-w-full truncate rounded-full px-4 py-2 text-sm font-medium transition focus:outline-none focus-visible:ring-2 focus-visible:ring-mint ${
-              topic === t
-                ? "bg-accent text-white"
-                : "bg-white/10 text-paper/90 hover:bg-white/15"
-            }`}
-          >
-            {t}
-          </button>
-        ))}
+        <div className="relative min-w-0">
+          <Search
+            className="pointer-events-none absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-white/35"
+            aria-hidden
+          />
+          <input
+            type="search"
+            value={query}
+            onChange={onQueryChangeHandler}
+            placeholder="Search English, Korean, romanization…"
+            aria-label="Search glossary"
+            className="w-full rounded-2xl border border-white/10 bg-ink-800 py-3.5 pl-12 pr-4 text-base text-paper placeholder:text-white/35 focus:border-mint/50 focus:outline-none focus:ring-2 focus:ring-mint/30"
+          />
+        </div>
       </div>
       {isNumbersTopic(topic) ? (
         <NumbersTopicInfobox

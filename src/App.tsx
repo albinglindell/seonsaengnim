@@ -1,16 +1,21 @@
 import { useMemo, useState } from "react";
-import { BookOpen, GraduationCap, Languages } from "lucide-react";
+import { BadgeCheck, BookOpen, CircleAlert, GraduationCap, Languages } from "lucide-react";
 import { useVocabulary } from "@/hooks/useVocabulary";
+import { useQuizLog } from "@/hooks/useQuizLog";
 import { GlossaryBrowser } from "@/components/GlossaryBrowser";
 import { NumbersTopicInfobox } from "@/components/NumbersTopicInfobox";
 import { QuizSession } from "@/components/QuizSession";
+import { ReviewCorrect } from "@/components/ReviewCorrect";
+import { ReviewMistakes } from "@/components/ReviewMistakes";
+import { SearchableTopicSelect } from "@/components/SearchableTopicSelect";
 import { isNumbersTopic } from "@/lib/numbersTopic";
 import type { NumbersSystemFilter, QuizDirection } from "@/types";
 
-type Tab = "glossary" | "quiz";
+type Tab = "glossary" | "quiz" | "review" | "correct";
 
 const App = () => {
   const { items, error } = useVocabulary();
+  const quizLog = useQuizLog();
   const [tab, setTab] = useState<Tab>(() => "glossary");
   const [quizTopic, setQuizTopic] = useState<string | null>(() => null);
   const [quizNumbersFilter, setQuizNumbersFilter] = useState<NumbersSystemFilter>(() => "all");
@@ -33,6 +38,14 @@ const App = () => {
     setTab(() => "quiz");
   };
 
+  const onTabReviewHandler = () => {
+    setTab(() => "review");
+  };
+
+  const onTabCorrectHandler = () => {
+    setTab(() => "correct");
+  };
+
   const onDirectionKoEnHandler = () => {
     setDirection(() => "koToEn");
   };
@@ -41,9 +54,7 @@ const App = () => {
     setDirection(() => "enToKo");
   };
 
-  const onQuizTopicChangeHandler = (e: React.ChangeEvent<HTMLSelectElement>) => {
-    const v = e.target.value;
-    const next = v === "__all__" ? null : v;
+  const onQuizTopicSelectChangeHandler = (next: string | null) => {
     setQuizTopic(() => next);
     if (!isNumbersTopic(next)) {
       setQuizNumbersFilter(() => "all");
@@ -70,11 +81,11 @@ const App = () => {
               romanization from the book.
             </p>
           </div>
-          <div className="flex shrink-0 gap-2 rounded-2xl border border-white/10 bg-ink-800/60 p-1">
+          <div className="flex shrink-0 flex-wrap justify-end gap-2 rounded-2xl border border-white/10 bg-ink-800/60 p-1">
             <button
               type="button"
               onClick={onTabGlossaryHandler}
-              className={`inline-flex flex-1 items-center justify-center gap-2 rounded-xl px-4 py-3 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-mint sm:flex-none ${
+              className={`inline-flex flex-1 items-center justify-center gap-2 rounded-xl px-3 py-3 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-mint min-[420px]:flex-none min-[420px]:px-4 ${
                 tab === "glossary"
                   ? "bg-accent text-white shadow"
                   : "text-paper/80 hover:bg-white/5"
@@ -87,7 +98,7 @@ const App = () => {
             <button
               type="button"
               onClick={onTabQuizHandler}
-              className={`inline-flex flex-1 items-center justify-center gap-2 rounded-xl px-4 py-3 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-mint sm:flex-none ${
+              className={`inline-flex flex-1 items-center justify-center gap-2 rounded-xl px-3 py-3 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-mint min-[420px]:flex-none min-[420px]:px-4 ${
                 tab === "quiz"
                   ? "bg-accent text-white shadow"
                   : "text-paper/80 hover:bg-white/5"
@@ -96,6 +107,42 @@ const App = () => {
             >
               <GraduationCap className="h-4 w-4 shrink-0" aria-hidden />
               Quiz
+            </button>
+            <button
+              type="button"
+              onClick={onTabReviewHandler}
+              className={`inline-flex flex-1 items-center justify-center gap-2 rounded-xl px-3 py-3 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-mint min-[420px]:flex-none min-[420px]:px-4 ${
+                tab === "review"
+                  ? "bg-accent text-white shadow"
+                  : "text-paper/80 hover:bg-white/5"
+              }`}
+              aria-pressed={tab === "review"}
+            >
+              <CircleAlert className="h-4 w-4 shrink-0" aria-hidden />
+              <span className="whitespace-nowrap">Review</span>
+              {quizLog.wrong.length > 0 ? (
+                <span className="min-w-[1.25rem] rounded-full bg-red-500/35 px-1.5 text-center text-xs font-bold tabular-nums text-red-100">
+                  {quizLog.wrong.length > 99 ? "99+" : quizLog.wrong.length}
+                </span>
+              ) : null}
+            </button>
+            <button
+              type="button"
+              onClick={onTabCorrectHandler}
+              className={`inline-flex flex-1 items-center justify-center gap-2 rounded-xl px-3 py-3 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-mint min-[420px]:flex-none min-[420px]:px-4 ${
+                tab === "correct"
+                  ? "bg-accent text-white shadow"
+                  : "text-paper/80 hover:bg-white/5"
+              }`}
+              aria-pressed={tab === "correct"}
+            >
+              <BadgeCheck className="h-4 w-4 shrink-0" aria-hidden />
+              <span className="whitespace-nowrap">Correct</span>
+              {quizLog.right.length > 0 ? (
+                <span className="min-w-[1.25rem] rounded-full bg-emerald-500/35 px-1.5 text-center text-xs font-bold tabular-nums text-emerald-100">
+                  {quizLog.right.length > 99 ? "99+" : quizLog.right.length}
+                </span>
+              ) : null}
             </button>
           </div>
         </div>
@@ -115,39 +162,34 @@ const App = () => {
         {items ? (
           tab === "glossary" ? (
             <GlossaryBrowser items={items} />
+          ) : tab === "review" ? (
+            <ReviewMistakes wrong={quizLog.wrong} />
+          ) : tab === "correct" ? (
+            <ReviewCorrect right={quizLog.right} items={items} />
           ) : (
             <div className="space-y-8">
-              <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+              <div className="flex flex-col gap-4">
                 <div className="flex items-center gap-2 text-paper/90">
                   <Languages className="h-6 w-6 text-accent" aria-hidden />
                   <h2 className="text-xl font-semibold tracking-tight">Quiz</h2>
                 </div>
-                <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
-                  <label className="text-xs font-medium uppercase tracking-wide text-white/45">
-                    Topic
-                    <select
-                      value={quizTopic ?? "__all__"}
-                      onChange={onQuizTopicChangeHandler}
-                      aria-label="Filter quiz by topic"
-                      className="mt-1 block w-full rounded-xl border border-white/10 bg-ink-800 px-3 py-2.5 text-sm text-paper focus:border-mint/50 focus:outline-none focus:ring-2 focus:ring-mint/30 sm:mt-0 sm:ml-2 sm:inline-block sm:w-56"
-                    >
-                      <option value="__all__">All topics ({items.length})</option>
-                      {topics.map((t) => (
-                        <option key={t} value={t}>
-                          {t}
-                        </option>
-                      ))}
-                    </select>
-                  </label>
+                <div className="grid grid-cols-1 gap-3 sm:grid-cols-[minmax(0,1fr)_auto] sm:items-center">
+                  <SearchableTopicSelect
+                    topics={topics}
+                    value={quizTopic}
+                    onChangeHandler={onQuizTopicSelectChangeHandler}
+                    totalEntryCount={items.length}
+                    accessibilityLabel="Filter quiz by topic"
+                  />
                   <div
-                    className="inline-flex rounded-2xl border border-white/10 bg-ink-800/80 p-1"
+                    className="inline-flex w-full rounded-2xl border border-white/10 bg-ink-800/80 p-1 sm:w-auto"
                     role="group"
                     aria-label="Quiz direction"
                   >
                     <button
                       type="button"
                       onClick={onDirectionKoEnHandler}
-                      className={`rounded-xl px-4 py-2 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-mint ${
+                      className={`flex-1 rounded-xl px-4 py-2.5 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-mint sm:flex-none sm:py-2 ${
                         direction === "koToEn"
                           ? "bg-mint text-white"
                           : "text-paper/80 hover:bg-white/5"
@@ -159,7 +201,7 @@ const App = () => {
                     <button
                       type="button"
                       onClick={onDirectionEnKoHandler}
-                      className={`rounded-xl px-4 py-2 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-mint ${
+                      className={`flex-1 rounded-xl px-4 py-2.5 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-mint sm:flex-none sm:py-2 ${
                         direction === "enToKo"
                           ? "bg-mint text-white"
                           : "text-paper/80 hover:bg-white/5"
