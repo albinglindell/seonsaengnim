@@ -17,7 +17,7 @@ const App = () => {
   const { items, error } = useVocabulary();
   const quizLog = useQuizLog();
   const [tab, setTab] = useState<Tab>(() => "glossary");
-  const [quizTopic, setQuizTopic] = useState<string | null>(() => null);
+  const [selectedTopic, setSelectedTopic] = useState<string | null>(() => null);
   const [quizNumbersFilter, setQuizNumbersFilter] = useState<NumbersSystemFilter>(() => "all");
   const [direction, setDirection] = useState<QuizDirection>(() => "koToEn");
 
@@ -54,8 +54,8 @@ const App = () => {
     setDirection(() => "enToKo");
   };
 
-  const onQuizTopicSelectChangeHandler = (next: string | null) => {
-    setQuizTopic(() => next);
+  const onTopicSelectChangeHandler = (next: string | null) => {
+    setSelectedTopic(() => next);
     if (!isNumbersTopic(next)) {
       setQuizNumbersFilter(() => "all");
     }
@@ -161,7 +161,11 @@ const App = () => {
         ) : null}
         {items ? (
           tab === "glossary" ? (
-            <GlossaryBrowser items={items} />
+            <GlossaryBrowser
+              items={items}
+              topic={selectedTopic}
+              onTopicChangeHandler={onTopicSelectChangeHandler}
+            />
           ) : tab === "review" ? (
             <ReviewMistakes wrong={quizLog.wrong} />
           ) : tab === "correct" ? (
@@ -176,8 +180,8 @@ const App = () => {
                 <div className="grid grid-cols-1 gap-3 sm:grid-cols-[minmax(0,1fr)_auto] sm:items-center">
                   <SearchableTopicSelect
                     topics={topics}
-                    value={quizTopic}
-                    onChangeHandler={onQuizTopicSelectChangeHandler}
+                    value={selectedTopic}
+                    onChangeHandler={onTopicSelectChangeHandler}
                     totalEntryCount={items.length}
                     accessibilityLabel="Filter quiz by topic"
                   />
@@ -213,7 +217,7 @@ const App = () => {
                   </div>
                 </div>
               </div>
-              {isNumbersTopic(quizTopic) ? (
+              {isNumbersTopic(selectedTopic) ? (
                 <NumbersTopicInfobox
                   numbersFilter={quizNumbersFilter}
                   onNumbersFilterChangeHandler={onQuizNumbersFilterChangeHandler}
@@ -221,7 +225,7 @@ const App = () => {
               ) : null}
               <QuizSession
                 items={items}
-                topicFilter={quizTopic}
+                topicFilter={selectedTopic}
                 direction={direction}
                 numbersSystemFilter={quizNumbersFilter}
               />

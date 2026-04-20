@@ -304,42 +304,42 @@
 "topic": "family and friends",
 "en": "These are my...",
 "ko": "이들은 제 ... 이에요/예요.",
-"rom": "ideureun je ... ieyo/yeyo husband",
+"rom": "ideureun je ... ieyo/yeyo",
 "id": 43
 },
 {
 "topic": "family and friends",
 "en": "wife",
 "ko": "아내",
-"rom": "anae boyfriend",
+"rom": "anae",
 "id": 44
 },
 {
 "topic": "family and friends",
 "en": "girlfriend",
 "ko": "여자 친구",
-"rom": "yeoja chingu partner",
+"rom": "yeoja chingu",
 "id": 45
 },
 {
 "topic": "family and friends",
 "en": "fiancé/fiancée",
 "ko": "약혼자/약혼녀",
-"rom": "yakonja/yakonnyeo son",
+"rom": "yakonja/yakonnyeo",
 "id": 46
 },
 {
 "topic": "family and friends",
 "en": "daughter",
 "ko": "딸",
-"rom": "ttal parents",
+"rom": "ttal",
 "id": 47
 },
 {
 "topic": "family and friends",
 "en": "mother",
 "ko": "어머니",
-"rom": "eomeoni father",
+"rom": "eomeoni",
 "id": 48
 },
 {
@@ -367,91 +367,91 @@
 "topic": "family and friends",
 "en": "older sister",
 "ko": "누나/언니",
-"rom": "nuna/eonni grandfather",
+"rom": "nuna/eonni",
 "id": 52
 },
 {
 "topic": "family and friends",
 "en": "grandmother",
 "ko": "할머니",
-"rom": "halmeoni granddaughter",
+"rom": "halmeoni",
 "id": 53
 },
 {
 "topic": "family and friends",
 "en": "grandson",
 "ko": "손자",
-"rom": "sonja mother-in-law",
+"rom": "sonja",
 "id": 54
 },
 {
 "topic": "family and friends",
 "en": "(husband’s mother)",
 "ko": "시어머니",
-"rom": "sieomeoni mother-in-law",
+"rom": "sieomeoni",
 "id": 55
 },
 {
 "topic": "family and friends",
 "en": "(wife’s mother)",
 "ko": "장모님",
-"rom": "jangmonim father-in-law",
+"rom": "jangmonim",
 "id": 56
 },
 {
 "topic": "family and friends",
 "en": "(husband’s father)",
 "ko": "시아버지",
-"rom": "siabeoji father-in-law",
+"rom": "siabeoji",
 "id": 57
 },
 {
 "topic": "family and friends",
 "en": "(wife’s father)",
 "ko": "장인어른",
-"rom": "jangineoreun daughter-in-law",
+"rom": "jangineoreun",
 "id": 58
 },
 {
 "topic": "family and friends",
 "en": "son-in-law",
 "ko": "사위",
-"rom": "sawi stepmother",
+"rom": "sawi",
 "id": 59
 },
 {
 "topic": "family and friends",
 "en": "stepfather",
 "ko": "새아버지",
-"rom": "saeabeoji stepson",
+"rom": "saeabeoji",
 "id": 60
 },
 {
 "topic": "family and friends",
 "en": "stepdaughter",
 "ko": "의붓딸",
-"rom": "uibutttal nephew",
+"rom": "uibutttal",
 "id": 61
 },
 {
 "topic": "family and friends",
 "en": "niece",
 "ko": "조카딸",
-"rom": "jokattal cousin",
+"rom": "jokattal",
 "id": 62
 },
 {
 "topic": "family and friends",
 "en": "extended family",
 "ko": "대가족",
-"rom": "daegajok friend",
+"rom": "daegajok",
 "id": 63
 },
 {
 "topic": "family and friends",
 "en": "baby",
 "ko": "아기",
-"rom": "agi child",
+"rom": "agi",
 "id": 64
 },
 {
@@ -542,42 +542,42 @@
 "topic": "general health and wellbeing",
 "en": "happy",
 "ko": "행복해요",
-"rom": "haengbokaeyo excited",
+"rom": "haengbokaeyo",
 "id": 77
 },
 {
 "topic": "general health and wellbeing",
 "en": "surprised",
 "ko": "놀랐어요",
-"rom": "nollasseoyo annoyed",
+"rom": "nollasseoyo",
 "id": 78
 },
 {
 "topic": "general health and wellbeing",
 "en": "sad",
 "ko": "슬퍼요",
-"rom": "seulpeoyo worried",
+"rom": "seulpeoyo",
 "id": 79
 },
 {
 "topic": "general health and wellbeing",
 "en": "afraid",
 "ko": "무서워요",
-"rom": "museowoyo bored",
+"rom": "museowoyo",
 "id": 80
 },
 {
 "topic": "general health and wellbeing",
 "en": "well",
 "ko": "건강해요",
-"rom": "geonganghaeyo unwell",
+"rom": "geonganghaeyo",
 "id": 81
 },
 {
 "topic": "general health and wellbeing",
 "en": "better",
 "ko": "좋아졌어요",
-"rom": "joajyeosseoyo worse",
+"rom": "joajyeosseoyo",
 "id": 82
 },
 {
@@ -675,35 +675,35 @@
 "topic": "work",
 "en": "civil servant",
 "ko": "공무원",
-"rom": "gongmuwon cleaner",
+"rom": "gongmuwon",
 "id": 96
 },
 {
 "topic": "work",
 "en": "dentist",
 "ko": "치과 의사",
-"rom": "chigwa uisa doctor",
+"rom": "chigwa uisa",
 "id": 97
 },
 {
 "topic": "work",
 "en": "driver",
 "ko": "기사",
-"rom": "gisa electrician",
+"rom": "gisa",
 "id": 98
 },
 {
 "topic": "work",
 "en": "engineer",
 "ko": "기술자",
-"rom": "gisulja farmer",
+"rom": "gisulja",
 "id": 99
 },
 {
 "topic": "work",
 "en": "firefighter",
 "ko": "소방관",
-"rom": "sobanggwan fisherman",
+"rom": "sobanggwan",
 "id": 100
 },
 {
@@ -717,21 +717,21 @@
 "topic": "work",
 "en": "joiner",
 "ko": "소목장이",
-"rom": "somokjangi journalist",
+"rom": "somokjangi",
 "id": 102
 },
 {
 "topic": "work",
 "en": "lawyer",
 "ko": "변호사",
-"rom": "byeonhosa mechanic",
+"rom": "byeonhosa",
 "id": 103
 },
 {
 "topic": "work",
 "en": "nurse",
 "ko": "간호사",
-"rom": "ganhosa office worker",
+"rom": "ganhosa",
 "id": 104
 },
 {
@@ -745,84 +745,84 @@
 "topic": "work",
 "en": "police officer",
 "ko": "경찰관",
-"rom": "gyeongchalgwan sailor",
+"rom": "gyeongchalgwan",
 "id": 106
 },
 {
 "topic": "work",
 "en": "salesperson",
 "ko": "판매원",
-"rom": "panmaewon scientist",
+"rom": "panmaewon",
 "id": 107
 },
 {
 "topic": "work",
 "en": "soldier",
 "ko": "군인",
-"rom": "gunin teacher",
+"rom": "gunin",
 "id": 108
 },
 {
 "topic": "work",
 "en": "vet",
 "ko": "수의사",
-"rom": "suuisa waiter/waitress",
+"rom": "suuisa",
 "id": 109
 },
 {
 "topic": "work",
 "en": "I work at/in...",
 "ko": "... 에서 일해요.",
-"rom": "... eseo ilhaeyo business",
+"rom": "... eseo ilhaeyo",
 "id": 110
 },
 {
 "topic": "work",
 "en": "company",
 "ko": "회사",
-"rom": "hoesa factory",
+"rom": "hoesa",
 "id": 111
 },
 {
 "topic": "work",
 "en": "government",
 "ko": "정부",
-"rom": "jeongbu hospital",
+"rom": "jeongbu",
 "id": 112
 },
 {
 "topic": "work",
 "en": "hotel",
 "ko": "호텔",
-"rom": "hotel office",
+"rom": "hotel",
 "id": 113
 },
 {
 "topic": "work",
 "en": "restaurant",
 "ko": "식당",
-"rom": "sikdang school",
+"rom": "sikdang",
 "id": 114
 },
 {
 "topic": "work",
 "en": "shop",
 "ko": "가게",
-"rom": "gage morning",
+"rom": "gage",
 "id": 115
 },
 {
 "topic": "work",
 "en": "afternoon",
 "ko": "점심",
-"rom": "jeomsim evening",
+"rom": "jeomsim",
 "id": 116
 },
 {
 "topic": "work",
 "en": "night",
 "ko": "밤",
-"rom": "bam midday",
+"rom": "bam",
 "id": 117
 },
 {
@@ -927,14 +927,14 @@
 "topic": "work",
 "en": "early",
 "ko": "일찍",
-"rom": "iljjik late",
+"rom": "iljjik",
 "id": 132
 },
 {
 "topic": "work",
 "en": "soon",
 "ko": "곧",
-"rom": "got later",
+"rom": "got",
 "id": 133
 },
 {
@@ -1018,14 +1018,14 @@
 "topic": "days, months, and seasons",
 "en": "April",
 "ko": "사월",
-"rom": "sawol May",
+"rom": "sawol",
 "id": 145
 },
 {
 "topic": "days, months, and seasons",
 "en": "June",
 "ko": "유월",
-"rom": "yuwol July",
+"rom": "yuwol",
 "id": 146
 },
 {
@@ -1060,56 +1060,56 @@
 "topic": "days, months, and seasons",
 "en": "December",
 "ko": "십이월",
-"rom": "sibiwol day",
+"rom": "sibiwol",
 "id": 151
 },
 {
 "topic": "days, months, and seasons",
 "en": "weekend",
 "ko": "주말",
-"rom": "jumal week",
+"rom": "jumal",
 "id": 152
 },
 {
 "topic": "days, months, and seasons",
 "en": "fortnight",
 "ko": "보름",
-"rom": "boreum month",
+"rom": "boreum",
 "id": 153
 },
 {
 "topic": "days, months, and seasons",
 "en": "year",
 "ko": "년",
-"rom": "nyeon decade",
+"rom": "nyeon",
 "id": 154
 },
 {
 "topic": "days, months, and seasons",
 "en": "daily",
 "ko": "매일",
-"rom": "maeil weekly",
+"rom": "maeil",
 "id": 155
 },
 {
 "topic": "days, months, and seasons",
 "en": "fortnightly",
 "ko": "격주로",
-"rom": "gyeokjuro monthly",
+"rom": "gyeokjuro",
 "id": 156
 },
 {
 "topic": "days, months, and seasons",
 "en": "yearly",
 "ko": "매년",
-"rom": "maenyeon today",
+"rom": "maenyeon",
 "id": 157
 },
 {
 "topic": "days, months, and seasons",
 "en": "tonight",
 "ko": "오늘 밤",
-"rom": "oneul bam tomorrow",
+"rom": "oneul bam",
 "id": 158
 },
 {
@@ -1207,14 +1207,14 @@
 "topic": "days, months, and seasons",
 "en": "What is today’s date?",
 "ko": "오늘이 며칠이에요?",
-"rom": "oneuri myeochirieyo spring",
+"rom": "oneuri myeochirieyo",
 "id": 172
 },
 {
 "topic": "days, months, and seasons",
 "en": "summer",
 "ko": "여름",
-"rom": "yeoreum autumn",
+"rom": "yeoreum",
 "id": 173
 },
 {
@@ -1326,42 +1326,42 @@
 "topic": "weather",
 "en": "It is...",
 "ko": "날씨가...",
-"rom": "nalssiga... nice",
+"rom": "nalssiga...",
 "id": 189
 },
 {
 "topic": "weather",
 "en": "hot",
 "ko": "더워요",
-"rom": "deowoyo warm",
+"rom": "deowoyo",
 "id": 190
 },
 {
 "topic": "weather",
 "en": "cool",
 "ko": "선선해요",
-"rom": "seonseonhaeyo wet",
+"rom": "seonseonhaeyo",
 "id": 191
 },
 {
 "topic": "weather",
 "en": "humid",
 "ko": "습해요",
-"rom": "seupaeyo mild",
+"rom": "seupaeyo",
 "id": 192
 },
 {
 "topic": "weather",
 "en": "hail",
 "ko": "우박",
-"rom": "ubak ice",
+"rom": "ubak",
 "id": 193
 },
 {
 "topic": "weather",
 "en": "gale",
 "ko": "강풍",
-"rom": "gangpung thunder",
+"rom": "gangpung",
 "id": 194
 },
 {
@@ -1662,42 +1662,42 @@
 "topic": "transport",
 "en": "helicopter",
 "ko": "헬리콥터",
-"rom": "hellikopteo rotor",
+"rom": "hellikopteo",
 "id": 237
 },
 {
 "topic": "transport",
 "en": "blade",
 "ko": "회전 날개",
-"rom": "hoejeon nalgae nose",
+"rom": "hoejeon nalgae",
 "id": 238
 },
 {
 "topic": "transport",
 "en": "cockpit",
 "ko": "조종석",
-"rom": "jojongseok tail",
+"rom": "jojongseok",
 "id": 239
 },
 {
 "topic": "transport",
 "en": "street",
 "ko": "길",
-"rom": "gil commuter",
+"rom": "gil",
 "id": 240
 },
 {
 "topic": "transport",
 "en": "driver",
 "ko": "운전자",
-"rom": "unjeonja passenger",
+"rom": "unjeonja",
 "id": 241
 },
 {
 "topic": "transport",
 "en": "pedestrian",
 "ko": "보행자",
-"rom": "bohaengja traffic",
+"rom": "bohaengja",
 "id": 242
 },
 {
@@ -1718,14 +1718,14 @@
 "topic": "transport",
 "en": "public transport",
 "ko": "대중교통",
-"rom": "daejunggyotong taxi",
+"rom": "daejunggyotong",
 "id": 245
 },
 {
 "topic": "transport",
 "en": "taxi rank",
 "ko": "택시 승차장",
-"rom": "taeksi seungchajang directions",
+"rom": "taeksi seungchajang",
 "id": 246
 },
 {
@@ -1767,21 +1767,21 @@
 "topic": "transport",
 "en": "to take a taxi",
 "ko": "택시를 타다",
-"rom": "taeksireul tada map",
+"rom": "taeksireul tada",
 "id": 252
 },
 {
 "topic": "transport",
 "en": "road sign",
 "ko": "표지판",
-"rom": "pyojipan timetable",
+"rom": "pyojipan",
 "id": 253
 },
 {
 "topic": "car",
 "en": "people carrier",
 "ko": "승합차",
-"rom": "seunghapcha caravan",
+"rom": "seunghapcha",
 "id": 254
 },
 {
@@ -1816,35 +1816,35 @@
 "topic": "car",
 "en": "child seat",
 "ko": "카시트",
-"rom": "kasiteu sunroof",
+"rom": "kasiteu",
 "id": 259
 },
 {
 "topic": "car",
 "en": "engine",
 "ko": "엔진",
-"rom": "enjin automatic",
+"rom": "enjin",
 "id": 260
 },
 {
 "topic": "car",
 "en": "electric",
 "ko": "전기",
-"rom": "jeongi hybrid",
+"rom": "jeongi",
 "id": 261
 },
 {
 "topic": "car",
 "en": "battery",
 "ko": "배터리",
-"rom": "baeteori brake",
+"rom": "baeteori",
 "id": 262
 },
 {
 "topic": "car",
 "en": "accelerator",
 "ko": "액셀",
-"rom": "aeksel air conditioning",
+"rom": "aeksel",
 "id": 263
 },
 {
@@ -1865,14 +1865,14 @@
 "topic": "car",
 "en": "fuel tank",
 "ko": "연료 탱크",
-"rom": "yeollyo taengkeu gearbox",
+"rom": "yeollyo taengkeu",
 "id": 266
 },
 {
 "topic": "car",
 "en": "Breathalyser®",
 "ko": "음주 측정기",
-"rom": "eumju cheukjeonggi transmission",
+"rom": "eumju cheukjeonggi",
 "id": 267
 },
 {
@@ -1928,28 +1928,28 @@
 "topic": "car",
 "en": "to stop",
 "ko": "멈추다",
-"rom": "meomchuda interior dashboard",
+"rom": "meomchuda",
 "id": 275
 },
 {
 "topic": "car",
 "en": "fuel gauge",
 "ko": "연료계",
-"rom": "yeollyogye gearstick",
+"rom": "yeollyogye",
 "id": 276
 },
 {
 "topic": "car",
 "en": "glove compartment",
 "ko": "글로브박스",
-"rom": "geullobeubakseu handbrake",
+"rom": "geullobeubakseu",
 "id": 277
 },
 {
 "topic": "car",
 "en": "headrest",
 "ko": "머리 받침대",
-"rom": "meori batchimdae ignition",
+"rom": "meori batchimdae",
 "id": 278
 },
 {
@@ -1963,7 +1963,7 @@
 "topic": "car",
 "en": "sat nav",
 "ko": "내비게이션",
-"rom": "naebigeisyeon seatbelt",
+"rom": "naebigeisyeon",
 "id": 280
 },
 {
@@ -1977,42 +1977,42 @@
 "topic": "car",
 "en": "steering wheel",
 "ko": "핸들",
-"rom": "haendeul exterior wheel",
+"rom": "haendeul",
 "id": 282
 },
 {
 "topic": "car",
 "en": "boot",
 "ko": "트렁크",
-"rom": "teureongkeu roof",
+"rom": "teureongkeu",
 "id": 283
 },
 {
 "topic": "car",
 "en": "door",
 "ko": "문",
-"rom": "mun window",
+"rom": "mun",
 "id": 284
 },
 {
 "topic": "car",
 "en": "wing",
 "ko": "펜더",
-"rom": "pendeo tyre",
+"rom": "pendeo",
 "id": 285
 },
 {
 "topic": "car",
 "en": "number plate",
 "ko": "번호판",
-"rom": "beonhopan bumper",
+"rom": "beonhopan",
 "id": 286
 },
 {
 "topic": "car",
 "en": "bonnet",
 "ko": "보닛",
-"rom": "bonit windscreen",
+"rom": "bonit",
 "id": 287
 },
 {
@@ -2026,14 +2026,14 @@
 "topic": "car",
 "en": "wing mirror",
 "ko": "사이드 미러",
-"rom": "saideu mireo headlight",
+"rom": "saideu mireo",
 "id": 289
 },
 {
 "topic": "car",
 "en": "indicator",
 "ko": "방향 지시등",
-"rom": "banghyang jisideung corner",
+"rom": "banghyang jisideung",
 "id": 290
 },
 {
@@ -2047,7 +2047,7 @@
 "topic": "car",
 "en": "slip road",
 "ko": "진입로",
-"rom": "jinimno layby",
+"rom": "jinimno",
 "id": 292
 },
 {
@@ -2061,7 +2061,7 @@
 "topic": "car",
 "en": "diversion",
 "ko": "우회로",
-"rom": "uhoero roadworks",
+"rom": "uhoero",
 "id": 294
 },
 {
@@ -2075,28 +2075,28 @@
 "topic": "car",
 "en": "driving licence",
 "ko": "운전면허증",
-"rom": "unjeonmyeonheojeung car registration document",
+"rom": "unjeonmyeonheojeung",
 "id": 296
 },
 {
 "topic": "car",
 "en": "car insurance",
 "ko": "자동차 보험",
-"rom": "jadongcha boheom car hire/rental",
+"rom": "jadongcha boheom",
 "id": 297
 },
 {
 "topic": "car",
 "en": "unleaded petrol",
 "ko": "무연 휘발유",
-"rom": "muyeon hwiballyu diesel",
+"rom": "muyeon hwiballyu",
 "id": 298
 },
 {
 "topic": "car",
 "en": "charging point",
 "ko": "충전소",
-"rom": "chungjeonso bridge",
+"rom": "chungjeonso",
 "id": 299
 },
 {
@@ -2117,7 +2117,7 @@
 "topic": "car",
 "en": "fuel pump",
 "ko": "주유기",
-"rom": "juyugi junction",
+"rom": "juyugi",
 "id": 302
 },
 {
@@ -2131,7 +2131,7 @@
 "topic": "driving",
 "en": "accident",
 "ko": "사고",
-"rom": "sago breakdown",
+"rom": "sago",
 "id": 304
 },
 {
@@ -2145,7 +2145,7 @@
 "topic": "driving",
 "en": "flat tyre",
 "ko": "타이어 펑크",
-"rom": "taieo peongkeu mechanic",
+"rom": "taieo peongkeu",
 "id": 306
 },
 {
@@ -2180,7 +2180,7 @@
 "topic": "car trouble",
 "en": "lane",
 "ko": "차선",
-"rom": "chaseon motorway",
+"rom": "chaseon",
 "id": 311
 },
 {
@@ -2201,7 +2201,7 @@
 "topic": "car trouble",
 "en": "petrol station",
 "ko": "주유소",
-"rom": "juyuso pothole",
+"rom": "juyuso",
 "id": 314
 },
 {
@@ -2250,7 +2250,7 @@
 "topic": "car trouble",
 "en": "traffic warden",
 "ko": "주차 단속원",
-"rom": "jucha dansogwon tunnel",
+"rom": "jucha dansogwon",
 "id": 321
 },
 {
@@ -2278,14 +2278,14 @@
 "topic": "car trouble",
 "en": "to repair",
 "ko": "수리하다",
-"rom": "surihada general airbag",
+"rom": "surihada",
 "id": 325
 },
 {
 "topic": "car trouble",
 "en": "antifreeze",
 "ko": "부동액",
-"rom": "budongaek garage",
+"rom": "budongaek",
 "id": 326
 },
 {
@@ -2355,7 +2355,7 @@
 "topic": "car trouble",
 "en": "bus stop",
 "ko": "버스 정류장",
-"rom": "beoseu jeongnyujang fare",
+"rom": "beoseu jeongnyujang",
 "id": 336
 },
 {
@@ -2383,21 +2383,21 @@
 "topic": "car trouble",
 "en": "to catch the bus",
 "ko": "버스를 잡아타다",
-"rom": "beoseureul jabatada bus",
+"rom": "beoseureul jabatada",
 "id": 340
 },
 {
 "topic": "car trouble",
 "en": "coach",
 "ko": "대형 버스",
-"rom": "daehyeong beoseu minibus",
+"rom": "daehyeong beoseu",
 "id": 341
 },
 {
 "topic": "motorbike",
 "en": "motorcyclist",
 "ko": "오토바이를 타는 사람",
-"rom": "otobaireul taneun saram moped",
+"rom": "otobaireul taneun saram",
 "id": 342
 },
 {
@@ -2411,14 +2411,14 @@
 "topic": "motorbike",
 "en": "fuel tank",
 "ko": "연료 탱크",
-"rom": "yeollyo taengkeu handlebars",
+"rom": "yeollyo taengkeu",
 "id": 344
 },
 {
 "topic": "motorbike",
 "en": "headlight",
 "ko": "전조등",
-"rom": "jeonjodeung mudguard",
+"rom": "jeonjodeung",
 "id": 345
 },
 {
@@ -2432,7 +2432,7 @@
 "topic": "motorbike",
 "en": "exhaust pipe",
 "ko": "배기관",
-"rom": "baegigwan boots",
+"rom": "baegigwan",
 "id": 347
 },
 {
@@ -2460,7 +2460,7 @@
 "topic": "motorbike",
 "en": "leather jacket",
 "ko": "가죽점퍼",
-"rom": "gajukjeompeo motorbike",
+"rom": "gajukjeompeo",
 "id": 351
 },
 {
@@ -2481,7 +2481,7 @@
 "topic": "motorbike",
 "en": "road bike",
 "ko": "로드 바이크",
-"rom": "rodeu baikeu rental/hire",
+"rom": "rodeu baikeu",
 "id": 354
 },
 {
@@ -2516,7 +2516,7 @@
 "topic": "bicycle",
 "en": "to cycle",
 "ko": "자전거를 타다",
-"rom": "jajeongeoreul tada accessories bell",
+"rom": "jajeongeoreul tada",
 "id": 359
 },
 {
@@ -2530,49 +2530,49 @@
 "topic": "bicycle",
 "en": "front light",
 "ko": "전조등",
-"rom": "jeonjodeung helmet",
+"rom": "jeonjodeung",
 "id": 361
 },
 {
 "topic": "bicycle",
 "en": "pump",
 "ko": "공기 펌프",
-"rom": "gonggi peompeu reflector",
+"rom": "gonggi peompeu",
 "id": 362
 },
 {
 "topic": "bicycle",
 "en": "pedal",
 "ko": "페달",
-"rom": "pedal chain",
+"rom": "pedal",
 "id": 363
 },
 {
 "topic": "bicycle",
 "en": "brake",
 "ko": "브레이크",
-"rom": "beureikeu handlebars",
+"rom": "beureikeu",
 "id": 364
 },
 {
 "topic": "bicycle",
 "en": "gears",
 "ko": "기어",
-"rom": "gieo crossbar",
+"rom": "gieo",
 "id": 365
 },
 {
 "topic": "bicycle",
 "en": "saddle",
 "ko": "안장",
-"rom": "anjang frame",
+"rom": "anjang",
 "id": 366
 },
 {
 "topic": "bicycle",
 "en": "wheel",
 "ko": "바퀴",
-"rom": "bakwi tyre",
+"rom": "bakwi",
 "id": 367
 },
 {
@@ -2586,21 +2586,21 @@
 "topic": "rail travel",
 "en": "freight train",
 "ko": "화물 열차",
-"rom": "hwamul yeolcha coach",
+"rom": "hwamul yeolcha",
 "id": 369
 },
 {
 "topic": "rail travel",
 "en": "porter",
 "ko": "철도 승무원",
-"rom": "cheoldo seungmuwon guard",
+"rom": "cheoldo seungmuwon",
 "id": 370
 },
 {
 "topic": "rail travel",
 "en": "line",
 "ko": "선로",
-"rom": "seollo metro station",
+"rom": "seollo",
 "id": 371
 },
 {
@@ -2614,7 +2614,7 @@
 "topic": "rail travel",
 "en": "single ticket",
 "ko": "편도표",
-"rom": "pyeondopyo first-class",
+"rom": "pyeondopyo",
 "id": 373
 },
 {
@@ -2628,7 +2628,7 @@
 "topic": "rail travel",
 "en": "to change trains",
 "ko": "기차를 환승하다",
-"rom": "gichareul hwanseunghada carriage",
+"rom": "gichareul hwanseunghada",
 "id": 375
 },
 {
@@ -2642,35 +2642,35 @@
 "topic": "rail travel",
 "en": "departure board",
 "ko": "출발 안내 전광판",
-"rom": "chulbal annae jeongwangpan KTX",
+"rom": "chulbal annae jeongwangpan",
 "id": 377
 },
 {
 "topic": "rail travel",
 "en": "light railway",
 "ko": "경전철",
-"rom": "gyeongjeoncheol locomotive",
+"rom": "gyeongjeoncheol",
 "id": 378
 },
 {
 "topic": "rail travel",
 "en": "luggage rack",
 "ko": "선반",
-"rom": "seonban metro",
+"rom": "seonban",
 "id": 379
 },
 {
 "topic": "rail travel",
 "en": "platform",
 "ko": "승강장",
-"rom": "seunggangjang restaurant car",
+"rom": "seunggangjang",
 "id": 380
 },
 {
 "topic": "rail travel",
 "en": "signal box",
 "ko": "신호소",
-"rom": "sinhoso ticket",
+"rom": "sinhoso",
 "id": 381
 },
 {
@@ -2691,7 +2691,7 @@
 "topic": "rail travel",
 "en": "ticket office",
 "ko": "매표소",
-"rom": "maepyoso track",
+"rom": "maepyoso",
 "id": 384
 },
 {
@@ -2705,7 +2705,7 @@
 "topic": "rail travel",
 "en": "train station",
 "ko": "기차역",
-"rom": "gichayeok airline",
+"rom": "gichayeok",
 "id": 386
 },
 {
@@ -2719,14 +2719,14 @@
 "topic": "rail travel",
 "en": "Arrivals/Departures",
 "ko": "도착/출발",
-"rom": "dochak/chulbal security",
+"rom": "dochak/chulbal",
 "id": 388
 },
 {
 "topic": "rail travel",
 "en": "passport control",
 "ko": "출입국 심사대",
-"rom": "churipguk simsadae customs",
+"rom": "churipguk simsadae",
 "id": 389
 },
 {
@@ -2747,7 +2747,7 @@
 "topic": "rail travel",
 "en": "economy class",
 "ko": "이코노미 클래스",
-"rom": "ikonomi keullaeseu aisle",
+"rom": "ikonomi keullaeseu",
 "id": 392
 },
 {
@@ -2768,14 +2768,14 @@
 "topic": "rail travel",
 "en": "overhead locker",
 "ko": "좌석 위 선반",
-"rom": "jwaseok wi seonban wing",
+"rom": "jwaseok wi seonban",
 "id": 395
 },
 {
 "topic": "rail travel",
 "en": "fuselage",
 "ko": "기체",
-"rom": "giche engine",
+"rom": "giche",
 "id": 396
 },
 {
@@ -2817,7 +2817,7 @@
 "topic": "rail travel",
 "en": "connecting flight",
 "ko": "연결 항공편",
-"rom": "yeongyeol hanggongpyeon jetlag",
+"rom": "yeongyeol hanggongpyeon",
 "id": 402
 },
 {
@@ -2831,7 +2831,7 @@
 "topic": "rail travel",
 "en": "aeroplane",
 "ko": "항공기",
-"rom": "hanggonggi airport",
+"rom": "hanggonggi",
 "id": 404
 },
 {
@@ -2845,21 +2845,21 @@
 "topic": "rail travel",
 "en": "boarding card",
 "ko": "탑승권",
-"rom": "tapseunggwon cabin",
+"rom": "tapseunggwon",
 "id": 406
 },
 {
 "topic": "rail travel",
 "en": "check-in desk",
 "ko": "탑승 수속 창구",
-"rom": "tapseung susok changgu cockpit",
+"rom": "tapseung susok changgu",
 "id": 407
 },
 {
 "topic": "rail travel",
 "en": "duty-free shop",
 "ko": "면세점",
-"rom": "myeonsejeom holdall",
+"rom": "myeonsejeom",
 "id": 408
 },
 {
@@ -2873,21 +2873,21 @@
 "topic": "rail travel",
 "en": "luggage trolley",
 "ko": "수하물 카트",
-"rom": "suhamul kateu passport",
+"rom": "suhamul kateu",
 "id": 410
 },
 {
 "topic": "rail travel",
 "en": "pilot",
 "ko": "조종사",
-"rom": "jojongsa runway",
+"rom": "jojongsa",
 "id": 411
 },
 {
 "topic": "rail travel",
 "en": "suitcase",
 "ko": "여행 가방",
-"rom": "yeohaeng gabang terminal",
+"rom": "yeohaeng gabang",
 "id": 412
 },
 {
@@ -2915,21 +2915,21 @@
 "topic": "ferry and boat travel",
 "en": "car deck",
 "ko": "차량용 갑판",
-"rom": "charyangyong gappan harbour",
+"rom": "charyangyong gappan",
 "id": 416
 },
 {
 "topic": "ferry and boat travel",
 "en": "port",
 "ko": "항구",
-"rom": "hanggu coastguard",
+"rom": "hanggu",
 "id": 417
 },
 {
 "topic": "ferry and boat travel",
 "en": "captain",
 "ko": "선장",
-"rom": "seonjang crew",
+"rom": "seonjang",
 "id": 418
 },
 {
@@ -2950,42 +2950,42 @@
 "topic": "ferry and boat travel",
 "en": "to dock",
 "ko": "부두에 대다",
-"rom": "budue daeda general anchor",
+"rom": "budue daeda",
 "id": 421
 },
 {
 "topic": "ferry and boat travel",
 "en": "buoy",
 "ko": "부표",
-"rom": "bupyo gangway",
+"rom": "bupyo",
 "id": 422
 },
 {
 "topic": "ferry and boat travel",
 "en": "jetty",
 "ko": "선창",
-"rom": "seonchang lifebuoy",
+"rom": "seonchang",
 "id": 423
 },
 {
 "topic": "ferry and boat travel",
 "en": "lifejacket",
 "ko": "구명조끼",
-"rom": "gumyeongjokki ferry stern",
+"rom": "gumyeongjokki",
 "id": 424
 },
 {
 "topic": "ferry and boat travel",
 "en": "deck",
 "ko": "갑판",
-"rom": "gappan lifeboat",
+"rom": "gappan",
 "id": 425
 },
 {
 "topic": "ferry and boat travel",
 "en": "porthole",
 "ko": "현창",
-"rom": "hyeonchang radar",
+"rom": "hyeonchang",
 "id": 426
 },
 {
@@ -2999,7 +2999,7 @@
 "topic": "ferry and boat travel",
 "en": "canal boat",
 "ko": "운하선",
-"rom": "unhaseon inflatable dinghy",
+"rom": "unhaseon",
 "id": 428
 },
 {
@@ -3013,7 +3013,7 @@
 "topic": "ferry and boat travel",
 "en": "sailing boat",
 "ko": "돛단배",
-"rom": "dotdanbae trawler",
+"rom": "dotdanbae",
 "id": 430
 },
 {
@@ -3027,21 +3027,21 @@
 "topic": "ferry and boat travel",
 "en": "block of flats",
 "ko": "아파트",
-"rom": "apateu roof",
+"rom": "apateu",
 "id": 432
 },
 {
 "topic": "ferry and boat travel",
 "en": "window",
 "ko": "창문",
-"rom": "changmun balcony",
+"rom": "changmun",
 "id": 433
 },
 {
 "topic": "ferry and boat travel",
 "en": "building",
 "ko": "건물",
-"rom": "geonmul address",
+"rom": "geonmul",
 "id": 434
 },
 {
@@ -3055,21 +3055,21 @@
 "topic": "ferry and boat travel",
 "en": "estate agent",
 "ko": "부동산 중개인",
-"rom": "budongsan junggaein landlord/landlady",
+"rom": "budongsan junggaein",
 "id": 436
 },
 {
 "topic": "ferry and boat travel",
 "en": "tenant",
 "ko": "세입자",
-"rom": "seibja neighbour",
+"rom": "seibja",
 "id": 437
 },
 {
 "topic": "ferry and boat travel",
 "en": "mortgage",
 "ko": "주택 담보 대출",
-"rom": "jutaek dambo daechul rent",
+"rom": "jutaek dambo daechul",
 "id": 438
 },
 {
@@ -3090,7 +3090,7 @@
 "topic": "ferry and boat travel",
 "en": "to move house",
 "ko": "이사하다",
-"rom": "isahada bungalow",
+"rom": "isahada",
 "id": 441
 },
 {
@@ -3118,42 +3118,42 @@
 "topic": "ferry and boat travel",
 "en": "studio flat",
 "ko": "원룸",
-"rom": "wollum villa",
+"rom": "wollum",
 "id": 445
 },
 {
 "topic": "the house",
 "en": "room",
 "ko": "방",
-"rom": "bang ceiling",
+"rom": "bang",
 "id": 446
 },
 {
 "topic": "the house",
 "en": "wall",
 "ko": "벽",
-"rom": "byeok floor",
+"rom": "byeok",
 "id": 447
 },
 {
 "topic": "the house",
 "en": "battery",
 "ko": "건전지",
-"rom": "geonjeonji plug",
+"rom": "geonjeonji",
 "id": 448
 },
 {
 "topic": "the house",
 "en": "adaptor",
 "ko": "어댑터",
-"rom": "eodaepteo socket",
+"rom": "eodaepteo",
 "id": 449
 },
 {
 "topic": "the house",
 "en": "extension cable",
 "ko": "멀티탭",
-"rom": "meoltitaep electricity",
+"rom": "meoltitaep",
 "id": 450
 },
 {
@@ -3181,7 +3181,7 @@
 "topic": "the house",
 "en": "back door",
 "ko": "뒷문",
-"rom": "dwinmun skylight",
+"rom": "dwinmun",
 "id": 454
 },
 {
@@ -3202,21 +3202,21 @@
 "topic": "the house",
 "en": "to decorate",
 "ko": "꾸미다",
-"rom": "kkumida inside boiler",
+"rom": "kkumida",
 "id": 457
 },
 {
 "topic": "the house",
 "en": "ceiling fan",
 "ko": "천장 선풍기",
-"rom": "cheonjang seonpunggi fusebox",
+"rom": "cheonjang seonpunggi",
 "id": 458
 },
 {
 "topic": "the house",
 "en": "heater",
 "ko": "난방기",
-"rom": "nanbanggi meter",
+"rom": "nanbanggi",
 "id": 459
 },
 {
@@ -3237,28 +3237,28 @@
 "topic": "the house",
 "en": "smoke alarm",
 "ko": "화재경보기",
-"rom": "hwajaegyeongbogi thermostat",
+"rom": "hwajaegyeongbogi",
 "id": 462
 },
 {
 "topic": "the house",
 "en": "chimney",
 "ko": "굴뚝",
-"rom": "gulttuk aerial",
+"rom": "gulttuk",
 "id": 463
 },
 {
 "topic": "the house",
 "en": "gutter",
 "ko": "홈통",
-"rom": "homtong drainpipe",
+"rom": "homtong",
 "id": 464
 },
 {
 "topic": "the house",
 "en": "roof",
 "ko": "지붕",
-"rom": "jibung window",
+"rom": "jibung",
 "id": 465
 },
 {
@@ -3272,14 +3272,14 @@
 "topic": "the house",
 "en": "front door",
 "ko": "현관문",
-"rom": "hyeongwanmun garage",
+"rom": "hyeongwanmun",
 "id": 467
 },
 {
 "topic": "the house",
 "en": "threshold/doorway",
 "ko": "문지방",
-"rom": "munjibang corridor",
+"rom": "munjibang",
 "id": 468
 },
 {
@@ -3300,14 +3300,14 @@
 "topic": "the house",
 "en": "console table",
 "ko": "장식용 탁자",
-"rom": "jangsigyong takja landing",
+"rom": "jangsigyong takja",
 "id": 471
 },
 {
 "topic": "the house",
 "en": "staircase",
 "ko": "계단",
-"rom": "gyedan banister",
+"rom": "gyedan",
 "id": 472
 },
 {
@@ -3335,63 +3335,63 @@
 "topic": "the house",
 "en": "to hang one’s jacket up",
 "ko": "겉옷을 걸다",
-"rom": "geodoseul geolda doorbell",
+"rom": "geodoseul geolda",
 "id": 476
 },
 {
 "topic": "the house",
 "en": "door handle",
 "ko": "손잡이",
-"rom": "sonjabi doormat",
+"rom": "sonjabi",
 "id": 477
 },
 {
 "topic": "the house",
 "en": "intercom",
 "ko": "인터폰",
-"rom": "inteopon key",
+"rom": "inteopon",
 "id": 478
 },
 {
 "topic": "the house",
 "en": "key fob",
 "ko": "열쇠고리",
-"rom": "yeolsoegori lift",
+"rom": "yeolsoegori",
 "id": 479
 },
 {
 "topic": "the house",
 "en": "shoe cupboard",
 "ko": "신발장",
-"rom": "sinbaljang stairwell",
+"rom": "sinbaljang",
 "id": 480
 },
 {
 "topic": "the house",
 "en": "vinyl flooring",
 "ko": "비닐 바닥재",
-"rom": "binil badakjae underfloor heating",
+"rom": "binil badakjae",
 "id": 481
 },
 {
 "topic": "the house",
 "en": "sofa bed",
 "ko": "소파베드",
-"rom": "sopabedeu suite",
+"rom": "sopabedeu",
 "id": 482
 },
 {
 "topic": "the house",
 "en": "armchair",
 "ko": "안락의자",
-"rom": "allaguija footstool",
+"rom": "allaguija",
 "id": 483
 },
 {
 "topic": "the house",
 "en": "coffee table",
 "ko": "탁자",
-"rom": "takja ornament",
+"rom": "takja",
 "id": 484
 },
 {
@@ -3405,7 +3405,7 @@
 "topic": "the house",
 "en": "table lamp",
 "ko": "탁상등",
-"rom": "taksangdeung radio",
+"rom": "taksangdeung",
 "id": 486
 },
 {
@@ -3433,7 +3433,7 @@
 "topic": "the house",
 "en": "to watch TV",
 "ko": "티브이 보다",
-"rom": "tibeui boda general bookcase",
+"rom": "tibeui boda",
 "id": 490
 },
 {
@@ -3510,14 +3510,14 @@
 "topic": "the lounge",
 "en": "to wash up",
 "ko": "설거지하다",
-"rom": "seolgeojihada miscellaneous items",
+"rom": "seolgeojihada",
 "id": 501
 },
 {
 "topic": "the lounge",
 "en": "aluminium foil",
 "ko": "포일",
-"rom": "poil clingfilm",
+"rom": "poil",
 "id": 502
 },
 {
@@ -3545,21 +3545,21 @@
 "topic": "the kitchen",
 "en": "Venetian blind",
 "ko": "블라인드",
-"rom": "beullaindeu lounge picture",
+"rom": "beullaindeu",
 "id": 506
 },
 {
 "topic": "the kitchen",
 "en": "cushion",
 "ko": "쿠션",
-"rom": "kusyeon wooden floor",
+"rom": "kusyeon",
 "id": 507
 },
 {
 "topic": "the kitchen",
 "en": "sofa",
 "ko": "소파",
-"rom": "sopa rug",
+"rom": "sopa",
 "id": 508
 },
 {
@@ -3580,7 +3580,7 @@
 "topic": "the kitchen",
 "en": "chopping board",
 "ko": "도마",
-"rom": "doma colander",
+"rom": "doma",
 "id": 511
 },
 {
@@ -3601,14 +3601,14 @@
 "topic": "the kitchen",
 "en": "food processor",
 "ko": "푸드 프로세서",
-"rom": "pudeu peuroseseo frying pan",
+"rom": "pudeu peuroseseo",
 "id": 514
 },
 {
 "topic": "the kitchen",
 "en": "grater",
 "ko": "강판",
-"rom": "gangpan kettle",
+"rom": "gangpan",
 "id": 515
 },
 {
@@ -3622,7 +3622,7 @@
 "topic": "the kitchen",
 "en": "kitchen scales",
 "ko": "주방용 저울",
-"rom": "jubangyong jeoul ladle",
+"rom": "jubangyong jeoul",
 "id": 517
 },
 {
@@ -3657,35 +3657,35 @@
 "topic": "the kitchen",
 "en": "rolling pin",
 "ko": "밀대",
-"rom": "mildae saucepan",
+"rom": "mildae",
 "id": 522
 },
 {
 "topic": "the kitchen",
 "en": "sieve",
 "ko": "체",
-"rom": "che spatula",
+"rom": "che",
 "id": 523
 },
 {
 "topic": "the kitchen",
 "en": "steamer",
 "ko": "찜기",
-"rom": "jjimgi teapot",
+"rom": "jjimgi",
 "id": 524
 },
 {
 "topic": "the kitchen",
 "en": "tin opener",
 "ko": "통조림 따개",
-"rom": "tongjorim ttagae toaster",
+"rom": "tongjorim ttagae",
 "id": 525
 },
 {
 "topic": "the kitchen",
 "en": "water cooler",
 "ko": "정수기",
-"rom": "jeongsugi whisk",
+"rom": "jeongsugi",
 "id": 526
 },
 {
@@ -3699,7 +3699,7 @@
 "topic": "the kitchen",
 "en": "dining table",
 "ko": "식탁",
-"rom": "siktak sideboard",
+"rom": "siktak",
 "id": 528
 },
 {
@@ -3727,7 +3727,7 @@
 "topic": "the kitchen",
 "en": "to clear the table",
 "ko": "밥상을 치우다",
-"rom": "bapsangeul chiuda general",
+"rom": "bapsangeul chiuda",
 "id": 532
 },
 {
@@ -3741,14 +3741,14 @@
 "topic": "the kitchen",
 "en": "Korean teacup",
 "ko": "찻잔",
-"rom": "chatjan mug",
+"rom": "chatjan",
 "id": 534
 },
 {
 "topic": "the kitchen",
 "en": "napkin",
 "ko": "냅킨",
-"rom": "naepkin plate",
+"rom": "naepkin",
 "id": 535
 },
 {
@@ -3762,42 +3762,42 @@
 "topic": "the dining room",
 "en": "sink",
 "ko": "싱크대",
-"rom": "singkeudae oven",
+"rom": "singkeudae",
 "id": 537
 },
 {
 "topic": "the dining room",
 "en": "hob",
 "ko": "화구",
-"rom": "hwagu microwave",
+"rom": "hwagu",
 "id": 538
 },
 {
 "topic": "the dining room",
 "en": "fridge-freezer",
 "ko": "냉장고",
-"rom": "naengjanggo tap",
+"rom": "naengjanggo",
 "id": 539
 },
 {
 "topic": "the dining room",
 "en": "draining board",
 "ko": "식기 건조대",
-"rom": "sikgi geonjodae cupboard",
+"rom": "sikgi geonjodae",
 "id": 540
 },
 {
 "topic": "the dining room",
 "en": "drawer",
 "ko": "서랍",
-"rom": "seorap worktop",
+"rom": "seorap",
 "id": 541
 },
 {
 "topic": "the dining room",
 "en": "tiles",
 "ko": "타일",
-"rom": "tail teaspoon",
+"rom": "tail",
 "id": 542
 },
 {
@@ -3825,7 +3825,7 @@
 "topic": "the dining room",
 "en": "soup bowl",
 "ko": "국그릇",
-"rom": "gukgeureut spoon",
+"rom": "gukgeureut",
 "id": 546
 },
 {
@@ -3867,7 +3867,7 @@
 "topic": "the dining room",
 "en": "spare room",
 "ko": "손님용 방",
-"rom": "sonnimyong bang nursery",
+"rom": "sonnimyong bang",
 "id": 552
 },
 {
@@ -3944,35 +3944,35 @@
 "topic": "the bedroom",
 "en": "laundry basket",
 "ko": "빨래바구니",
-"rom": "ppallaebaguni sheets",
+"rom": "ppallaebaguni",
 "id": 563
 },
 {
 "topic": "the bedroom",
 "en": "mirror",
 "ko": "거울",
-"rom": "geoul chest of drawers",
+"rom": "geoul",
 "id": 564
 },
 {
 "topic": "the bedroom",
 "en": "bed",
 "ko": "침대",
-"rom": "chimdae wardrobe",
+"rom": "chimdae",
 "id": 565
 },
 {
 "topic": "the bedroom",
 "en": "duvet",
 "ko": "이불",
-"rom": "ibul curtains",
+"rom": "ibul",
 "id": 566
 },
 {
 "topic": "the bedroom",
 "en": "bedside lamp",
 "ko": "침대조명",
-"rom": "chimdaejomyeong pillow",
+"rom": "chimdaejomyeong",
 "id": 567
 },
 {
@@ -3986,7 +3986,7 @@
 "topic": "the bedroom",
 "en": "bedside table",
 "ko": "협탁",
-"rom": "hyeoptak shower curtain",
+"rom": "hyeoptak",
 "id": 569
 },
 {
@@ -4028,21 +4028,21 @@
 "topic": "the bedroom",
 "en": "exfoliating glove",
 "ko": "때수건",
-"rom": "ttaesugeon hairdryer",
+"rom": "ttaesugeon",
 "id": 575
 },
 {
 "topic": "the bedroom",
 "en": "plastic slippers",
 "ko": "플라스틱 슬리퍼",
-"rom": "peullaseutik seullipeo shower puff",
+"rom": "peullaseutik seullipeo",
 "id": 576
 },
 {
 "topic": "the bedroom",
 "en": "soap",
 "ko": "비누",
-"rom": "binu sponge",
+"rom": "binu",
 "id": 577
 },
 {
@@ -4056,35 +4056,35 @@
 "topic": "the bedroom",
 "en": "toilet roll",
 "ko": "화장지",
-"rom": "hwajangji towel",
+"rom": "hwajangji",
 "id": 579
 },
 {
 "topic": "the bedroom",
 "en": "mirror",
 "ko": "거울",
-"rom": "geoul sink",
+"rom": "geoul",
 "id": 580
 },
 {
 "topic": "the bedroom",
 "en": "shower",
 "ko": "샤워기",
-"rom": "syawogi toilet",
+"rom": "syawogi",
 "id": 581
 },
 {
 "topic": "the bedroom",
 "en": "towel rail",
 "ko": "수건걸이",
-"rom": "sugeongeori tap",
+"rom": "sugeongeori",
 "id": 582
 },
 {
 "topic": "the bedroom",
 "en": "cabinet",
 "ko": "수납장",
-"rom": "sunapjang shower cubicle",
+"rom": "sunapjang",
 "id": 583
 },
 {
@@ -4098,14 +4098,14 @@
 "topic": "the balcony",
 "en": "flower",
 "ko": "꽃",
-"rom": "kkot weed",
+"rom": "kkot",
 "id": 585
 },
 {
 "topic": "the balcony",
 "en": "soil",
 "ko": "흙",
-"rom": "heuk bird",
+"rom": "heuk",
 "id": 586
 },
 {
@@ -4140,21 +4140,21 @@
 "topic": "the balcony",
 "en": "to plant",
 "ko": "심다",
-"rom": "simda balcony flowerpot stand",
+"rom": "simda",
 "id": 591
 },
 {
 "topic": "the balcony",
 "en": "shrub",
 "ko": "관목",
-"rom": "gwanmok flowerpot",
+"rom": "gwanmok",
 "id": 592
 },
 {
 "topic": "the balcony",
 "en": "plant",
 "ko": "화초",
-"rom": "hwacho decking",
+"rom": "hwacho",
 "id": 593
 },
 {
@@ -4168,7 +4168,7 @@
 "topic": "the balcony",
 "en": "gardening gloves",
 "ko": "원예용 장갑",
-"rom": "wonyeyong janggap trellis",
+"rom": "wonyeyong janggap",
 "id": 595
 },
 {
@@ -4182,7 +4182,7 @@
 "topic": "the balcony",
 "en": "watering can",
 "ko": "물뿌리개",
-"rom": "mulppurigae weedkiller",
+"rom": "mulppurigae",
 "id": 597
 },
 {
@@ -4196,21 +4196,21 @@
 "topic": "housework",
 "en": "utility room",
 "ko": "다용도실",
-"rom": "dayongdosil household appliances",
+"rom": "dayongdosil",
 "id": 599
 },
 {
 "topic": "housework",
 "en": "dustbin",
 "ko": "쓰레기통",
-"rom": "sseuregitong bleach",
+"rom": "sseuregitong",
 "id": 600
 },
 {
 "topic": "housework",
 "en": "disinfectant",
 "ko": "살균제",
-"rom": "salgyunje washing-up liquid",
+"rom": "salgyunje",
 "id": 601
 },
 {
@@ -4259,14 +4259,14 @@
 "topic": "housework",
 "en": "bin bag",
 "ko": "쓰레기봉투",
-"rom": "sseuregibongtu brush",
+"rom": "sseuregibongtu",
 "id": 608
 },
 {
 "topic": "housework",
 "en": "bucket",
 "ko": "양동이",
-"rom": "yangdongi cloth",
+"rom": "yangdongi",
 "id": 609
 },
 {
@@ -4280,7 +4280,7 @@
 "topic": "housework",
 "en": "clothes pegs",
 "ko": "빨래집게",
-"rom": "ppallaejipge dustpan",
+"rom": "ppallaejipge",
 "id": 611
 },
 {
@@ -4294,14 +4294,14 @@
 "topic": "housework",
 "en": "ironing board",
 "ko": "다리미판",
-"rom": "darimipan mop",
+"rom": "darimipan",
 "id": 613
 },
 {
 "topic": "housework",
 "en": "rubber gloves",
 "ko": "고무장갑",
-"rom": "gomujanggap scourer",
+"rom": "gomujanggap",
 "id": 614
 },
 {
@@ -4343,14 +4343,14 @@
 "topic": "housework",
 "en": "wastepaper basket",
 "ko": "휴지통",
-"rom": "hyujitong basket",
+"rom": "hyujitong",
 "id": 620
 },
 {
 "topic": "housework",
 "en": "banana",
 "ko": "바나나",
-"rom": "banana bread",
+"rom": "banana",
 "id": 621
 },
 {
@@ -4364,7 +4364,7 @@
 "topic": "the basics",
 "en": "shop",
 "ko": "상점",
-"rom": "sangjeom supermarket",
+"rom": "sangjeom",
 "id": 623
 },
 {
@@ -4378,35 +4378,35 @@
 "topic": "the basics",
 "en": "shopping centre",
 "ko": "쇼핑센터",
-"rom": "syopingsenteo market",
+"rom": "syopingsenteo",
 "id": 625
 },
 {
 "topic": "the basics",
 "en": "cash",
 "ko": "현금",
-"rom": "hyeongeum change",
+"rom": "hyeongeum",
 "id": 626
 },
 {
 "topic": "the basics",
 "en": "PIN",
 "ko": "비밀번호",
-"rom": "bimilbeonho checkout",
+"rom": "bimilbeonho",
 "id": 627
 },
 {
 "topic": "the basics",
 "en": "exchange",
 "ko": "교환",
-"rom": "gyohwan refund",
+"rom": "gyohwan",
 "id": 628
 },
 {
 "topic": "the basics",
 "en": "receipt",
 "ko": "영수증",
-"rom": "yeongsujeung voucher",
+"rom": "yeongsujeung",
 "id": 629
 },
 {
@@ -4462,7 +4462,7 @@
 "topic": "the basics",
 "en": "card reader",
 "ko": "카드 단말기",
-"rom": "kadeu danmalgi coins",
+"rom": "kadeu danmalgi",
 "id": 637
 },
 {
@@ -4490,77 +4490,77 @@
 "topic": "the basics",
 "en": "shop assistant",
 "ko": "상점 직원",
-"rom": "sangjeom jigwon aisle",
+"rom": "sangjeom jigwon",
 "id": 641
 },
 {
 "topic": "the basics",
 "en": "groceries",
 "ko": "식료품",
-"rom": "singnyopum delicatessen",
+"rom": "singnyopum",
 "id": 642
 },
 {
 "topic": "the basics",
 "en": "ready meal",
 "ko": "즉석식품",
-"rom": "jeukseoksikpum bottle/jar",
+"rom": "jeukseoksikpum",
 "id": 643
 },
 {
 "topic": "the basics",
 "en": "box",
 "ko": "상자",
-"rom": "sangja carton",
+"rom": "sangja",
 "id": 644
 },
 {
 "topic": "the basics",
 "en": "multipack",
 "ko": "멀티팩",
-"rom": "meoltipaek packet",
+"rom": "meoltipaek",
 "id": 645
 },
 {
 "topic": "the basics",
 "en": "tin",
 "ko": "통",
-"rom": "tong fresh",
+"rom": "tong",
 "id": 646
 },
 {
 "topic": "the basics",
 "en": "frozen",
 "ko": "냉동",
-"rom": "naengdong tinned",
+"rom": "naengdong",
 "id": 647
 },
 {
 "topic": "the basics",
 "en": "dairy",
 "ko": "유제품",
-"rom": "yujepum low-fat",
+"rom": "yujepum",
 "id": 648
 },
 {
 "topic": "the basics",
 "en": "low-calorie",
 "ko": "저칼로리",
-"rom": "jeokallori general basket",
+"rom": "jeokallori",
 "id": 649
 },
 {
 "topic": "the basics",
 "en": "scales",
 "ko": "저울",
-"rom": "jeoul trolley",
+"rom": "jeoul",
 "id": 650
 },
 {
 "topic": "the basics",
 "en": "biscuits",
 "ko": "과자",
-"rom": "gwaja honey",
+"rom": "gwaja",
 "id": 651
 },
 {
@@ -4574,7 +4574,7 @@
 "topic": "supermarket",
 "en": "jam",
 "ko": "잼",
-"rom": "jaem ketchup",
+"rom": "jaem",
 "id": 653
 },
 {
@@ -4588,14 +4588,14 @@
 "topic": "supermarket",
 "en": "olive oil",
 "ko": "올리브 오일",
-"rom": "ollibeu oil pepper",
+"rom": "ollibeu oil",
 "id": 655
 },
 {
 "topic": "supermarket",
 "en": "red chilli paste",
 "ko": "고추장",
-"rom": "gochujang rice",
+"rom": "gochujang",
 "id": 656
 },
 {
@@ -4623,7 +4623,7 @@
 "topic": "supermarket",
 "en": "soy sauce",
 "ko": "간장",
-"rom": "ganjang sugar",
+"rom": "ganjang",
 "id": 660
 },
 {
@@ -4637,28 +4637,28 @@
 "topic": "supermarket",
 "en": "vegetable oil",
 "ko": "식용유",
-"rom": "sigyongnyu vinegar",
+"rom": "sigyongnyu",
 "id": 662
 },
 {
 "topic": "supermarket",
 "en": "chocolate",
 "ko": "󐵗릿",
-"rom": "chokollit crisps",
+"rom": "chokollit",
 "id": 663
 },
 {
 "topic": "supermarket",
 "en": "nuts",
 "ko": "견과류",
-"rom": "gyeongwaryu popcorn",
+"rom": "gyeongwaryu",
 "id": 664
 },
 {
 "topic": "supermarket",
 "en": "rice cake",
 "ko": "떡",
-"rom": "tteok sweets",
+"rom": "tteok",
 "id": 665
 },
 {
@@ -4672,7 +4672,7 @@
 "topic": "supermarket",
 "en": "fizzy drink",
 "ko": "탄산음료",
-"rom": "tansaneumyo fruit juice",
+"rom": "tansaneumyo",
 "id": 667
 },
 {
@@ -4686,7 +4686,7 @@
 "topic": "supermarket",
 "en": "still water",
 "ko": "물",
-"rom": "mul wine",
+"rom": "mul",
 "id": 669
 },
 {
@@ -4714,14 +4714,14 @@
 "topic": "supermarket",
 "en": "night market",
 "ko": "야시장",
-"rom": "yasijang local",
+"rom": "yasijang",
 "id": 673
 },
 {
 "topic": "supermarket",
 "en": "organic",
 "ko": "유기농",
-"rom": "yuginong seasonal",
+"rom": "yuginong",
 "id": 674
 },
 {
@@ -4735,7 +4735,7 @@
 "topic": "supermarket",
 "en": "hand-made",
 "ko": "수제품",
-"rom": "sujepum marketplace trader",
+"rom": "sujepum",
 "id": 676
 },
 {
@@ -4749,14 +4749,14 @@
 "topic": "supermarket",
 "en": "plastic bag",
 "ko": "비닐봉투",
-"rom": "binilbongtu customer",
+"rom": "binilbongtu",
 "id": 678
 },
 {
 "topic": "supermarket",
 "en": "produce",
 "ko": "농산품",
-"rom": "nongsanpum crate",
+"rom": "nongsanpum",
 "id": 679
 },
 {
@@ -4770,14 +4770,14 @@
 "topic": "supermarket",
 "en": "root vegetable",
 "ko": "뿌리 야채",
-"rom": "ppuri yachae juice",
+"rom": "ppuri yachae",
 "id": 681
 },
 {
 "topic": "supermarket",
 "en": "leaf",
 "ko": "잎",
-"rom": "ip peel/rind/skin",
+"rom": "ip",
 "id": 682
 },
 {
@@ -4798,21 +4798,21 @@
 "topic": "market",
 "en": "core",
 "ko": "속",
-"rom": "sok raw",
+"rom": "sok",
 "id": 685
 },
 {
 "topic": "market",
 "en": "fresh",
 "ko": "신선한",
-"rom": "sinseonhan rotten",
+"rom": "sinseonhan",
 "id": 686
 },
 {
 "topic": "market",
 "en": "ripe",
 "ko": "익은",
-"rom": "igeun unripe",
+"rom": "igeun",
 "id": 687
 },
 {
@@ -4861,35 +4861,35 @@
 "topic": "market",
 "en": "to wash",
 "ko": "씻다",
-"rom": "ssitda fruit apple",
+"rom": "ssitda",
 "id": 694
 },
 {
 "topic": "market",
 "en": "apricot",
 "ko": "살구",
-"rom": "salgu banana",
+"rom": "salgu",
 "id": 695
 },
 {
 "topic": "market",
 "en": "blueberry",
 "ko": "블루베리",
-"rom": "beulluberi cantaloupe",
+"rom": "beulluberi",
 "id": 696
 },
 {
 "topic": "market",
 "en": "cherry",
 "ko": "체리",
-"rom": "cheri grape",
+"rom": "cheri",
 "id": 697
 },
 {
 "topic": "market",
 "en": "grapefruit",
 "ko": "자몽",
-"rom": "jamong jujube",
+"rom": "jamong",
 "id": 698
 },
 {
@@ -4903,77 +4903,77 @@
 "topic": "market",
 "en": "Korean melon",
 "ko": "참외",
-"rom": "chamoe lemon",
+"rom": "chamoe",
 "id": 700
 },
 {
 "topic": "market",
 "en": "lychee",
 "ko": "리치",
-"rom": "richi mango",
+"rom": "richi",
 "id": 701
 },
 {
 "topic": "market",
 "en": "mulberry",
 "ko": "오디",
-"rom": "odi orange",
+"rom": "odi",
 "id": 702
 },
 {
 "topic": "market",
 "en": "peach",
 "ko": "복숭아",
-"rom": "boksunga persimmon",
+"rom": "boksunga",
 "id": 703
 },
 {
 "topic": "market",
 "en": "pineapple",
 "ko": "파인애플",
-"rom": "painaepeul plum",
+"rom": "painaepeul",
 "id": 704
 },
 {
 "topic": "market",
 "en": "pomegranate",
 "ko": "석류",
-"rom": "seongnyu strawberry",
+"rom": "seongnyu",
 "id": 705
 },
 {
 "topic": "market",
 "en": "tangerine",
 "ko": "귤",
-"rom": "gyul watermelon",
+"rom": "gyul",
 "id": 706
 },
 {
 "topic": "market",
 "en": "asparagus",
 "ko": "아스파라거스",
-"rom": "aseuparageoseu aubergine",
+"rom": "aseuparageoseu",
 "id": 707
 },
 {
 "topic": "market",
 "en": "bamboo shoots",
 "ko": "죽순",
-"rom": "juksun broccoli",
+"rom": "juksun",
 "id": 708
 },
 {
 "topic": "market",
 "en": "cabbage",
 "ko": "양배추",
-"rom": "yangbaechu carrot",
+"rom": "yangbaechu",
 "id": 709
 },
 {
 "topic": "market",
 "en": "cauliflower",
 "ko": "콜리플라워",
-"rom": "kollipeullawo celery",
+"rom": "kollipeullawo",
 "id": 710
 },
 {
@@ -4987,35 +4987,35 @@
 "topic": "market",
 "en": "Chinese cabbage",
 "ko": "배추",
-"rom": "baechu courgette",
+"rom": "baechu",
 "id": 712
 },
 {
 "topic": "market",
 "en": "cucumber",
 "ko": "오이",
-"rom": "oi garlic",
+"rom": "oi",
 "id": 713
 },
 {
 "topic": "market",
 "en": "ginger",
 "ko": "생강",
-"rom": "saenggang lettuce",
+"rom": "saenggang",
 "id": 714
 },
 {
 "topic": "market",
 "en": "lotus root",
 "ko": "연근",
-"rom": "yeongeun mooli",
+"rom": "yeongeun",
 "id": 715
 },
 {
 "topic": "market",
 "en": "mushroom",
 "ko": "버섯",
-"rom": "beoseot onion",
+"rom": "beoseot",
 "id": 716
 },
 {
@@ -5029,84 +5029,84 @@
 "topic": "market",
 "en": "perilla leaves",
 "ko": "깻잎",
-"rom": "kkaennip potato",
+"rom": "kkaennip",
 "id": 718
 },
 {
 "topic": "market",
 "en": "red pepper",
 "ko": "파프리카",
-"rom": "papeurika spinach",
+"rom": "papeurika",
 "id": 719
 },
 {
 "topic": "market",
 "en": "spring onion",
 "ko": "파",
-"rom": "pa sweet potato",
+"rom": "pa",
 "id": 720
 },
 {
 "topic": "market",
 "en": "tomato",
 "ko": "토마토",
-"rom": "tomato fishmonger",
+"rom": "tomato",
 "id": 721
 },
 {
 "topic": "market",
 "en": "shellfish",
 "ko": "패류",
-"rom": "paeryu scales",
+"rom": "paeryu",
 "id": 722
 },
 {
 "topic": "market",
 "en": "bone",
 "ko": "뼈",
-"rom": "ppyeo shell",
+"rom": "ppyeo",
 "id": 723
 },
 {
 "topic": "market",
 "en": "roe",
 "ko": "생선알",
-"rom": "saengseonal freshwater",
+"rom": "saengseonal",
 "id": 724
 },
 {
 "topic": "market",
 "en": "saltwater",
 "ko": "바닷물",
-"rom": "badanmul farmed",
+"rom": "badanmul",
 "id": 725
 },
 {
 "topic": "market",
 "en": "wild",
 "ko": "자연산",
-"rom": "jayeonsan salted",
+"rom": "jayeonsan",
 "id": 726
 },
 {
 "topic": "market",
 "en": "smoked",
 "ko": "훈제",
-"rom": "hunje fish anchovy",
+"rom": "hunje",
 "id": 727
 },
 {
 "topic": "market",
 "en": "carp",
 "ko": "잉어",
-"rom": "ingeo cod",
+"rom": "ingeo",
 "id": 728
 },
 {
 "topic": "market",
 "en": "eel",
 "ko": "장어",
-"rom": "jangeo mackerel",
+"rom": "jangeo",
 "id": 729
 },
 {
@@ -5120,7 +5120,7 @@
 "topic": "fishmonger’s",
 "en": "pollack",
 "ko": "명태",
-"rom": "myeongtae salmon",
+"rom": "myeongtae",
 "id": 731
 },
 {
@@ -5134,35 +5134,35 @@
 "topic": "fishmonger’s",
 "en": "sea bream",
 "ko": "도미",
-"rom": "domi trout",
+"rom": "domi",
 "id": 733
 },
 {
 "topic": "fishmonger’s",
 "en": "abalone",
 "ko": "전복",
-"rom": "jeonbok clam",
+"rom": "jeonbok",
 "id": 734
 },
 {
 "topic": "fishmonger’s",
 "en": "crab",
 "ko": "게",
-"rom": "ge lobster",
+"rom": "ge",
 "id": 735
 },
 {
 "topic": "fishmonger’s",
 "en": "mussel",
 "ko": "홍합",
-"rom": "honghap octopus",
+"rom": "honghap",
 "id": 736
 },
 {
 "topic": "fishmonger’s",
 "en": "oyster",
 "ko": "굴",
-"rom": "gul prawn/shrimp",
+"rom": "gul",
 "id": 737
 },
 {
@@ -5183,14 +5183,14 @@
 "topic": "fishmonger’s",
 "en": "sea urchin",
 "ko": "성게",
-"rom": "seongge squid",
+"rom": "seongge",
 "id": 740
 },
 {
 "topic": "fishmonger’s",
 "en": "butcher",
 "ko": "정육업자",
-"rom": "jeongyugeopja meat",
+"rom": "jeongyugeopja",
 "id": 741
 },
 {
@@ -5204,7 +5204,7 @@
 "topic": "fishmonger’s",
 "en": "cold meats",
 "ko": "냉육",
-"rom": "naengyuk pork",
+"rom": "naengyuk",
 "id": 743
 },
 {
@@ -5218,21 +5218,21 @@
 "topic": "butcher’s",
 "en": "lamb",
 "ko": "양고기",
-"rom": "yanggogi offal",
+"rom": "yanggogi",
 "id": 745
 },
 {
 "topic": "butcher’s",
 "en": "poultry",
 "ko": "가금류",
-"rom": "gageumnyu chicken",
+"rom": "gageumnyu",
 "id": 746
 },
 {
 "topic": "butcher’s",
 "en": "duck",
 "ko": "오리고기",
-"rom": "origogi raw",
+"rom": "origogi",
 "id": 747
 },
 {
@@ -5246,14 +5246,14 @@
 "topic": "butcher’s",
 "en": "organic",
 "ko": "유기농",
-"rom": "yuginong free-range",
+"rom": "yuginong",
 "id": 749
 },
 {
 "topic": "butcher’s",
 "en": "bacon",
 "ko": "베이컨",
-"rom": "beikeon beefburger",
+"rom": "beikeon",
 "id": 750
 },
 {
@@ -5267,49 +5267,49 @@
 "topic": "butcher’s",
 "en": "Korean beef",
 "ko": "한우",
-"rom": "hanu mince",
+"rom": "hanu",
 "id": 752
 },
 {
 "topic": "butcher’s",
 "en": "ribs",
 "ko": "갈비",
-"rom": "galbi sausage",
+"rom": "galbi",
 "id": 753
 },
 {
 "topic": "butcher’s",
 "en": "smoked duck",
 "ko": "훈제오리",
-"rom": "hunjeori steak",
+"rom": "hunjeori",
 "id": 754
 },
 {
 "topic": "butcher’s",
 "en": "baker",
 "ko": "제빵사",
-"rom": "jeppangsa bread",
+"rom": "jeppangsa",
 "id": 755
 },
 {
 "topic": "butcher’s",
 "en": "loaf",
 "ko": "빵 한 덩이",
-"rom": "ppang han deongi cake",
+"rom": "ppang han deongi",
 "id": 756
 },
 {
 "topic": "butcher’s",
 "en": "vegetable bun",
 "ko": "야채빵",
-"rom": "yachaeppang dough",
+"rom": "yachaeppang",
 "id": 757
 },
 {
 "topic": "butcher’s",
 "en": "flour",
 "ko": "밀가루",
-"rom": "milgaru gluten-free",
+"rom": "milgaru",
 "id": 758
 },
 {
@@ -5330,42 +5330,42 @@
 "topic": "bakery and patisserie",
 "en": "bread rolls",
 "ko": "롤빵",
-"rom": "rolppang croissant",
+"rom": "rolppang",
 "id": 761
 },
 {
 "topic": "bakery and patisserie",
 "en": "Danish pastry",
 "ko": "파이",
-"rom": "pai doughnut",
+"rom": "pai",
 "id": 762
 },
 {
 "topic": "bakery and patisserie",
 "en": "éclair",
 "ko": "에클레어",
-"rom": "ekeulleeo fruit tart",
+"rom": "ekeulleeo",
 "id": 763
 },
 {
 "topic": "bakery and patisserie",
 "en": "macaroon",
 "ko": "마카롱",
-"rom": "makarong pancakes",
+"rom": "makarong",
 "id": 764
 },
 {
 "topic": "bakery and patisserie",
 "en": "red bean bun",
 "ko": "단팥빵",
-"rom": "danpatppang waffle",
+"rom": "danpatppang",
 "id": 765
 },
 {
 "topic": "bakery and patisserie",
 "en": "wholemeal bread",
 "ko": "통밀빵",
-"rom": "tongmilppang egg white/yolk",
+"rom": "tongmilppang",
 "id": 766
 },
 {
@@ -5379,28 +5379,28 @@
 "topic": "bakery and patisserie",
 "en": "fresh milk",
 "ko": "생우유",
-"rom": "saenguyu cheese",
+"rom": "saenguyu",
 "id": 768
 },
 {
 "topic": "bakery and patisserie",
 "en": "caged",
 "ko": "새장에 갇힌",
-"rom": "saejange gachin free-range",
+"rom": "saejange gachin",
 "id": 769
 },
 {
 "topic": "bakery and patisserie",
 "en": "unpasteurized",
 "ko": "저온살균/저온살균 되지 않은",
-"rom": "jeoonsalgyun/ jeoonsalgyun doeji aneun dairy-free",
+"rom": "jeoonsalgyun/ jeoonsalgyun doeji",
 "id": 770
 },
 {
 "topic": "bakery and patisserie",
 "en": "butter",
 "ko": "버터",
-"rom": "beoteo cream",
+"rom": "beoteo",
 "id": 771
 },
 {
@@ -5414,42 +5414,42 @@
 "topic": "fresh and dairy products",
 "en": "milk",
 "ko": "우유",
-"rom": "uyu soymilk",
+"rom": "uyu",
 "id": 773
 },
 {
 "topic": "fresh and dairy products",
 "en": "yoghurt",
 "ko": "요구르트",
-"rom": "yogureuteu pharmacist",
+"rom": "yogureuteu",
 "id": 774
 },
 {
 "topic": "fresh and dairy products",
 "en": "cabinet",
 "ko": "약장",
-"rom": "yakjang counter",
+"rom": "yakjang",
 "id": 775
 },
 {
 "topic": "fresh and dairy products",
 "en": "prescription",
 "ko": "처방전",
-"rom": "cheobangjeon antihistamine",
+"rom": "cheobangjeon",
 "id": 776
 },
 {
 "topic": "fresh and dairy products",
 "en": "antiseptic",
 "ko": "소독약",
-"rom": "sodongnyak decongestant",
+"rom": "sodongnyak",
 "id": 777
 },
 {
 "topic": "fresh and dairy products",
 "en": "medicine",
 "ko": "약",
-"rom": "yak ointment",
+"rom": "yak",
 "id": 778
 },
 {
@@ -5470,14 +5470,14 @@
 "topic": "fresh and dairy products",
 "en": "diarrhoea tablets",
 "ko": "지사제",
-"rom": "jisaje tube",
+"rom": "jisaje",
 "id": 781
 },
 {
 "topic": "fresh and dairy products",
 "en": "cold",
 "ko": "감기",
-"rom": "gamgi flu",
+"rom": "gamgi",
 "id": 782
 },
 {
@@ -5491,14 +5491,14 @@
 "topic": "fresh and dairy products",
 "en": "hay fever",
 "ko": "꽃가루 알레르기",
-"rom": "kkotgaru allereugi headache",
+"rom": "kkotgaru allereugi",
 "id": 784
 },
 {
 "topic": "fresh and dairy products",
 "en": "sore throat",
 "ko": "인후염",
-"rom": "inhuyeom stomachache",
+"rom": "inhuyeom",
 "id": 785
 },
 {
@@ -5512,105 +5512,105 @@
 "topic": "pharmacy",
 "en": "antiseptic cream",
 "ko": "소독용 크림",
-"rom": "sodogyong keurim bandage",
+"rom": "sodogyong keurim",
 "id": 787
 },
 {
 "topic": "pharmacy",
 "en": "capsule",
 "ko": "캡슐",
-"rom": "kaepsyul condom",
+"rom": "kaepsyul",
 "id": 788
 },
 {
 "topic": "pharmacy",
 "en": "cough mixture",
 "ko": "기침약",
-"rom": "gichimnyak drops",
+"rom": "gichimnyak",
 "id": 789
 },
 {
 "topic": "pharmacy",
 "en": "insect repellent",
 "ko": "방충제",
-"rom": "bangchungje lozenge",
+"rom": "bangchungje",
 "id": 790
 },
 {
 "topic": "pharmacy",
 "en": "plaster",
 "ko": "반창고",
-"rom": "banchanggo protective face mask",
+"rom": "banchanggo",
 "id": 791
 },
 {
 "topic": "pharmacy",
 "en": "sun cream",
 "ko": "선크림",
-"rom": "seonkeurim tablet/pill",
+"rom": "seonkeurim",
 "id": 792
 },
 {
 "topic": "pharmacy",
 "en": "antiperspirant",
 "ko": "땀 억제제",
-"rom": "ttam eokjeje conditioner",
+"rom": "ttam eokjeje",
 "id": 793
 },
 {
 "topic": "pharmacy",
 "en": "mouthwash",
 "ko": "구강 세정제",
-"rom": "gugang sejeongje razor",
+"rom": "gugang sejeongje",
 "id": 794
 },
 {
 "topic": "pharmacy",
 "en": "sanitary towel",
 "ko": "생리대",
-"rom": "saengnidae shampoo",
+"rom": "saengnidae",
 "id": 795
 },
 {
 "topic": "pharmacy",
 "en": "shaving foam",
 "ko": "쉐이빙폼",
-"rom": "sweibingpom shower gel",
+"rom": "sweibingpom",
 "id": 796
 },
 {
 "topic": "pharmacy",
 "en": "soap",
 "ko": "비누",
-"rom": "binu tampon",
+"rom": "binu",
 "id": 797
 },
 {
 "topic": "pharmacy",
 "en": "toothbrush",
 "ko": "칫솔",
-"rom": "chitsol toothpaste",
+"rom": "chitsol",
 "id": 798
 },
 {
 "topic": "pharmacy",
 "en": "blusher",
 "ko": "블러셔",
-"rom": "beulleosyeo comb",
+"rom": "beulleosyeo",
 "id": 799
 },
 {
 "topic": "pharmacy",
 "en": "eyeliner",
 "ko": "아이라이너",
-"rom": "airaineo eyeshadow",
+"rom": "airaineo",
 "id": 800
 },
 {
 "topic": "pharmacy",
 "en": "foundation",
 "ko": "파운데이션",
-"rom": "paundeisyeon hairbrush",
+"rom": "paundeisyeon",
 "id": 801
 },
 {
@@ -5624,7 +5624,7 @@
 "topic": "pharmacy",
 "en": "lip balm",
 "ko": "립밤",
-"rom": "ripbam lipstick",
+"rom": "ripbam",
 "id": 803
 },
 {
@@ -5638,7 +5638,7 @@
 "topic": "pharmacy",
 "en": "nail varnish",
 "ko": "매니큐어",
-"rom": "maenikyueo powder",
+"rom": "maenikyueo",
 "id": 805
 },
 {
@@ -5659,21 +5659,21 @@
 "topic": "pharmacy",
 "en": "to breast-feed",
 "ko": "모유 수유하다",
-"rom": "moyu suyuhada clothing babygro®/sleepsuit",
+"rom": "moyu suyuhada",
 "id": 808
 },
 {
 "topic": "pharmacy",
 "en": "baby shoes",
 "ko": "아기신발",
-"rom": "agisinbal bib",
+"rom": "agisinbal",
 "id": 809
 },
 {
 "topic": "pharmacy",
 "en": "mittens",
 "ko": "벙어리장갑",
-"rom": "beongeorijanggap snowsuit",
+"rom": "beongeorijanggap",
 "id": 810
 },
 {
@@ -5708,14 +5708,14 @@
 "topic": "baby goods",
 "en": "cotton bud",
 "ko": "면봉",
-"rom": "myeonbong cotton wool",
+"rom": "myeonbong",
 "id": 815
 },
 {
 "topic": "baby goods",
 "en": "formula milk",
 "ko": "분유",
-"rom": "bunyu nappy",
+"rom": "bunyu",
 "id": 816
 },
 {
@@ -5729,7 +5729,7 @@
 "topic": "baby goods",
 "en": "wet wipes",
 "ko": "물티슈",
-"rom": "multisyu accessories",
+"rom": "multisyu",
 "id": 818
 },
 {
@@ -5743,35 +5743,35 @@
 "topic": "baby goods",
 "en": "baby sling",
 "ko": "포대기",
-"rom": "podaegi cot",
+"rom": "podaegi",
 "id": 820
 },
 {
 "topic": "baby goods",
 "en": "highchair",
 "ko": "아기 의자",
-"rom": "agi uija pram",
+"rom": "agi uija",
 "id": 821
 },
 {
 "topic": "baby goods",
 "en": "pushchair",
 "ko": "유모차",
-"rom": "yumocha broadsheet",
+"rom": "yumocha",
 "id": 822
 },
 {
 "topic": "baby goods",
 "en": "tabloid",
 "ko": "타블로이드",
-"rom": "tabeulloideu kiosk",
+"rom": "tabeulloideu",
 "id": 823
 },
 {
 "topic": "baby goods",
 "en": "stationery",
 "ko": "문구류",
-"rom": "munguryu snack",
+"rom": "munguryu",
 "id": 824
 },
 {
@@ -5792,21 +5792,21 @@
 "topic": "baby goods",
 "en": "daily",
 "ko": "일간지",
-"rom": "ilganji weekly",
+"rom": "ilganji",
 "id": 827
 },
 {
 "topic": "baby goods",
 "en": "book",
 "ko": "책",
-"rom": "chaek cigarette",
+"rom": "chaek",
 "id": 828
 },
 {
 "topic": "baby goods",
 "en": "comic book",
 "ko": "만화책",
-"rom": "manhwachaek confectionery",
+"rom": "manhwachaek",
 "id": 829
 },
 {
@@ -5820,84 +5820,84 @@
 "topic": "baby goods",
 "en": "greetings card",
 "ko": "인사 카드",
-"rom": "insa kadeu magazine",
+"rom": "insa kadeu",
 "id": 831
 },
 {
 "topic": "baby goods",
 "en": "map",
 "ko": "지도",
-"rom": "jido newspaper",
+"rom": "jido",
 "id": 832
 },
 {
 "topic": "baby goods",
 "en": "notebook",
 "ko": "공책",
-"rom": "gongchaek pen",
+"rom": "gongchaek",
 "id": 833
 },
 {
 "topic": "baby goods",
 "en": "pencil",
 "ko": "연필",
-"rom": "yeonpil postcard",
+"rom": "yeonpil",
 "id": 834
 },
 {
 "topic": "baby goods",
 "en": "scratch card",
 "ko": "즉석복권",
-"rom": "jeukseokbokgwon stamp",
+"rom": "jeukseokbokgwon",
 "id": 835
 },
 {
 "topic": "baby goods",
 "en": "floor",
 "ko": "층",
-"rom": "cheung escalator",
+"rom": "cheung",
 "id": 836
 },
 {
 "topic": "baby goods",
 "en": "lift",
 "ko": "엘리베이터",
-"rom": "ellibeiteo toilets",
+"rom": "ellibeiteo",
 "id": 837
 },
 {
 "topic": "baby goods",
 "en": "counter",
 "ko": "계산대",
-"rom": "gyesandae department",
+"rom": "gyesandae",
 "id": 838
 },
 {
 "topic": "baby goods",
 "en": "menswear",
 "ko": "남성복",
-"rom": "namseongbok womenswear",
+"rom": "namseongbok",
 "id": 839
 },
 {
 "topic": "baby goods",
 "en": "sportswear",
 "ko": "운동복",
-"rom": "undongbok swimwear",
+"rom": "undongbok",
 "id": 840
 },
 {
 "topic": "baby goods",
 "en": "brand",
 "ko": "상표",
-"rom": "sangpyo sale",
+"rom": "sangpyo",
 "id": 841
 },
 {
 "topic": "baby goods",
 "en": "accessories",
 "ko": "액세서리",
-"rom": "aekseseori cosmetics",
+"rom": "aekseseori",
 "id": 842
 },
 {
@@ -5911,14 +5911,14 @@
 "topic": "baby goods",
 "en": "food and drink",
 "ko": "식음료",
-"rom": "sigeumnyo footwear",
+"rom": "sigeumnyo",
 "id": 844
 },
 {
 "topic": "baby goods",
 "en": "furniture",
 "ko": "가구",
-"rom": "gagu kitchenware",
+"rom": "gagu",
 "id": 845
 },
 {
@@ -5932,63 +5932,63 @@
 "topic": "baby goods",
 "en": "lighting",
 "ko": "조명",
-"rom": "jomyeong lingerie",
+"rom": "jomyeong",
 "id": 847
 },
 {
 "topic": "baby goods",
 "en": "soft furnishings",
 "ko": "가정용 직물 제품",
-"rom": "gajeongyong jingmul jepum toys",
+"rom": "gajeongyong jingmul jepum",
 "id": 848
 },
 {
 "topic": "baby goods",
 "en": "fitting room",
 "ko": "탈의실",
-"rom": "taruisil clothes/clothing",
+"rom": "taruisil",
 "id": 849
 },
 {
 "topic": "baby goods",
 "en": "shoes/footwear",
 "ko": "신발",
-"rom": "sinbal underwear",
+"rom": "sinbal",
 "id": 850
 },
 {
 "topic": "baby goods",
 "en": "wallet/purse",
 "ko": "지갑",
-"rom": "jigap umbrella",
+"rom": "jigap",
 "id": 851
 },
 {
 "topic": "baby goods",
 "en": "perfume",
 "ko": "향수",
-"rom": "hyangsu aftershave",
+"rom": "hyangsu",
 "id": 852
 },
 {
 "topic": "baby goods",
 "en": "jewellery",
 "ko": "보석류",
-"rom": "boseongnyu wool",
+"rom": "boseongnyu",
 "id": 853
 },
 {
 "topic": "baby goods",
 "en": "denim",
 "ko": "데님",
-"rom": "denim cotton",
+"rom": "denim",
 "id": 854
 },
 {
 "topic": "baby goods",
 "en": "leather",
 "ko": "가죽",
-"rom": "gajuk silk",
+"rom": "gajuk",
 "id": 855
 },
 {
@@ -6016,63 +6016,63 @@
 "topic": "baby goods",
 "en": "to fit",
 "ko": "딱 맞다",
-"rom": "ttak matda clothing bikini",
+"rom": "ttak matda",
 "id": 859
 },
 {
 "topic": "baby goods",
 "en": "blouse",
 "ko": "블라우스",
-"rom": "beullauseu coat",
+"rom": "beullauseu",
 "id": 860
 },
 {
 "topic": "baby goods",
 "en": "dressing gown",
 "ko": "실내용 가운",
-"rom": "sillaeyong gaun dungarees",
+"rom": "sillaeyong gaun",
 "id": 861
 },
 {
 "topic": "baby goods",
 "en": "jacket",
 "ko": "재킷",
-"rom": "jaekit jeans",
+"rom": "jaekit",
 "id": 862
 },
 {
 "topic": "baby goods",
 "en": "jogging bottoms",
 "ko": "트레이닝 바지",
-"rom": "teureining baji jumper",
+"rom": "teureining baji",
 "id": 863
 },
 {
 "topic": "baby goods",
 "en": "leggings",
 "ko": "레깅스",
-"rom": "regingseu pants",
+"rom": "regingseu",
 "id": 864
 },
 {
 "topic": "baby goods",
 "en": "pyjamas",
 "ko": "잠옷",
-"rom": "jamot shirt",
+"rom": "jamot",
 "id": 865
 },
 {
 "topic": "baby goods",
 "en": "shorts",
 "ko": "반바지",
-"rom": "banbaji skirt",
+"rom": "banbaji",
 "id": 866
 },
 {
 "topic": "baby goods",
 "en": "socks",
 "ko": "양말",
-"rom": "yangmal sweatshirt",
+"rom": "yangmal",
 "id": 867
 },
 {
@@ -6093,7 +6093,7 @@
 "topic": "baby goods",
 "en": "tie",
 "ko": "넥타이",
-"rom": "nektai tights",
+"rom": "nektai",
 "id": 870
 },
 {
@@ -6107,7 +6107,7 @@
 "topic": "baby goods",
 "en": "T-shirt",
 "ko": "티셔츠",
-"rom": "tisyeocheu waterproof jacket",
+"rom": "tisyeocheu",
 "id": 872
 },
 {
@@ -6121,28 +6121,28 @@
 "topic": "baby goods",
 "en": "belt",
 "ko": "벨트",
-"rom": "belteu bracelet",
+"rom": "belteu",
 "id": 874
 },
 {
 "topic": "baby goods",
 "en": "earrings",
 "ko": "귀걸이",
-"rom": "gwigeori gloves",
+"rom": "gwigeori",
 "id": 875
 },
 {
 "topic": "baby goods",
 "en": "handbag",
 "ko": "핸드백",
-"rom": "haendeubaek necklace",
+"rom": "haendeubaek",
 "id": 876
 },
 {
 "topic": "baby goods",
 "en": "scarf",
 "ko": "스카프",
-"rom": "seukapeu woolly hat",
+"rom": "seukapeu",
 "id": 877
 },
 {
@@ -6163,28 +6163,28 @@
 "topic": "baby goods",
 "en": "lace-up shoes",
 "ko": "끈 달린 신발",
-"rom": "kkeun dallin sinbal sandals",
+"rom": "kkeun dallin sinbal",
 "id": 880
 },
 {
 "topic": "baby goods",
 "en": "slippers",
 "ko": "슬리퍼",
-"rom": "seullipeo trainers",
+"rom": "seullipeo",
 "id": 881
 },
 {
 "topic": "baby goods",
 "en": "home improvements",
 "ko": "주택 개조",
-"rom": "jutaek gaejo joinery",
+"rom": "jutaek gaejo",
 "id": 882
 },
 {
 "topic": "baby goods",
 "en": "painting",
 "ko": "페인트칠",
-"rom": "peinteuchil decorating",
+"rom": "peinteuchil",
 "id": 883
 },
 {
@@ -6198,56 +6198,56 @@
 "topic": "baby goods",
 "en": "to do DIY",
 "ko": "직접하다",
-"rom": "jikjeopada home drill",
+"rom": "jikjeopada",
 "id": 885
 },
 {
 "topic": "baby goods",
 "en": "hammer",
 "ko": "망치",
-"rom": "mangchi nails",
+"rom": "mangchi",
 "id": 886
 },
 {
 "topic": "baby goods",
 "en": "nuts and bolts",
 "ko": "너트와 볼트",
-"rom": "neoteuwa bolteu paint",
+"rom": "neoteuwa bolteu",
 "id": 887
 },
 {
 "topic": "baby goods",
 "en": "paintbrush",
 "ko": "페인트 붓",
-"rom": "peinteu but pliers",
+"rom": "peinteu but",
 "id": 888
 },
 {
 "topic": "baby goods",
 "en": "saw",
 "ko": "톱",
-"rom": "top screwdriver",
+"rom": "top",
 "id": 889
 },
 {
 "topic": "baby goods",
 "en": "screws",
 "ko": "나사",
-"rom": "nasa spanner",
+"rom": "nasa",
 "id": 890
 },
 {
 "topic": "baby goods",
 "en": "stepladder",
 "ko": "접이식 사다리",
-"rom": "jeobisik sadari tiles",
+"rom": "jeobisik sadari",
 "id": 891
 },
 {
 "topic": "baby goods",
 "en": "wallpaper",
 "ko": "벽지",
-"rom": "byeokji wrench",
+"rom": "byeokji",
 "id": 892
 },
 {
@@ -6261,14 +6261,14 @@
 "topic": "baby goods",
 "en": "gardening gloves",
 "ko": "원예용 장갑",
-"rom": "wonyeyong janggap pruners",
+"rom": "wonyeyong janggap",
 "id": 894
 },
 {
 "topic": "baby goods",
 "en": "spade",
 "ko": "삽",
-"rom": "sap trowel",
+"rom": "sap",
 "id": 895
 },
 {
@@ -6282,7 +6282,7 @@
 "topic": "baby goods",
 "en": "antique shop",
 "ko": "골동품 가게",
-"rom": "goldongpum gage barber’s",
+"rom": "goldongpum gage",
 "id": 897
 },
 {
@@ -6303,21 +6303,21 @@
 "topic": "baby goods",
 "en": "car showroom",
 "ko": "자동차 전시장",
-"rom": "jadongcha jeonsijang convenience store",
+"rom": "jadongcha jeonsijang",
 "id": 900
 },
 {
 "topic": "baby goods",
 "en": "department store",
 "ko": "백화점",
-"rom": "baekwajeom electrical retailer",
+"rom": "baekwajeom",
 "id": 901
 },
 {
 "topic": "baby goods",
 "en": "estate agency",
 "ko": "부동산 중개소",
-"rom": "budongsan junggaeso florist’s",
+"rom": "budongsan junggaeso",
 "id": 902
 },
 {
@@ -6338,21 +6338,21 @@
 "topic": "baby goods",
 "en": "gift shop",
 "ko": "선물 가게",
-"rom": "seonmul gage hairdresser’s",
+"rom": "seonmul gage",
 "id": 905
 },
 {
 "topic": "baby goods",
 "en": "hardware shop",
 "ko": "철물점",
-"rom": "cheolmuljeom jeweller’s shop",
+"rom": "cheolmuljeom",
 "id": 906
 },
 {
 "topic": "baby goods",
 "en": "music shop",
 "ko": "악기점",
-"rom": "akgijeom optician’s",
+"rom": "akgijeom",
 "id": 907
 },
 {
@@ -6394,14 +6394,14 @@
 "topic": "baby goods",
 "en": "travel agent’s",
 "ko": "여행사",
-"rom": "yeohaengsa cup",
+"rom": "yeohaengsa",
 "id": 913
 },
 {
 "topic": "baby goods",
 "en": "handle",
 "ko": "손잡이",
-"rom": "sonjabi saucer",
+"rom": "sonjabi",
 "id": 914
 },
 {
@@ -6506,14 +6506,14 @@
 "topic": "the basics",
 "en": "to skip breakfast",
 "ko": "아침식사를 거르다",
-"rom": "achimsiksareul georeuda cereal",
+"rom": "achimsiksareul georeuda",
 "id": 929
 },
 {
 "topic": "the basics",
 "en": "chocolate spread",
 "ko": "󐵏잼",
-"rom": "chokojaem coffee",
+"rom": "chokojaem",
 "id": 930
 },
 {
@@ -6527,7 +6527,7 @@
 "topic": "the basics",
 "en": "green tea",
 "ko": "녹차",
-"rom": "nokcha jam",
+"rom": "nokcha",
 "id": 932
 },
 {
@@ -6548,14 +6548,14 @@
 "topic": "breakfast",
 "en": "rice porridge",
 "ko": "죽",
-"rom": "juk tea",
+"rom": "juk",
 "id": 935
 },
 {
 "topic": "breakfast",
 "en": "toast",
 "ko": "토스트",
-"rom": "toseuteu yoghurt",
+"rom": "toseuteu",
 "id": 936
 },
 {
@@ -6569,14 +6569,14 @@
 "topic": "breakfast",
 "en": "side dish",
 "ko": "반찬",
-"rom": "banchan soup",
+"rom": "banchan",
 "id": 938
 },
 {
 "topic": "breakfast",
 "en": "lunch",
 "ko": "점심식사",
-"rom": "jeomsimsiksa dinner",
+"rom": "jeomsimsiksa",
 "id": 939
 },
 {
@@ -6590,7 +6590,7 @@
 "topic": "breakfast",
 "en": "noodle soup",
 "ko": "국수",
-"rom": "guksu rice",
+"rom": "guksu",
 "id": 941
 },
 {
@@ -6632,7 +6632,7 @@
 "topic": "breakfast",
 "en": "cold noodles",
 "ko": "냉면",
-"rom": "naengmyeon dumplings",
+"rom": "naengmyeon",
 "id": 947
 },
 {
@@ -6667,7 +6667,7 @@
 "topic": "breakfast",
 "en": "grilled fish",
 "ko": "생선구이",
-"rom": "saengseongui kimchi",
+"rom": "saengseongui",
 "id": 952
 },
 {
@@ -6688,7 +6688,7 @@
 "topic": "breakfast",
 "en": "pork cutlet",
 "ko": "돈가스",
-"rom": "dongaseu rice with vegetables",
+"rom": "dongaseu",
 "id": 955
 },
 {
@@ -6709,14 +6709,14 @@
 "topic": "breakfast",
 "en": "seafood soup",
 "ko": "해물탕",
-"rom": "haemultang seasonal vegetables",
+"rom": "haemultang",
 "id": 958
 },
 {
 "topic": "breakfast",
 "en": "seasoned raw beef",
 "ko": "육회",
-"rom": "yukoe spicy stir-fried chicken",
+"rom": "yukoe",
 "id": 959
 },
 {
@@ -6730,7 +6730,7 @@
 "topic": "breakfast",
 "en": "steamed egg",
 "ko": "계란찜",
-"rom": "gyeranjjim stir-fried glass noodles",
+"rom": "gyeranjjim",
 "id": 961
 },
 {
@@ -6772,7 +6772,7 @@
 "topic": "breakfast",
 "en": "rice cake",
 "ko": "떡",
-"rom": "tteok sweet pancake",
+"rom": "tteok",
 "id": 967
 },
 {
@@ -6807,14 +6807,14 @@
 "topic": "eating out",
 "en": "service charge",
 "ko": "서비스 요금",
-"rom": "seobiseu yogeum vegetarian",
+"rom": "seobiseu yogeum",
 "id": 972
 },
 {
 "topic": "eating out",
 "en": "vegan",
 "ko": "비건",
-"rom": "bigeon gluten-free",
+"rom": "bigeon",
 "id": 973
 },
 {
@@ -6835,14 +6835,14 @@
 "topic": "eating out",
 "en": "to be served",
 "ko": "서빙받다",
-"rom": "seobingbatda general bar",
+"rom": "seobingbatda",
 "id": 976
 },
 {
 "topic": "eating out",
 "en": "beer mug",
 "ko": "맥주잔",
-"rom": "maekjujan bill",
+"rom": "maekjujan",
 "id": 977
 },
 {
@@ -6856,14 +6856,14 @@
 "topic": "eating out",
 "en": "floor cushion",
 "ko": "방석",
-"rom": "bangseok menu",
+"rom": "bangseok",
 "id": 979
 },
 {
 "topic": "eating out",
 "en": "moist towel",
 "ko": "물수건",
-"rom": "mulsugeon table",
+"rom": "mulsugeon",
 "id": 980
 },
 {
@@ -6877,7 +6877,7 @@
 "topic": "eating out",
 "en": "table grill",
 "ko": "불판",
-"rom": "bulpan tongs",
+"rom": "bulpan",
 "id": 982
 },
 {
@@ -6891,14 +6891,14 @@
 "topic": "eating out",
 "en": "chopsticks",
 "ko": "젓가락",
-"rom": "jeotgarak glass",
+"rom": "jeotgarak",
 "id": 984
 },
 {
 "topic": "eating out",
 "en": "knife and fork",
 "ko": "나이프와 포크",
-"rom": "naipeuwa pokeu plate",
+"rom": "naipeuwa pokeu",
 "id": 985
 },
 {
@@ -6912,7 +6912,7 @@
 "topic": "eating out",
 "en": "salt and pepper",
 "ko": "소금과 후추",
-"rom": "sogeumgwa huchu serviette",
+"rom": "sogeumgwa huchu",
 "id": 987
 },
 {
@@ -6933,7 +6933,7 @@
 "topic": "eating out",
 "en": "soy sauce and vinegar",
 "ko": "간장과 식초",
-"rom": "ganjanggwa sikcho spoon",
+"rom": "ganjanggwa sikcho",
 "id": 990
 },
 {
@@ -6961,7 +6961,7 @@
 "topic": "eating out",
 "en": "street food",
 "ko": "길거리 음식",
-"rom": "gilgeori eumsik vendor",
+"rom": "gilgeori eumsik",
 "id": 994
 },
 {
@@ -7003,7 +7003,7 @@
 "topic": "eating out",
 "en": "black pudding",
 "ko": "순대",
-"rom": "sundae burger",
+"rom": "sundae",
 "id": 1000
 },
 {
@@ -7024,7 +7024,7 @@
 "topic": "eating out",
 "en": "Korean fish cake",
 "ko": "어묵",
-"rom": "eomuk sandwich",
+"rom": "eomuk",
 "id": 1003
 },
 {
@@ -7066,14 +7066,14 @@
 "topic": "eating out",
 "en": "triangle gimbap",
 "ko": "삼각김밥",
-"rom": "samgakgimbap post",
+"rom": "samgakgimbap",
 "id": 1009
 },
 {
 "topic": "eating out",
 "en": "social media",
 "ko": "소셜 미디어",
-"rom": "sosyeol midieo email",
+"rom": "sosyeol midieo",
 "id": 1010
 },
 {
@@ -7087,21 +7087,21 @@
 "topic": "eating out",
 "en": "internet",
 "ko": "인터넷",
-"rom": "inteonet WiFi",
+"rom": "inteonet",
 "id": 1012
 },
 {
 "topic": "eating out",
 "en": "website",
 "ko": "웹 사이트",
-"rom": "wep saiteu link",
+"rom": "wep saiteu",
 "id": 1013
 },
 {
 "topic": "eating out",
 "en": "icon",
 "ko": "아이콘",
-"rom": "aikon app",
+"rom": "aikon",
 "id": 1014
 },
 {
@@ -7115,7 +7115,7 @@
 "topic": "eating out",
 "en": "mobile phone",
 "ko": "휴대폰",
-"rom": "hyudaepon landline",
+"rom": "hyudaepon",
 "id": 1016
 },
 {
@@ -7136,7 +7136,7 @@
 "topic": "eating out",
 "en": "voice mail",
 "ko": "음성 메시지",
-"rom": "eumseong mesiji touchscreen",
+"rom": "eumseong mesiji",
 "id": 1019
 },
 {
@@ -7150,7 +7150,7 @@
 "topic": "communication and it",
 "en": "button",
 "ko": "버튼",
-"rom": "beoteun battery",
+"rom": "beoteun",
 "id": 1021
 },
 {
@@ -7192,28 +7192,28 @@
 "topic": "communication and it",
 "en": "to switch on/off",
 "ko": "전원을 켜다/끄다",
-"rom": "jeonwoneul kyeoda/ kkeuda",
+"rom": "jeonwoneul kyeoda/",
 "id": 1027
 },
 {
 "topic": "communication and it",
 "en": "to click on",
 "ko": "클릭하다",
-"rom": "keullikada general cable",
+"rom": "keullikada",
 "id": 1028
 },
 {
 "topic": "communication and it",
 "en": "charger",
 "ko": "충전기",
-"rom": "chungjeongi computer",
+"rom": "chungjeongi",
 "id": 1029
 },
 {
 "topic": "communication and it",
 "en": "keyboard",
 "ko": "키보드",
-"rom": "kibodeu mouse",
+"rom": "kibodeu",
 "id": 1030
 },
 {
@@ -7227,14 +7227,14 @@
 "topic": "communication and it",
 "en": "phone case",
 "ko": "폰 케이스",
-"rom": "pon keiseu power pack",
+"rom": "pon keiseu",
 "id": 1032
 },
 {
 "topic": "communication and it",
 "en": "SIM card",
 "ko": "심 카드",
-"rom": "sim kadeu smartphone",
+"rom": "sim kadeu",
 "id": 1033
 },
 {
@@ -7255,70 +7255,70 @@
 "topic": "education",
 "en": "nursery school",
 "ko": "어린이집",
-"rom": "eorinijip elementary school",
+"rom": "eorinijip",
 "id": 1036
 },
 {
 "topic": "education",
 "en": "middle/high school",
 "ko": "중/고등학교",
-"rom": "jung/godeunghakgyo college",
+"rom": "jung/godeunghakgyo",
 "id": 1037
 },
 {
 "topic": "education",
 "en": "university",
 "ko": "대학교",
-"rom": "daehakgyo headteacher",
+"rom": "daehakgyo",
 "id": 1038
 },
 {
 "topic": "education",
 "en": "janitor",
 "ko": "수위",
-"rom": "suwi timetable",
+"rom": "suwi",
 "id": 1039
 },
 {
 "topic": "education",
 "en": "lesson",
 "ko": "수업",
-"rom": "sueop subject",
+"rom": "sueop",
 "id": 1040
 },
 {
 "topic": "education",
 "en": "lecture",
 "ko": "강의",
-"rom": "gangui tutorial",
+"rom": "gangui",
 "id": 1041
 },
 {
 "topic": "education",
 "en": "assignment",
 "ko": "과제",
-"rom": "gwaje homework",
+"rom": "gwaje",
 "id": 1042
 },
 {
 "topic": "education",
 "en": "exam",
 "ko": "시험",
-"rom": "siheom degree",
+"rom": "siheom",
 "id": 1043
 },
 {
 "topic": "education",
 "en": "undergraduate",
 "ko": "학부생",
-"rom": "hakbusaeng postgraduate",
+"rom": "hakbusaeng",
 "id": 1044
 },
 {
 "topic": "education",
 "en": "assembly hall",
 "ko": "강당",
-"rom": "gangdang playing field",
+"rom": "gangdang",
 "id": 1045
 },
 {
@@ -7388,14 +7388,14 @@
 "topic": "education",
 "en": "to study",
 "ko": "공부하다",
-"rom": "gongbuhada school classroom",
+"rom": "gongbuhada",
 "id": 1055
 },
 {
 "topic": "education",
 "en": "colouring pencils",
 "ko": "색연필",
-"rom": "saengnyeonpil eraser",
+"rom": "saengnyeonpil",
 "id": 1056
 },
 {
@@ -7423,14 +7423,14 @@
 "topic": "education",
 "en": "hole punch",
 "ko": "펀치",
-"rom": "peonchi paper",
+"rom": "peonchi",
 "id": 1060
 },
 {
 "topic": "education",
 "en": "paper clip",
 "ko": "클립",
-"rom": "keullip pen",
+"rom": "keullip",
 "id": 1061
 },
 {
@@ -7444,70 +7444,70 @@
 "topic": "education",
 "en": "pencil case",
 "ko": "필통",
-"rom": "piltong pupil",
+"rom": "piltong",
 "id": 1063
 },
 {
 "topic": "education",
 "en": "ruler",
 "ko": "자",
-"rom": "ja schoolbag",
+"rom": "ja",
 "id": 1064
 },
 {
 "topic": "education",
 "en": "scissors",
 "ko": "가위",
-"rom": "gawi sharpener",
+"rom": "gawi",
 "id": 1065
 },
 {
 "topic": "education",
 "en": "stapler",
 "ko": "호치키스",
-"rom": "hochikiseu teacher",
+"rom": "hochikiseu",
 "id": 1066
 },
 {
 "topic": "education",
 "en": "textbook",
 "ko": "교과서",
-"rom": "gyogwaseo whiteboard",
+"rom": "gyogwaseo",
 "id": 1067
 },
 {
 "topic": "education",
 "en": "campus",
 "ko": "교정",
-"rom": "gyojeong canteen",
+"rom": "gyojeong",
 "id": 1068
 },
 {
 "topic": "education",
 "en": "lecture hall",
 "ko": "강의실",
-"rom": "ganguisil lecturer",
+"rom": "ganguisil",
 "id": 1069
 },
 {
 "topic": "education",
 "en": "library",
 "ko": "도서관",
-"rom": "doseogwan student",
+"rom": "doseogwan",
 "id": 1070
 },
 {
 "topic": "education",
 "en": "manager",
 "ko": "부장",
-"rom": "bujang staff",
+"rom": "bujang",
 "id": 1071
 },
 {
 "topic": "education",
 "en": "colleague",
 "ko": "동료",
-"rom": "dongnyo client",
+"rom": "dongnyo",
 "id": 1072
 },
 {
@@ -7521,42 +7521,42 @@
 "topic": "education",
 "en": "human resources",
 "ko": "인사",
-"rom": "insa figures",
+"rom": "insa",
 "id": 1074
 },
 {
 "topic": "education",
 "en": "spreadsheet",
 "ko": "스프레드시트",
-"rom": "seupeuredeusiteu presentation",
+"rom": "seupeuredeusiteu",
 "id": 1075
 },
 {
 "topic": "education",
 "en": "report",
 "ko": "보고",
-"rom": "bogo meeting",
+"rom": "bogo",
 "id": 1076
 },
 {
 "topic": "education",
 "en": "conference call",
 "ko": "전화 회의",
-"rom": "jeonhwa hoeui video conference",
+"rom": "jeonhwa hoeui",
 "id": 1077
 },
 {
 "topic": "education",
 "en": "ink cartridge",
 "ko": "잉크 카트리지",
-"rom": "ingkeu kateuriji inbox",
+"rom": "ingkeu kateuriji",
 "id": 1078
 },
 {
 "topic": "education",
 "en": "attachment",
 "ko": "첨부 파일",
-"rom": "cheombu pail username",
+"rom": "cheombu pail",
 "id": 1079
 },
 {
@@ -7584,28 +7584,28 @@
 "topic": "the office",
 "en": "to log on/off",
 "ko": "접속을 하다/끄다",
-"rom": "jeopsogeul hada/kkeuda general desk",
+"rom": "jeopsogeul hada/kkeuda",
 "id": 1083
 },
 {
 "topic": "the office",
 "en": "filing cabinet",
 "ko": "서류장",
-"rom": "seoryujang folder",
+"rom": "seoryujang",
 "id": 1084
 },
 {
 "topic": "the office",
 "en": "in/out tray",
 "ko": "서류함",
-"rom": "seoryuham laptop",
+"rom": "seoryuham",
 "id": 1085
 },
 {
 "topic": "the office",
 "en": "notepad",
 "ko": "수첩",
-"rom": "sucheop photocopier",
+"rom": "sucheop",
 "id": 1086
 },
 {
@@ -7619,7 +7619,7 @@
 "topic": "the office",
 "en": "ring binder",
 "ko": "서류철",
-"rom": "seoryucheol scanner",
+"rom": "seoryucheol",
 "id": 1088
 },
 {
@@ -7640,14 +7640,14 @@
 "topic": "the office",
 "en": "swivel chair",
 "ko": "회전의자",
-"rom": "hoejeonuija telephone",
+"rom": "hoejeonuija",
 "id": 1091
 },
 {
 "topic": "the office",
 "en": "USB stick",
 "ko": "유에스비 스틱",
-"rom": "yueseubi seutik branch",
+"rom": "yueseubi seutik",
 "id": 1092
 },
 {
@@ -7703,7 +7703,7 @@
 "topic": "the bank",
 "en": "bank statement",
 "ko": "입출금 내역서",
-"rom": "ipchulgeum naeyeokseo overdraft",
+"rom": "ipchulgeum naeyeokseo",
 "id": 1100
 },
 {
@@ -7717,14 +7717,14 @@
 "topic": "the bank",
 "en": "chequebook",
 "ko": "수표장",
-"rom": "supyojang currency",
+"rom": "supyojang",
 "id": 1102
 },
 {
 "topic": "the bank",
 "en": "loan",
 "ko": "대출",
-"rom": "daechul mortgage",
+"rom": "daechul",
 "id": 1103
 },
 {
@@ -7766,7 +7766,7 @@
 "topic": "the bank",
 "en": "to change money",
 "ko": "환전하다",
-"rom": "hwanjeonhada ATM",
+"rom": "hwanjeonhada",
 "id": 1109
 },
 {
@@ -7780,7 +7780,7 @@
 "topic": "the bank",
 "en": "bureau de change",
 "ko": "환전소",
-"rom": "hwanjeonso debit/credit card",
+"rom": "hwanjeonso",
 "id": 1111
 },
 {
@@ -7794,14 +7794,14 @@
 "topic": "the bank",
 "en": "safety deposit box",
 "ko": "대여 금고",
-"rom": "daeyeo geumgo address",
+"rom": "daeyeo geumgo",
 "id": 1113
 },
 {
 "topic": "the bank",
 "en": "postal van",
 "ko": "우편 배달차",
-"rom": "upyeon baedalcha courier",
+"rom": "upyeon baedalcha",
 "id": 1114
 },
 {
@@ -7822,49 +7822,49 @@
 "topic": "the bank",
 "en": "to send",
 "ko": "보내다",
-"rom": "bonaeda box",
+"rom": "bonaeda",
 "id": 1117
 },
 {
 "topic": "the bank",
 "en": "bubble wrap",
 "ko": "뽁뽁이",
-"rom": "ppokppogi envelope",
+"rom": "ppokppogi",
 "id": 1118
 },
 {
 "topic": "the bank",
 "en": "letter",
 "ko": "편지",
-"rom": "pyeonji package",
+"rom": "pyeonji",
 "id": 1119
 },
 {
 "topic": "the bank",
 "en": "postal worker",
 "ko": "우체국 직원",
-"rom": "ucheguk jigwon postbox",
+"rom": "ucheguk jigwon",
 "id": 1120
 },
 {
 "topic": "the bank",
 "en": "postcard",
 "ko": "엽서",
-"rom": "yeopseo stamp",
+"rom": "yeopseo",
 "id": 1121
 },
 {
 "topic": "the bank",
 "en": "café",
 "ko": "카페",
-"rom": "kape church",
+"rom": "kape",
 "id": 1122
 },
 {
 "topic": "the bank",
 "en": "cinema",
 "ko": "영화관",
-"rom": "yeonghwagwan conference centre",
+"rom": "yeonghwagwan",
 "id": 1123
 },
 {
@@ -7885,28 +7885,28 @@
 "topic": "the post office",
 "en": "fire station",
 "ko": "소방서",
-"rom": "sobangseo fountain",
+"rom": "sobangseo",
 "id": 1126
 },
 {
 "topic": "the post office",
 "en": "hospital",
 "ko": "병원",
-"rom": "byeongwon hotel",
+"rom": "byeongwon",
 "id": 1127
 },
 {
 "topic": "the post office",
 "en": "library",
 "ko": "도서관",
-"rom": "doseogwan mosque",
+"rom": "doseogwan",
 "id": 1128
 },
 {
 "topic": "the post office",
 "en": "office block",
 "ko": "사무실 건물",
-"rom": "samusil geonmul park",
+"rom": "samusil geonmul",
 "id": 1129
 },
 {
@@ -7934,7 +7934,7 @@
 "topic": "the post office",
 "en": "town hall",
 "ko": "시청",
-"rom": "sicheong flysheet",
+"rom": "sicheong",
 "id": 1133
 },
 {
@@ -7955,14 +7955,14 @@
 "topic": "the post office",
 "en": "tent peg",
 "ko": "텐트 말뚝",
-"rom": "tenteu malttuk tent",
+"rom": "tenteu malttuk",
 "id": 1136
 },
 {
 "topic": "the post office",
 "en": "activity",
 "ko": "활동",
-"rom": "hwaldong hobby/pastime",
+"rom": "hwaldong",
 "id": 1137
 },
 {
@@ -7990,7 +7990,7 @@
 "topic": "the post office",
 "en": "to enjoy",
 "ko": "즐기다",
-"rom": "jeulgida cooking",
+"rom": "jeulgida",
 "id": 1141
 },
 {
@@ -8011,49 +8011,49 @@
 "topic": "the post office",
 "en": "going to karaoke",
 "ko": "노래방 가기",
-"rom": "noraebang gagi jogging",
+"rom": "noraebang gagi",
 "id": 1144
 },
 {
 "topic": "the post office",
 "en": "listening to music",
 "ko": "음악 듣기",
-"rom": "eumak deutgi reading",
+"rom": "eumak deutgi",
 "id": 1145
 },
 {
 "topic": "the post office",
 "en": "shopping",
 "ko": "쇼핑",
-"rom": "syoping sports",
+"rom": "syoping",
 "id": 1146
 },
 {
 "topic": "the post office",
 "en": "travelling",
 "ko": "여행",
-"rom": "yeohaeng walking",
+"rom": "yeohaeng",
 "id": 1147
 },
 {
 "topic": "the post office",
 "en": "watching TV/films",
 "ko": "티브이/영화 보기",
-"rom": "tibeui/yeonghwa bogi tourist",
+"rom": "tibeui/yeonghwa bogi",
 "id": 1148
 },
 {
 "topic": "the post office",
 "en": "tourist attraction",
 "ko": "관광지",
-"rom": "gwangwangji excursion",
+"rom": "gwangwangji",
 "id": 1149
 },
 {
 "topic": "the post office",
 "en": "historic site",
 "ko": "유적지",
-"rom": "yujeokji audio guide",
+"rom": "yujeokji",
 "id": 1150
 },
 {
@@ -8067,7 +8067,7 @@
 "topic": "the basics",
 "en": "art gallery",
 "ko": "미술관",
-"rom": "misulgwan camera",
+"rom": "misulgwan",
 "id": 1152
 },
 {
@@ -8081,49 +8081,49 @@
 "topic": "the basics",
 "en": "gardens",
 "ko": "정원",
-"rom": "jeongwon guidebook",
+"rom": "jeongwon",
 "id": 1154
 },
 {
 "topic": "the basics",
 "en": "monument",
 "ko": "기념비",
-"rom": "ginyeombi museum",
+"rom": "ginyeombi",
 "id": 1155
 },
 {
 "topic": "the basics",
 "en": "palace",
 "ko": "궁",
-"rom": "gung sightseeing bus",
+"rom": "gung",
 "id": 1156
 },
 {
 "topic": "the basics",
 "en": "temple",
 "ko": "절",
-"rom": "jeol tour guide",
+"rom": "jeol",
 "id": 1157
 },
 {
 "topic": "the basics",
 "en": "tourist office",
 "ko": "관광 안내소",
-"rom": "gwangwang annaeso nightlife",
+"rom": "gwangwang annaeso",
 "id": 1158
 },
 {
 "topic": "the basics",
 "en": "party",
 "ko": "파티",
-"rom": "pati show",
+"rom": "pati",
 "id": 1159
 },
 {
 "topic": "the basics",
 "en": "film",
 "ko": "영화",
-"rom": "yeonghwa play",
+"rom": "yeonghwa",
 "id": 1160
 },
 {
@@ -8186,56 +8186,56 @@
 "topic": "evenings out",
 "en": "to enjoy oneself",
 "ko": "즐거운 시간을 보내다",
-"rom": "jeulgeoun siganeul bonaeda ballet",
+"rom": "jeulgeoun siganeul bonaeda",
 "id": 1169
 },
 {
 "topic": "evenings out",
 "en": "bar",
 "ko": "바",
-"rom": "ba busking",
+"rom": "ba",
 "id": 1170
 },
 {
 "topic": "evenings out",
 "en": "casino",
 "ko": "카지노",
-"rom": "kajino cinema",
+"rom": "kajino",
 "id": 1171
 },
 {
 "topic": "evenings out",
 "en": "concert",
 "ko": "콘서트",
-"rom": "konseoteu crosstalk",
+"rom": "konseoteu",
 "id": 1172
 },
 {
 "topic": "evenings out",
 "en": "funfair",
 "ko": "이동 유원지",
-"rom": "idong yuwonji karaoke",
+"rom": "idong yuwonji",
 "id": 1173
 },
 {
 "topic": "evenings out",
 "en": "musical",
 "ko": "뮤지컬",
-"rom": "myujikeol nightclub",
+"rom": "myujikeol",
 "id": 1174
 },
 {
 "topic": "evenings out",
 "en": "opera",
 "ko": "오페라",
-"rom": "opera restaurant",
+"rom": "opera",
 "id": 1175
 },
 {
 "topic": "evenings out",
 "en": "theatre",
 "ko": "극장",
-"rom": "geukjang traditional performance",
+"rom": "geukjang",
 "id": 1176
 },
 {
@@ -8319,7 +8319,7 @@
 "topic": "hotel",
 "en": "to order room service",
 "ko": "룸서비스를 주문하다",
-"rom": "rumseobiseureul jumunhada corridor",
+"rom": "rumseobiseureul jumunhada",
 "id": 1188
 },
 {
@@ -8340,49 +8340,49 @@
 "topic": "hotel",
 "en": "key card",
 "ko": "카드식 열쇠",
-"rom": "kadeusik yeolsoe minibar",
+"rom": "kadeusik yeolsoe",
 "id": 1191
 },
 {
 "topic": "hotel",
 "en": "porter",
 "ko": "포터",
-"rom": "poteo reception",
+"rom": "poteo",
 "id": 1192
 },
 {
 "topic": "hotel",
 "en": "receptionist",
 "ko": "호텔 직원",
-"rom": "hotel jigwon safe",
+"rom": "hotel jigwon",
 "id": 1193
 },
 {
 "topic": "hotel",
 "en": "single room",
 "ko": "싱글 룸",
-"rom": "singgeul rum toiletries",
+"rom": "singgeul rum",
 "id": 1194
 },
 {
 "topic": "hotel",
 "en": "twin room",
 "ko": "트윈 룸",
-"rom": "teuwin rum camper",
+"rom": "teuwin rum",
 "id": 1195
 },
 {
 "topic": "hotel",
 "en": "campsite",
 "ko": "캠핑장",
-"rom": "kaempingjang pitch",
+"rom": "kaempingjang",
 "id": 1196
 },
 {
 "topic": "hotel",
 "en": "electricity hook-up",
 "ko": "캠핑용 멀티탭",
-"rom": "kaempingyong meoltitaep toilet/shower block",
+"rom": "kaempingyong meoltitaep",
 "id": 1197
 },
 {
@@ -8424,14 +8424,14 @@
 "topic": "camping",
 "en": "camping stove",
 "ko": "버너",
-"rom": "beoneo caravan",
+"rom": "beoneo",
 "id": 1203
 },
 {
 "topic": "camping",
 "en": "cool box",
 "ko": "아이스박스",
-"rom": "aiseubakseu matches",
+"rom": "aiseubakseu",
 "id": 1204
 },
 {
@@ -8445,14 +8445,14 @@
 "topic": "camping",
 "en": "sleeping bag",
 "ko": "침낭",
-"rom": "chimnang tent",
+"rom": "chimnang",
 "id": 1206
 },
 {
 "topic": "camping",
 "en": "torch",
 "ko": "손전등",
-"rom": "sonjeondeung seaside",
+"rom": "sonjeondeung",
 "id": 1207
 },
 {
@@ -8466,7 +8466,7 @@
 "topic": "camping",
 "en": "bathing zone",
 "ko": "해수욕 가능 구역",
-"rom": "haesuyok ganeung guyeok lifeguard",
+"rom": "haesuyok ganeung guyeok",
 "id": 1209
 },
 {
@@ -8522,35 +8522,35 @@
 "topic": "the beach",
 "en": "bucket and spade",
 "ko": "양동이와 삽",
-"rom": "yangdongiwa sap deckchair",
+"rom": "yangdongiwa sap",
 "id": 1217
 },
 {
 "topic": "the beach",
 "en": "flip-flops",
 "ko": "슬리퍼",
-"rom": "seullipeo flippers",
+"rom": "seullipeo",
 "id": 1218
 },
 {
 "topic": "the beach",
 "en": "hammock",
 "ko": "해먹",
-"rom": "haemeok sandcastle",
+"rom": "haemeok",
 "id": 1219
 },
 {
 "topic": "the beach",
 "en": "seashells",
 "ko": "조개껍질",
-"rom": "jogaekkeopjil seaweed",
+"rom": "jogaekkeopjil",
 "id": 1220
 },
 {
 "topic": "the beach",
 "en": "sunglasses",
 "ko": "선글라스",
-"rom": "seongeullaseu sunhat",
+"rom": "seongeullaseu",
 "id": 1221
 },
 {
@@ -8564,35 +8564,35 @@
 "topic": "the beach",
 "en": "swimming trunks",
 "ko": "남성용 수영복",
-"rom": "namseongyong suyeongbok swimsuit",
+"rom": "namseongyong suyeongbok",
 "id": 1223
 },
 {
 "topic": "the beach",
 "en": "beach towel",
 "ko": "해변용 수건",
-"rom": "haebyeonyong sugeon sand",
+"rom": "haebyeonyong sugeon",
 "id": 1224
 },
 {
 "topic": "the beach",
 "en": "sea",
 "ko": "바다",
-"rom": "bada waves",
+"rom": "bada",
 "id": 1225
 },
 {
 "topic": "the beach",
 "en": "parasol",
 "ko": "파라솔",
-"rom": "parasol song",
+"rom": "parasol",
 "id": 1226
 },
 {
 "topic": "the beach",
 "en": "album",
 "ko": "앨범",
-"rom": "aelbeom band",
+"rom": "aelbeom",
 "id": 1227
 },
 {
@@ -8606,21 +8606,21 @@
 "topic": "the beach",
 "en": "live music",
 "ko": "라이브 음악",
-"rom": "raibeu eumak gig",
+"rom": "raibeu eumak",
 "id": 1229
 },
 {
 "topic": "the beach",
 "en": "CD",
 "ko": "시디",
-"rom": "sidi DJ",
+"rom": "sidi",
 "id": 1230
 },
 {
 "topic": "the beach",
 "en": "vinyl record",
 "ko": "레코드 음반",
-"rom": "rekodeu eumban turntable",
+"rom": "rekodeu eumban",
 "id": 1231
 },
 {
@@ -8634,21 +8634,21 @@
 "topic": "the beach",
 "en": "K-pop",
 "ko": "케이팝",
-"rom": "keipap pop",
+"rom": "keipap",
 "id": 1233
 },
 {
 "topic": "the beach",
 "en": "rock",
 "ko": "록",
-"rom": "rok rap",
+"rom": "rok",
 "id": 1234
 },
 {
 "topic": "the beach",
 "en": "classical",
 "ko": "클래식",
-"rom": "keullaesik folk",
+"rom": "keullaesik",
 "id": 1235
 },
 {
@@ -8676,56 +8676,56 @@
 "topic": "the beach",
 "en": "to go to gigs",
 "ko": "공연을 가다",
-"rom": "gongyeoneul gada equipment earphones",
+"rom": "gongyeoneul gada",
 "id": 1239
 },
 {
 "topic": "the beach",
 "en": "headphones",
 "ko": "헤드폰",
-"rom": "hedeupon speakers",
+"rom": "hedeupon",
 "id": 1240
 },
 {
 "topic": "the beach",
 "en": "choir",
 "ko": "합창단",
-"rom": "hapchangdan conductor",
+"rom": "hapchangdan",
 "id": 1241
 },
 {
 "topic": "the beach",
 "en": "musician",
 "ko": "음악가",
-"rom": "eumakga orchestra",
+"rom": "eumakga",
 "id": 1242
 },
 {
 "topic": "the beach",
 "en": "sheet music",
 "ko": "악보",
-"rom": "akbo singer",
+"rom": "akbo",
 "id": 1243
 },
 {
 "topic": "the beach",
 "en": "accordion",
 "ko": "아코디언",
-"rom": "akodieon acoustic guitar",
+"rom": "akodieon",
 "id": 1244
 },
 {
 "topic": "the beach",
 "en": "bass drum",
 "ko": "베이스 드럼",
-"rom": "beiseu deureom bass guitar",
+"rom": "beiseu deureom",
 "id": 1245
 },
 {
 "topic": "the beach",
 "en": "cello",
 "ko": "첼로",
-"rom": "chello clarinet",
+"rom": "chello",
 "id": 1246
 },
 {
@@ -8739,49 +8739,49 @@
 "topic": "the beach",
 "en": "double bass",
 "ko": "더블 베이스",
-"rom": "deobeul beiseu drum",
+"rom": "deobeul beiseu",
 "id": 1248
 },
 {
 "topic": "the beach",
 "en": "electric guitar",
 "ko": "전기 기타",
-"rom": "jeongi gita flute",
+"rom": "jeongi gita",
 "id": 1249
 },
 {
 "topic": "the beach",
 "en": "harp",
 "ko": "하프",
-"rom": "hapeu keyboard",
+"rom": "hapeu",
 "id": 1250
 },
 {
 "topic": "the beach",
 "en": "mouth organ",
 "ko": "하모니카",
-"rom": "hamonika piano",
+"rom": "hamonika",
 "id": 1251
 },
 {
 "topic": "the beach",
 "en": "saxophone",
 "ko": "색소폰",
-"rom": "saeksopon trombone",
+"rom": "saeksopon",
 "id": 1252
 },
 {
 "topic": "the beach",
 "en": "trumpet",
 "ko": "트럼펫",
-"rom": "teureompet tuba",
+"rom": "teureompet",
 "id": 1253
 },
 {
 "topic": "the beach",
 "en": "violin",
 "ko": "바이올린",
-"rom": "baiollin xylophone",
+"rom": "baiollin",
 "id": 1254
 },
 {
@@ -8802,14 +8802,14 @@
 "topic": "the beach",
 "en": "Korean zither",
 "ko": "가야금",
-"rom": "gayageum photographer",
+"rom": "gayageum",
 "id": 1257
 },
 {
 "topic": "the beach",
 "en": "photo",
 "ko": "사진",
-"rom": "sajin selfie",
+"rom": "sajin",
 "id": 1258
 },
 {
@@ -8844,7 +8844,7 @@
 "topic": "the beach",
 "en": "compact camera",
 "ko": "컴팩트 카메라",
-"rom": "keompaekteu kamera drone",
+"rom": "keompaekteu kamera",
 "id": 1263
 },
 {
@@ -8858,21 +8858,21 @@
 "topic": "the beach",
 "en": "SD card",
 "ko": "에스디 카드",
-"rom": "eseudi kadeu tripod",
+"rom": "eseudi kadeu",
 "id": 1265
 },
 {
 "topic": "the beach",
 "en": "player",
 "ko": "참가자",
-"rom": "chamgaja poker",
+"rom": "chamgaja",
 "id": 1266
 },
 {
 "topic": "the beach",
 "en": "games console",
 "ko": "게임기",
-"rom": "geimgi game controller",
+"rom": "geimgi",
 "id": 1267
 },
 {
@@ -8886,7 +8886,7 @@
 "topic": "the beach",
 "en": "virtual reality headset",
 "ko": "가상 현실 헤드셋",
-"rom": "gasang hyeonsil hedeuset draughts",
+"rom": "gasang hyeonsil hedeuset",
 "id": 1269
 },
 {
@@ -8928,56 +8928,56 @@
 "topic": "the beach",
 "en": "board game",
 "ko": "보드게임",
-"rom": "bodeugeim bowling",
+"rom": "bodeugeim",
 "id": 1275
 },
 {
 "topic": "the beach",
 "en": "cards",
 "ko": "카드",
-"rom": "kadeu chess",
+"rom": "kadeu",
 "id": 1276
 },
 {
 "topic": "the beach",
 "en": "Chinese chess",
 "ko": "장기",
-"rom": "janggi crossword",
+"rom": "janggi",
 "id": 1277
 },
 {
 "topic": "the beach",
 "en": "darts",
 "ko": "다트",
-"rom": "dateu dice",
+"rom": "dateu",
 "id": 1278
 },
 {
 "topic": "the beach",
 "en": "go",
 "ko": "바둑",
-"rom": "baduk go-stop",
+"rom": "baduk",
 "id": 1279
 },
 {
 "topic": "the beach",
 "en": "jigsaw puzzle",
 "ko": "퍼즐 맞추기",
-"rom": "peojeul matchugi yunnori",
+"rom": "peojeul matchugi",
 "id": 1280
 },
 {
 "topic": "the beach",
 "en": "handicrafts",
 "ko": "수공예",
-"rom": "sugongye artist",
+"rom": "sugongye",
 "id": 1281
 },
 {
 "topic": "the beach",
 "en": "amateur",
 "ko": "비전문가",
-"rom": "bijeonmunga dressmaker",
+"rom": "bijeonmunga",
 "id": 1282
 },
 {
@@ -9019,28 +9019,28 @@
 "topic": "the beach",
 "en": "calligraphy",
 "ko": "서예",
-"rom": "seoye cross-stitch",
+"rom": "seoye",
 "id": 1288
 },
 {
 "topic": "the beach",
 "en": "embroidery",
 "ko": "자수",
-"rom": "jasu jewellery-making",
+"rom": "jasu",
 "id": 1289
 },
 {
 "topic": "the beach",
 "en": "model-making",
 "ko": "프라모델 조립",
-"rom": "peuramodel jorip papercrafts",
+"rom": "peuramodel jorip",
 "id": 1290
 },
 {
 "topic": "the beach",
 "en": "pottery",
 "ko": "도예",
-"rom": "doye traditional ink painting",
+"rom": "doye",
 "id": 1291
 },
 {
@@ -9054,14 +9054,14 @@
 "topic": "the beach",
 "en": "calligraphy brush",
 "ko": "서예붓",
-"rom": "seoyebut canvas",
+"rom": "seoyebut",
 "id": 1293
 },
 {
 "topic": "the beach",
 "en": "easel",
 "ko": "이젤",
-"rom": "ijel ink",
+"rom": "ijel",
 "id": 1294
 },
 {
@@ -9082,28 +9082,28 @@
 "topic": "arts and crafts",
 "en": "palette",
 "ko": "팔레트",
-"rom": "palleteu paper-cutting",
+"rom": "palleteu",
 "id": 1297
 },
 {
 "topic": "arts and crafts",
 "en": "pastels",
 "ko": "파스텔",
-"rom": "paseutel sketchpad",
+"rom": "paseutel",
 "id": 1298
 },
 {
 "topic": "arts and crafts",
 "en": "traditional black ink",
 "ko": "먹물",
-"rom": "meongmul watercolours",
+"rom": "meongmul",
 "id": 1299
 },
 {
 "topic": "arts and crafts",
 "en": "ball of wool",
 "ko": "털실 뭉치",
-"rom": "teolsil mungchi button",
+"rom": "teolsil mungchi",
 "id": 1300
 },
 {
@@ -9166,7 +9166,7 @@
 "topic": "arts and crafts",
 "en": "centre circle",
 "ko": "센터 서클",
-"rom": "senteo seokeul goal",
+"rom": "senteo seokeul",
 "id": 1309
 },
 {
@@ -9180,42 +9180,42 @@
 "topic": "the basics",
 "en": "tournament",
 "ko": "토너먼트",
-"rom": "toneomeonteu competition",
+"rom": "toneomeonteu",
 "id": 1311
 },
 {
 "topic": "the basics",
 "en": "league",
 "ko": "리그",
-"rom": "rigeu champion",
+"rom": "rigeu",
 "id": 1312
 },
 {
 "topic": "the basics",
 "en": "competitor",
 "ko": "경쟁자",
-"rom": "gyeongjaengja teammate",
+"rom": "gyeongjaengja",
 "id": 1313
 },
 {
 "topic": "the basics",
 "en": "sportsperson",
 "ko": "운동선수",
-"rom": "undongseonsu coach",
+"rom": "undongseonsu",
 "id": 1314
 },
 {
 "topic": "the basics",
 "en": "manager",
 "ko": "감독",
-"rom": "gamdok match",
+"rom": "gamdok",
 "id": 1315
 },
 {
 "topic": "the basics",
 "en": "points",
 "ko": "점수",
-"rom": "jeomsu locker",
+"rom": "jeomsu",
 "id": 1316
 },
 {
@@ -9271,35 +9271,35 @@
 "topic": "the basics",
 "en": "leisure centre",
 "ko": "공공 체육 시설",
-"rom": "gonggong cheyuk siseol medal",
+"rom": "gonggong cheyuk siseol",
 "id": 1324
 },
 {
 "topic": "the basics",
 "en": "podium",
 "ko": "시상대",
-"rom": "sisangdae referee",
+"rom": "sisangdae",
 "id": 1325
 },
 {
 "topic": "the basics",
 "en": "scoreboard",
 "ko": "득점 게시판",
-"rom": "deukjeom gesipan showers",
+"rom": "deukjeom gesipan",
 "id": 1326
 },
 {
 "topic": "the basics",
 "en": "spectators",
 "ko": "관중",
-"rom": "gwanjung stadium",
+"rom": "gwanjung",
 "id": 1327
 },
 {
 "topic": "the basics",
 "en": "stands",
 "ko": "관중석",
-"rom": "gwanjungseok team",
+"rom": "gwanjungseok",
 "id": 1328
 },
 {
@@ -9313,7 +9313,7 @@
 "topic": "wellbeing",
 "en": "gym",
 "ko": "헬스장",
-"rom": "helseujang gym instructor",
+"rom": "helseujang",
 "id": 1330
 },
 {
@@ -9369,7 +9369,7 @@
 "topic": "wellbeing",
 "en": "cross trainer",
 "ko": "크로스 트레이너",
-"rom": "keuroseu teureineo dumbbell",
+"rom": "keuroseu teureineo",
 "id": 1338
 },
 {
@@ -9404,42 +9404,42 @@
 "topic": "wellbeing",
 "en": "skipping rope",
 "ko": "줄넘기 줄",
-"rom": "julleomgi jul treadmill",
+"rom": "julleomgi jul",
 "id": 1343
 },
 {
 "topic": "wellbeing",
 "en": "weightlifting bench",
 "ko": "웨이트 트레이닝 기구",
-"rom": "weiteu teureining gigu activities",
+"rom": "weiteu teureining gigu",
 "id": 1344
 },
 {
 "topic": "wellbeing",
 "en": "Pilates",
 "ko": "필라테스",
-"rom": "pillateseu press-ups",
+"rom": "pillateseu",
 "id": 1345
 },
 {
 "topic": "wellbeing",
 "en": "running",
 "ko": "달리기",
-"rom": "dalligi sit-ups",
+"rom": "dalligi",
 "id": 1346
 },
 {
 "topic": "wellbeing",
 "en": "weightlifting",
 "ko": "웨이트 트레이닝",
-"rom": "weiteu teureining yoga",
+"rom": "weiteu teureining",
 "id": 1347
 },
 {
 "topic": "baseball",
 "en": "baseball stadium",
 "ko": "야구장",
-"rom": "yagujang batter",
+"rom": "yagujang",
 "id": 1348
 },
 {
@@ -9460,21 +9460,21 @@
 "topic": "baseball",
 "en": "home run",
 "ko": "홈런",
-"rom": "homneon inning",
+"rom": "homneon",
 "id": 1351
 },
 {
 "topic": "baseball",
 "en": "mound",
 "ko": "마운드",
-"rom": "maundeu pitcher",
+"rom": "maundeu",
 "id": 1352
 },
 {
 "topic": "baseball",
 "en": "softball",
 "ko": "소프트볼",
-"rom": "sopeuteubol baseball",
+"rom": "sopeuteubol",
 "id": 1353
 },
 {
@@ -9509,7 +9509,7 @@
 "topic": "baseball",
 "en": "baseball player",
 "ko": "야구 선수",
-"rom": "yagu seonsu layup",
+"rom": "yagu seonsu",
 "id": 1358
 },
 {
@@ -9565,14 +9565,14 @@
 "topic": "basketball",
 "en": "to mark a player",
 "ko": "선수를 전담 마크하다",
-"rom": "seonsureul jeondam makeuhada basket",
+"rom": "seonsureul jeondam makeuhada",
 "id": 1366
 },
 {
 "topic": "basketball",
 "en": "basketball",
 "ko": "농구공",
-"rom": "nonggugong basketball court",
+"rom": "nonggugong",
 "id": 1367
 },
 {
@@ -9586,21 +9586,21 @@
 "topic": "basketball",
 "en": "basketball player",
 "ko": "농구 선수",
-"rom": "nonggu seonsu basketball shoes",
+"rom": "nonggu seonsu",
 "id": 1369
 },
 {
 "topic": "basketball",
 "en": "defender",
 "ko": "수비수",
-"rom": "subisu striker",
+"rom": "subisu",
 "id": 1370
 },
 {
 "topic": "basketball",
 "en": "substitute",
 "ko": "교체 선수",
-"rom": "gyoche seonsu kick-off",
+"rom": "gyoche seonsu",
 "id": 1371
 },
 {
@@ -9635,21 +9635,21 @@
 "topic": "basketball",
 "en": "free kick",
 "ko": "프리 킥",
-"rom": "peuri kik header",
+"rom": "peuri kik",
 "id": 1376
 },
 {
 "topic": "basketball",
 "en": "save",
 "ko": "선방",
-"rom": "seonbang foul",
+"rom": "seonbang",
 "id": 1377
 },
 {
 "topic": "basketball",
 "en": "offside",
 "ko": "오프사이드",
-"rom": "opeusaideu penalty",
+"rom": "opeusaideu",
 "id": 1378
 },
 {
@@ -9663,14 +9663,14 @@
 "topic": "football",
 "en": "ace",
 "ko": "에이스",
-"rom": "eiseu serve",
+"rom": "eiseu",
 "id": 1380
 },
 {
 "topic": "football",
 "en": "backhand",
 "ko": "백핸드",
-"rom": "baekaendeu forehand",
+"rom": "baekaendeu",
 "id": 1381
 },
 {
@@ -9684,14 +9684,14 @@
 "topic": "football",
 "en": "double fault",
 "ko": "더블 폴트",
-"rom": "deobeul polteu rally",
+"rom": "deobeul polteu",
 "id": 1383
 },
 {
 "topic": "football",
 "en": "singles",
 "ko": "단식",
-"rom": "dansik doubles",
+"rom": "dansik",
 "id": 1384
 },
 {
@@ -9754,7 +9754,7 @@
 "topic": "racket sports",
 "en": "to score a goal",
 "ko": "골을 넣다",
-"rom": "goreul neota football",
+"rom": "goreul neota",
 "id": 1393
 },
 {
@@ -9782,14 +9782,14 @@
 "topic": "racket sports",
 "en": "football player",
 "ko": "축구 선수",
-"rom": "chukgu seonsu goal",
+"rom": "chukgu seonsu",
 "id": 1397
 },
 {
 "topic": "racket sports",
 "en": "goalkeeper",
 "ko": "골기퍼",
-"rom": "golgipeo whistle",
+"rom": "golgipeo",
 "id": 1398
 },
 {
@@ -9824,14 +9824,14 @@
 "topic": "racket sports",
 "en": "to break his/her serve",
 "ko": "상대가 서브인 판에서 득점하다",
-"rom": "sangdaega seobeuin paneseo deukjeomhada badminton badminton",
+"rom": "sangdaega seobeuin paneseo deukjeomhada",
 "id": 1403
 },
 {
 "topic": "racket sports",
 "en": "badminton racket",
 "ko": "배드민턴 채",
-"rom": "baedeuminteon chae shuttlecock",
+"rom": "baedeuminteon chae",
 "id": 1404
 },
 {
@@ -9845,7 +9845,7 @@
 "topic": "racket sports",
 "en": "line judge",
 "ko": "선심판",
-"rom": "seonsimpan tennis",
+"rom": "seonsimpan",
 "id": 1406
 },
 {
@@ -9873,14 +9873,14 @@
 "topic": "racket sports",
 "en": "tennis racket",
 "ko": "테니스 채",
-"rom": "teniseu chae umpire",
+"rom": "teniseu chae",
 "id": 1410
 },
 {
 "topic": "racket sports",
 "en": "umpire’s chair",
 "ko": "심판석",
-"rom": "simpanseok squash squash",
+"rom": "simpanseok",
 "id": 1411
 },
 {
@@ -9901,42 +9901,42 @@
 "topic": "water sports",
 "en": "breaststroke",
 "ko": "평영",
-"rom": "pyeongyeong backstroke",
+"rom": "pyeongyeong",
 "id": 1414
 },
 {
 "topic": "water sports",
 "en": "front crawl",
 "ko": "자유형",
-"rom": "jayuhyeong butterfly",
+"rom": "jayuhyeong",
 "id": 1415
 },
 {
 "topic": "water sports",
 "en": "lane",
 "ko": "레인",
-"rom": "rein length",
+"rom": "rein",
 "id": 1416
 },
 {
 "topic": "water sports",
 "en": "swimming lesson",
 "ko": "수영 강습",
-"rom": "suyeong gangseup swimming",
+"rom": "suyeong gangseup",
 "id": 1417
 },
 {
 "topic": "water sports",
 "en": "diving",
 "ko": "다이빙",
-"rom": "daibing diver",
+"rom": "daibing",
 "id": 1418
 },
 {
 "topic": "water sports",
 "en": "angling",
 "ko": "낚시",
-"rom": "naksi angler",
+"rom": "naksi",
 "id": 1419
 },
 {
@@ -9978,14 +9978,14 @@
 "topic": "water sports",
 "en": "to fish",
 "ko": "낚시하다",
-"rom": "naksihada pool armbands",
+"rom": "naksihada",
 "id": 1425
 },
 {
 "topic": "water sports",
 "en": "diving board",
 "ko": "다이빙대",
-"rom": "daibingdae goggles",
+"rom": "daibingdae",
 "id": 1426
 },
 {
@@ -10013,7 +10013,7 @@
 "topic": "water sports",
 "en": "swimming trunks",
 "ko": "남성용 수영복",
-"rom": "namseongyong suyeongbok swimsuit",
+"rom": "namseongyong suyeongbok",
 "id": 1430
 },
 {
@@ -10027,70 +10027,70 @@
 "topic": "water sports",
 "en": "bodyboarding",
 "ko": "보디보딩",
-"rom": "bodiboding canoeing",
+"rom": "bodiboding",
 "id": 1432
 },
 {
 "topic": "water sports",
 "en": "jet ski",
 "ko": "제트 스키",
-"rom": "jeteu seuki kayaking",
+"rom": "jeteu seuki",
 "id": 1433
 },
 {
 "topic": "water sports",
 "en": "lifejacket",
 "ko": "구명조끼",
-"rom": "gumyeongjokki paddle",
+"rom": "gumyeongjokki",
 "id": 1434
 },
 {
 "topic": "water sports",
 "en": "paddleboarding",
 "ko": "패들보드 타기",
-"rom": "paedeulbodeu tagi rafting",
+"rom": "paedeulbodeu tagi",
 "id": 1435
 },
 {
 "topic": "water sports",
 "en": "scuba diving",
 "ko": "스쿠버 다이빙",
-"rom": "seukubeo daibing snorkelling",
+"rom": "seukubeo daibing",
 "id": 1436
 },
 {
 "topic": "water sports",
 "en": "surfboard",
 "ko": "서프보드",
-"rom": "seopeubodeu surfing",
+"rom": "seopeubodeu",
 "id": 1437
 },
 {
 "topic": "water sports",
 "en": "waterskiing",
 "ko": "수상 스키 타기",
-"rom": "susang seuki tagi wetsuit",
+"rom": "susang seuki tagi",
 "id": 1438
 },
 {
 "topic": "water sports",
 "en": "windsurfing",
 "ko": "윈드서핑",
-"rom": "windeuseoping skiing",
+"rom": "windeuseoping",
 "id": 1439
 },
 {
 "topic": "water sports",
 "en": "snowboarding",
 "ko": "스노보드 타기",
-"rom": "seunobodeu tagi skier",
+"rom": "seunobodeu tagi",
 "id": 1440
 },
 {
 "topic": "water sports",
 "en": "ski resort",
 "ko": "스키장",
-"rom": "seukijang ski instructor",
+"rom": "seukijang",
 "id": 1441
 },
 {
@@ -10125,14 +10125,14 @@
 "topic": "winter sports",
 "en": "snow",
 "ko": "눈",
-"rom": "nun powder",
+"rom": "nun",
 "id": 1446
 },
 {
 "topic": "winter sports",
 "en": "ice",
 "ko": "얼음",
-"rom": "eoreum avalanche",
+"rom": "eoreum",
 "id": 1447
 },
 {
@@ -10160,7 +10160,7 @@
 "topic": "winter sports",
 "en": "to go sledging",
 "ko": "썰매 타러 가다",
-"rom": "sseolmae tareo gada general crampons",
+"rom": "sseolmae tareo gada",
 "id": 1451
 },
 {
@@ -10181,14 +10181,14 @@
 "topic": "winter sports",
 "en": "ice skating",
 "ko": "스케이트 타기",
-"rom": "seukeiteu tagi rope",
+"rom": "seukeiteu tagi",
 "id": 1454
 },
 {
 "topic": "winter sports",
 "en": "sledge",
 "ko": "썰매",
-"rom": "sseolmae skiing and snowboarding piste",
+"rom": "sseolmae",
 "id": 1455
 },
 {
@@ -10237,14 +10237,14 @@
 "topic": "winter sports",
 "en": "ski poles",
 "ko": "스키폴",
-"rom": "seukipol skis",
+"rom": "seukipol",
 "id": 1462
 },
 {
 "topic": "winter sports",
 "en": "ski suit",
 "ko": "원피스 스키복",
-"rom": "wonpiseu seukibok snowboard",
+"rom": "wonpiseu seukibok",
 "id": 1463
 },
 {
@@ -10272,7 +10272,7 @@
 "topic": "combat sports",
 "en": "fight",
 "ko": "대결",
-"rom": "daegyeol boxer",
+"rom": "daegyeol",
 "id": 1467
 },
 {
@@ -10286,21 +10286,21 @@
 "topic": "combat sports",
 "en": "Korean wrestling",
 "ko": "씨름",
-"rom": "ssireum opponent",
+"rom": "ssireum",
 "id": 1469
 },
 {
 "topic": "combat sports",
 "en": "wrestling",
 "ko": "레슬링",
-"rom": "reseulling fencing",
+"rom": "reseulling",
 "id": 1470
 },
 {
 "topic": "combat sports",
 "en": "headguard",
 "ko": "헤드기어",
-"rom": "hedeugieo mouthguard",
+"rom": "hedeugieo",
 "id": 1471
 },
 {
@@ -10342,7 +10342,7 @@
 "topic": "combat sports",
 "en": "to knock out",
 "ko": "케이오 당하다",
-"rom": "keio danghada boxing",
+"rom": "keio danghada",
 "id": 1477
 },
 {
@@ -10356,35 +10356,35 @@
 "topic": "combat sports",
 "en": "boxing ring",
 "ko": "권투 링",
-"rom": "gwontu ring punchbag",
+"rom": "gwontu ring",
 "id": 1479
 },
 {
 "topic": "combat sports",
 "en": "aikido",
 "ko": "합기도",
-"rom": "hapgido judo",
+"rom": "hapgido",
 "id": 1480
 },
 {
 "topic": "combat sports",
 "en": "jujitsu",
 "ko": "주짓수",
-"rom": "jujitsu kendo",
+"rom": "jujitsu",
 "id": 1481
 },
 {
 "topic": "combat sports",
 "en": "kickboxing",
 "ko": "킥복싱",
-"rom": "kikboksing taekwondo",
+"rom": "kikboksing",
 "id": 1482
 },
 {
 "topic": "athletics",
 "en": "runner",
 "ko": "주자",
-"rom": "juja race",
+"rom": "juja",
 "id": 1483
 },
 {
@@ -10398,21 +10398,21 @@
 "topic": "athletics",
 "en": "half marathon",
 "ko": "하프마라톤",
-"rom": "hapeumaraton sprint",
+"rom": "hapeumaraton",
 "id": 1485
 },
 {
 "topic": "athletics",
 "en": "relay",
 "ko": "계주",
-"rom": "gyeju lane",
+"rom": "gyeju",
 "id": 1486
 },
 {
 "topic": "athletics",
 "en": "start/finish line",
 "ko": "출발선/결승선",
-"rom": "chulbalseon/ gyeolseungseon heat",
+"rom": "chulbalseon/",
 "id": 1487
 },
 {
@@ -10426,7 +10426,7 @@
 "topic": "athletics",
 "en": "triple jump",
 "ko": "트리플 점프",
-"rom": "teuripeul jeompeu heptathlon",
+"rom": "teuripeul jeompeu",
 "id": 1489
 },
 {
@@ -10468,7 +10468,7 @@
 "topic": "athletics",
 "en": "to throw",
 "ko": "던지다",
-"rom": "deonjida athlete",
+"rom": "deonjida",
 "id": 1495
 },
 {
@@ -10482,7 +10482,7 @@
 "topic": "athletics",
 "en": "high jump",
 "ko": "높이뛰기",
-"rom": "nopittwigi hurdles",
+"rom": "nopittwigi",
 "id": 1497
 },
 {
@@ -10517,14 +10517,14 @@
 "topic": "athletics",
 "en": "shot put",
 "ko": "투포환",
-"rom": "tupohwan spikes",
+"rom": "tupohwan",
 "id": 1502
 },
 {
 "topic": "athletics",
 "en": "starting block",
 "ko": "스타팅 블록",
-"rom": "seutating beullok stopwatch",
+"rom": "seutating beullok",
 "id": 1503
 },
 {
@@ -10538,7 +10538,7 @@
 "topic": "cycling",
 "en": "cycling shorts",
 "ko": "자전거 반바지",
-"rom": "jajeongeo banbaji rider",
+"rom": "jajeongeo banbaji",
 "id": 1505
 },
 {
@@ -10552,7 +10552,7 @@
 "topic": "cycling",
 "en": "time trial",
 "ko": "타임 트라이얼",
-"rom": "taim teuraieol stage",
+"rom": "taim teuraieol",
 "id": 1507
 },
 {
@@ -10573,7 +10573,7 @@
 "topic": "cycling",
 "en": "to crash",
 "ko": "충돌하다",
-"rom": "chungdolhada BMX",
+"rom": "chungdolhada",
 "id": 1510
 },
 {
@@ -10594,42 +10594,42 @@
 "topic": "cycling",
 "en": "road bike",
 "ko": "로드 바이크",
-"rom": "rodeu baikeu velodrome",
+"rom": "rodeu baikeu",
 "id": 1513
 },
 {
 "topic": "cycling",
 "en": "water bottle",
 "ko": "물통",
-"rom": "multong minigolf",
+"rom": "multong",
 "id": 1514
 },
 {
 "topic": "cycling",
 "en": "golf course",
 "ko": "골프장",
-"rom": "golpeujang clubhouse",
+"rom": "golpeujang",
 "id": 1515
 },
 {
 "topic": "cycling",
 "en": "caddie",
 "ko": "캐디",
-"rom": "kaedi green",
+"rom": "kaedi",
 "id": 1516
 },
 {
 "topic": "cycling",
 "en": "bunker",
 "ko": "벙커",
-"rom": "beongkeo hole",
+"rom": "beongkeo",
 "id": 1517
 },
 {
 "topic": "cycling",
 "en": "handicap",
 "ko": "핸디캡",
-"rom": "haendikaep hole-in-one",
+"rom": "haendikaep",
 "id": 1518
 },
 {
@@ -10678,42 +10678,42 @@
 "topic": "cycling",
 "en": "golf club",
 "ko": "골프 채",
-"rom": "golpeu chae golfer",
+"rom": "golpeu chae",
 "id": 1525
 },
 {
 "topic": "cycling",
 "en": "tee",
 "ko": "티",
-"rom": "ti archery",
+"rom": "ti",
 "id": 1526
 },
 {
 "topic": "cycling",
 "en": "climbing",
 "ko": "암벽 등반",
-"rom": "ambyeok deungban equestrian",
+"rom": "ambyeok deungban",
 "id": 1527
 },
 {
 "topic": "cycling",
 "en": "fishing",
 "ko": "낚시",
-"rom": "naksi gymnastics",
+"rom": "naksi",
 "id": 1528
 },
 {
 "topic": "cycling",
 "en": "handball",
 "ko": "핸드볼",
-"rom": "haendeubol hockey",
+"rom": "haendeubol",
 "id": 1529
 },
 {
 "topic": "cycling",
 "en": "shooting",
 "ko": "사격",
-"rom": "sagyeok skateboarding",
+"rom": "sagyeok",
 "id": 1530
 },
 {
@@ -10727,21 +10727,21 @@
 "topic": "cycling",
 "en": "table tennis",
 "ko": "탁구",
-"rom": "takgu volleyball",
+"rom": "takgu",
 "id": 1532
 },
 {
 "topic": "cycling",
 "en": "bandage",
 "ko": "붕대",
-"rom": "bungdae tablet",
+"rom": "bungdae",
 "id": 1533
 },
 {
 "topic": "cycling",
 "en": "syringe",
 "ko": "주사기",
-"rom": "jusagi plaster",
+"rom": "jusagi",
 "id": 1534
 },
 {
@@ -10755,14 +10755,14 @@
 "topic": "the basics",
 "en": "nurse",
 "ko": "간호사",
-"rom": "ganhosa specialist",
+"rom": "ganhosa",
 "id": 1536
 },
 {
 "topic": "the basics",
 "en": "paramedic",
 "ko": "구급대원",
-"rom": "gugeupdaewon pain",
+"rom": "gugeupdaewon",
 "id": 1537
 },
 {
@@ -10776,21 +10776,21 @@
 "topic": "the basics",
 "en": "mental health",
 "ko": "정신 건강",
-"rom": "jeongsin geongang treatment",
+"rom": "jeongsin geongang",
 "id": 1539
 },
 {
 "topic": "the basics",
 "en": "symptom",
 "ko": "증상",
-"rom": "jeungsang recovery",
+"rom": "jeungsang",
 "id": 1540
 },
 {
 "topic": "the basics",
 "en": "health insurance",
 "ko": "의료 보험",
-"rom": "uiryo boheom healthy",
+"rom": "uiryo boheom",
 "id": 1541
 },
 {
@@ -10818,21 +10818,21 @@
 "topic": "the basics",
 "en": "to treat",
 "ko": "치료하다",
-"rom": "chiryohada doctor",
+"rom": "chiryohada",
 "id": 1545
 },
 {
 "topic": "the basics",
 "en": "hospital",
 "ko": "병원",
-"rom": "byeongwon medicine",
+"rom": "byeongwon",
 "id": 1546
 },
 {
 "topic": "the basics",
 "en": "patient",
 "ko": "환자",
-"rom": "hwanja pharmacist",
+"rom": "hwanja",
 "id": 1547
 },
 {
@@ -10846,42 +10846,42 @@
 "topic": "the body",
 "en": "throat",
 "ko": "목구멍",
-"rom": "mokgumeong eyelash",
+"rom": "mokgumeong",
 "id": 1549
 },
 {
 "topic": "the body",
 "en": "eyebrow",
 "ko": "눈썹",
-"rom": "nunsseop eyelid",
+"rom": "nunsseop",
 "id": 1550
 },
 {
 "topic": "the body",
 "en": "nostrils",
 "ko": "콧구멍",
-"rom": "kotgumeong lips",
+"rom": "kotgumeong",
 "id": 1551
 },
 {
 "topic": "the body",
 "en": "tongue",
 "ko": "혀",
-"rom": "hyeo breast",
+"rom": "hyeo",
 "id": 1552
 },
 {
 "topic": "the body",
 "en": "genitals",
 "ko": "생식기",
-"rom": "saengsikgi skin",
+"rom": "saengsikgi",
 "id": 1553
 },
 {
 "topic": "the body",
 "en": "(body) hair",
 "ko": "털",
-"rom": "teol height",
+"rom": "teol",
 "id": 1554
 },
 {
@@ -10923,7 +10923,7 @@
 "topic": "the body",
 "en": "sense of touch",
 "ko": "촉각",
-"rom": "chokgak balance",
+"rom": "chokgak",
 "id": 1560
 },
 {
@@ -10979,168 +10979,168 @@
 "topic": "the body",
 "en": "to lose one’s balance",
 "ko": "균형을 잃다",
-"rom": "gyunhyeongeul ilta face hair",
+"rom": "gyunhyeongeul ilta",
 "id": 1568
 },
 {
 "topic": "the body",
 "en": "forehead",
 "ko": "이마",
-"rom": "ima eye",
+"rom": "ima",
 "id": 1569
 },
 {
 "topic": "the body",
 "en": "ear",
 "ko": "귀",
-"rom": "gwi cheek",
+"rom": "gwi",
 "id": 1570
 },
 {
 "topic": "the body",
 "en": "nose",
 "ko": "코",
-"rom": "ko mouth",
+"rom": "ko",
 "id": 1571
 },
 {
 "topic": "the body",
 "en": "jaw",
 "ko": "턱",
-"rom": "teok chin",
+"rom": "teok",
 "id": 1572
 },
 {
 "topic": "the body",
 "en": "wrist",
 "ko": "손목",
-"rom": "sonmok fingernail",
+"rom": "sonmok",
 "id": 1573
 },
 {
 "topic": "the body",
 "en": "palm",
 "ko": "손바닥",
-"rom": "sonbadak thumb",
+"rom": "sonbadak",
 "id": 1574
 },
 {
 "topic": "the body",
 "en": "finger",
 "ko": "손가락",
-"rom": "songarak foot",
+"rom": "songarak",
 "id": 1575
 },
 {
 "topic": "the body",
 "en": "big toe",
 "ko": "엄지발가락",
-"rom": "eomjibalgarak toenail",
+"rom": "eomjibalgarak",
 "id": 1576
 },
 {
 "topic": "the body",
 "en": "toe",
 "ko": "발가락",
-"rom": "balgarak sole",
+"rom": "balgarak",
 "id": 1577
 },
 {
 "topic": "the body",
 "en": "heel",
 "ko": "뒤꿈치",
-"rom": "dwikkumchi ankle",
+"rom": "dwikkumchi",
 "id": 1578
 },
 {
 "topic": "the body",
 "en": "head",
 "ko": "머리",
-"rom": "meori face",
+"rom": "meori",
 "id": 1579
 },
 {
 "topic": "the body",
 "en": "neck",
 "ko": "목",
-"rom": "mok arm",
+"rom": "mok",
 "id": 1580
 },
 {
 "topic": "the body",
 "en": "chest",
 "ko": "가슴",
-"rom": "gaseum abdomen",
+"rom": "gaseum",
 "id": 1581
 },
 {
 "topic": "the body",
 "en": "hand",
 "ko": "손",
-"rom": "son thigh",
+"rom": "son",
 "id": 1582
 },
 {
 "topic": "the body",
 "en": "leg",
 "ko": "다리",
-"rom": "dari knee",
+"rom": "dari",
 "id": 1583
 },
 {
 "topic": "the body",
 "en": "shin",
 "ko": "정강이",
-"rom": "jeonggangi foot",
+"rom": "jeonggangi",
 "id": 1584
 },
 {
 "topic": "the body",
 "en": "shoulder",
 "ko": "어깨",
-"rom": "eokkae elbow",
+"rom": "eokkae",
 "id": 1585
 },
 {
 "topic": "the body",
 "en": "back",
 "ko": "등",
-"rom": "deung hip",
+"rom": "deung",
 "id": 1586
 },
 {
 "topic": "the body",
 "en": "buttocks",
 "ko": "엉덩이",
-"rom": "eongdeongi calf",
+"rom": "eongdeongi",
 "id": 1587
 },
 {
 "topic": "the body",
 "en": "skeleton",
 "ko": "골격",
-"rom": "golgyeok organ",
+"rom": "golgyeok",
 "id": 1588
 },
 {
 "topic": "the body",
 "en": "brain",
 "ko": "뇌",
-"rom": "noe heart",
+"rom": "noe",
 "id": 1589
 },
 {
 "topic": "the body",
 "en": "lung",
 "ko": "폐",
-"rom": "pye liver",
+"rom": "pye",
 "id": 1590
 },
 {
 "topic": "the body",
 "en": "stomach",
 "ko": "위",
-"rom": "wi kidney",
+"rom": "wi",
 "id": 1591
 },
 {
@@ -11161,84 +11161,84 @@
 "topic": "inside the body",
 "en": "respiratory system",
 "ko": "호흡 기관",
-"rom": "hoheup gigwan bladder",
+"rom": "hoheup gigwan",
 "id": 1594
 },
 {
 "topic": "inside the body",
 "en": "blood",
 "ko": "혈액",
-"rom": "hyeoraek joint",
+"rom": "hyeoraek",
 "id": 1595
 },
 {
 "topic": "inside the body",
 "en": "bone",
 "ko": "뼈",
-"rom": "ppyeo muscle",
+"rom": "ppyeo",
 "id": 1596
 },
 {
 "topic": "inside the body",
 "en": "tendon",
 "ko": "힘줄",
-"rom": "himjul tissue",
+"rom": "himjul",
 "id": 1597
 },
 {
 "topic": "inside the body",
 "en": "cell",
 "ko": "세포",
-"rom": "sepo artery",
+"rom": "sepo",
 "id": 1598
 },
 {
 "topic": "inside the body",
 "en": "vein",
 "ko": "정맥",
-"rom": "jeongmaek skeleton skull",
+"rom": "jeongmaek",
 "id": 1599
 },
 {
 "topic": "inside the body",
 "en": "collarbone",
 "ko": "쇄골",
-"rom": "swaegol vertebrae",
+"rom": "swaegol",
 "id": 1600
 },
 {
 "topic": "inside the body",
 "en": "humerus",
 "ko": "상완골",
-"rom": "sangwangol breastbone",
+"rom": "sangwangol",
 "id": 1601
 },
 {
 "topic": "inside the body",
 "en": "ribs",
 "ko": "늑골",
-"rom": "neukgol spine",
+"rom": "neukgol",
 "id": 1602
 },
 {
 "topic": "inside the body",
 "en": "radius",
 "ko": "요골",
-"rom": "yogol ulna",
+"rom": "yogol",
 "id": 1603
 },
 {
 "topic": "inside the body",
 "en": "pelvis",
 "ko": "골반",
-"rom": "golban femur",
+"rom": "golban",
 "id": 1604
 },
 {
 "topic": "inside the body",
 "en": "kneecap",
 "ko": "슬개골",
-"rom": "seulgaegol fibula",
+"rom": "seulgaegol",
 "id": 1605
 },
 {
@@ -11252,21 +11252,21 @@
 "topic": "seeing a doctor",
 "en": "clinic",
 "ko": "진료소",
-"rom": "jillyoso examination",
+"rom": "jillyoso",
 "id": 1607
 },
 {
 "topic": "seeing a doctor",
 "en": "test",
 "ko": "검사",
-"rom": "geomsa prescription",
+"rom": "geomsa",
 "id": 1608
 },
 {
 "topic": "seeing a doctor",
 "en": "vaccination",
 "ko": "백신 접종",
-"rom": "baeksin jeopjong medication",
+"rom": "baeksin jeopjong",
 "id": 1609
 },
 {
@@ -11315,28 +11315,28 @@
 "topic": "seeing a doctor",
 "en": "blood pressure monitor",
 "ko": "혈압계",
-"rom": "hyeorapgye examination room",
+"rom": "hyeorapgye",
 "id": 1616
 },
 {
 "topic": "seeing a doctor",
 "en": "examination table",
 "ko": "진찰대",
-"rom": "jinchaldae GP",
+"rom": "jinchaldae",
 "id": 1617
 },
 {
 "topic": "seeing a doctor",
 "en": "nurse",
 "ko": "간호사",
-"rom": "ganhosa stethoscope",
+"rom": "ganhosa",
 "id": 1618
 },
 {
 "topic": "seeing a doctor",
 "en": "syringe",
 "ko": "주사기",
-"rom": "jusagi thermometer",
+"rom": "jusagi",
 "id": 1619
 },
 {
@@ -11350,7 +11350,7 @@
 "topic": "the dentist’s surgery",
 "en": "molar",
 "ko": "어금니",
-"rom": "eogeumni incisor",
+"rom": "eogeumni",
 "id": 1621
 },
 {
@@ -11364,7 +11364,7 @@
 "topic": "the dentist’s surgery",
 "en": "wisdom teeth",
 "ko": "사랑니",
-"rom": "sarangni filling",
+"rom": "sarangni",
 "id": 1623
 },
 {
@@ -11378,14 +11378,14 @@
 "topic": "the dentist’s surgery",
 "en": "root canal treatment",
 "ko": "신경치료",
-"rom": "singyeongchiryo toothache",
+"rom": "singyeongchiryo",
 "id": 1625
 },
 {
 "topic": "the dentist’s surgery",
 "en": "abscess",
 "ko": "염증",
-"rom": "yeomjeung extraction",
+"rom": "yeomjeung",
 "id": 1626
 },
 {
@@ -11399,7 +11399,7 @@
 "topic": "the dentist’s surgery",
 "en": "to floss",
 "ko": "치실질을 하다",
-"rom": "chisiljireul hada braces",
+"rom": "chisiljireul hada",
 "id": 1628
 },
 {
@@ -11434,21 +11434,21 @@
 "topic": "the dentist’s surgery",
 "en": "dentist’s drill",
 "ko": "치과 천공기",
-"rom": "chigwa cheongonggi dentures",
+"rom": "chigwa cheongonggi",
 "id": 1633
 },
 {
 "topic": "the dentist’s surgery",
 "en": "gums",
 "ko": "잇몸",
-"rom": "inmom mouthwash",
+"rom": "inmom",
 "id": 1634
 },
 {
 "topic": "the dentist’s surgery",
 "en": "teeth",
 "ko": "치아",
-"rom": "chia toothbrush",
+"rom": "chia",
 "id": 1635
 },
 {
@@ -11469,14 +11469,14 @@
 "topic": "the optician’s",
 "en": "reading glasses",
 "ko": "돋보기 안경",
-"rom": "dotbogi angyeong bifocals",
+"rom": "dotbogi angyeong",
 "id": 1638
 },
 {
 "topic": "the optician’s",
 "en": "lens",
 "ko": "렌즈",
-"rom": "renjeu conjunctivitis",
+"rom": "renjeu",
 "id": 1639
 },
 {
@@ -11490,21 +11490,21 @@
 "topic": "the optician’s",
 "en": "blurred vision",
 "ko": "시력 저하",
-"rom": "siryeok jeoha cataracts",
+"rom": "siryeok jeoha",
 "id": 1641
 },
 {
 "topic": "the optician’s",
 "en": "short-sighted",
 "ko": "근시",
-"rom": "geunsi long-sighted",
+"rom": "geunsi",
 "id": 1642
 },
 {
 "topic": "the optician’s",
 "en": "visually impaired",
 "ko": "시각 장애",
-"rom": "sigak jangae blind",
+"rom": "sigak jangae",
 "id": 1643
 },
 {
@@ -11560,7 +11560,7 @@
 "topic": "the optician’s",
 "en": "eye test",
 "ko": "시력 검사",
-"rom": "siryeok geomsa frames",
+"rom": "siryeok geomsa",
 "id": 1651
 },
 {
@@ -11574,7 +11574,7 @@
 "topic": "the optician’s",
 "en": "glasses case",
 "ko": "안경집",
-"rom": "angyeongjip optician’s",
+"rom": "angyeongjip",
 "id": 1653
 },
 {
@@ -11588,35 +11588,35 @@
 "topic": "the hospital",
 "en": "private hospital",
 "ko": "민간 병원",
-"rom": "mingan byeongwon A&E",
+"rom": "mingan byeongwon",
 "id": 1655
 },
 {
 "topic": "the hospital",
 "en": "ambulance",
 "ko": "구급차",
-"rom": "gugeupcha physiotherapist",
+"rom": "gugeupcha",
 "id": 1656
 },
 {
 "topic": "the hospital",
 "en": "radiographer",
 "ko": "방사선사",
-"rom": "bangsaseonsa surgeon",
+"rom": "bangsaseonsa",
 "id": 1657
 },
 {
 "topic": "the hospital",
 "en": "operation",
 "ko": "수술",
-"rom": "susul scan",
+"rom": "susul",
 "id": 1658
 },
 {
 "topic": "the hospital",
 "en": "intensive care",
 "ko": "중환자실",
-"rom": "junghwanjasil diagnosis",
+"rom": "junghwanjasil",
 "id": 1659
 },
 {
@@ -11644,7 +11644,7 @@
 "topic": "the hospital",
 "en": "discharged",
 "ko": "입원/퇴원하다",
-"rom": "ibwon/toewonhada crutches",
+"rom": "ibwon/toewonhada",
 "id": 1663
 },
 {
@@ -11658,7 +11658,7 @@
 "topic": "the hospital",
 "en": "hospital bed",
 "ko": "병원 침대",
-"rom": "byeongwon chimdae monitor",
+"rom": "byeongwon chimdae",
 "id": 1665
 },
 {
@@ -11686,7 +11686,7 @@
 "topic": "the hospital",
 "en": "plaster cast",
 "ko": "깁스",
-"rom": "gipseu ward",
+"rom": "gipseu",
 "id": 1669
 },
 {
@@ -11714,21 +11714,21 @@
 "topic": "injury",
 "en": "concussion",
 "ko": "뇌진탕",
-"rom": "noejintang accident",
+"rom": "noejintang",
 "id": 1673
 },
 {
 "topic": "injury",
 "en": "dislocation",
 "ko": "탈골",
-"rom": "talgol sprain",
+"rom": "talgol",
 "id": 1674
 },
 {
 "topic": "injury",
 "en": "scar",
 "ko": "상처",
-"rom": "sangcheo whiplash",
+"rom": "sangcheo",
 "id": 1675
 },
 {
@@ -11749,7 +11749,7 @@
 "topic": "injury",
 "en": "CPR",
 "ko": "심폐소생법",
-"rom": "simpyesosaengbeop stitches",
+"rom": "simpyesosaengbeop",
 "id": 1678
 },
 {
@@ -11784,42 +11784,42 @@
 "topic": "injury",
 "en": "to twist one’s ankle",
 "ko": "발목을 삐다",
-"rom": "balmogeul ppida injuries blister",
+"rom": "balmogeul ppida",
 "id": 1683
 },
 {
 "topic": "injury",
 "en": "bruise",
 "ko": "타박상",
-"rom": "tabaksang burn",
+"rom": "tabaksang",
 "id": 1684
 },
 {
 "topic": "injury",
 "en": "cut",
 "ko": "절상",
-"rom": "jeolsang fracture",
+"rom": "jeolsang",
 "id": 1685
 },
 {
 "topic": "injury",
 "en": "graze",
 "ko": "찰과상",
-"rom": "chalgwasang splinter",
+"rom": "chalgwasang",
 "id": 1686
 },
 {
 "topic": "injury",
 "en": "sting",
 "ko": "벌쏘임",
-"rom": "beolssoim sunburn",
+"rom": "beolssoim",
 "id": 1687
 },
 {
 "topic": "injury",
 "en": "adhesive tape",
 "ko": "접착 테이프",
-"rom": "jeopchak teipeu bandage",
+"rom": "jeopchak teipeu",
 "id": 1688
 },
 {
@@ -11840,14 +11840,14 @@
 "topic": "injury",
 "en": "ice pack",
 "ko": "얼음주머니",
-"rom": "eoreumjumeoni ointment",
+"rom": "eoreumjumeoni",
 "id": 1691
 },
 {
 "topic": "injury",
 "en": "plaster",
 "ko": "반창고",
-"rom": "banchanggo sling",
+"rom": "banchanggo",
 "id": 1692
 },
 {
@@ -11861,7 +11861,7 @@
 "topic": "injury",
 "en": "heart attack",
 "ko": "심장마비",
-"rom": "simjangmabi stroke",
+"rom": "simjangmabi",
 "id": 1694
 },
 {
@@ -11875,14 +11875,14 @@
 "topic": "injury",
 "en": "ear infection",
 "ko": "중이염",
-"rom": "jungiyeom virus",
+"rom": "jungiyeom",
 "id": 1696
 },
 {
 "topic": "injury",
 "en": "cold",
 "ko": "감기",
-"rom": "gamgi flu",
+"rom": "gamgi",
 "id": 1697
 },
 {
@@ -11903,28 +11903,28 @@
 "topic": "injury",
 "en": "food poisoning",
 "ko": "식중독",
-"rom": "sikjungdok vomiting",
+"rom": "sikjungdok",
 "id": 1700
 },
 {
 "topic": "injury",
 "en": "diarrhoea",
 "ko": "설사",
-"rom": "seolsa constipation",
+"rom": "seolsa",
 "id": 1701
 },
 {
 "topic": "injury",
 "en": "diabetes",
 "ko": "당뇨병",
-"rom": "dangnyobyeong epilepsy",
+"rom": "dangnyobyeong",
 "id": 1702
 },
 {
 "topic": "injury",
 "en": "asthma",
 "ko": "천식",
-"rom": "cheonsik dizziness",
+"rom": "cheonsik",
 "id": 1703
 },
 {
@@ -11973,14 +11973,14 @@
 "topic": "injury",
 "en": "to faint",
 "ko": "기절하다",
-"rom": "gijeolhada coughing",
+"rom": "gijeolhada",
 "id": 1710
 },
 {
 "topic": "injury",
 "en": "fever",
 "ko": "열",
-"rom": "yeol nausea",
+"rom": "yeol",
 "id": 1711
 },
 {
@@ -11994,35 +11994,35 @@
 "topic": "injury",
 "en": "runny nose",
 "ko": "콧물",
-"rom": "konmul sneezing",
+"rom": "konmul",
 "id": 1713
 },
 {
 "topic": "injury",
 "en": "pregnant woman",
 "ko": "임신부",
-"rom": "imsinbu foetus",
+"rom": "imsinbu",
 "id": 1714
 },
 {
 "topic": "injury",
 "en": "uterus",
 "ko": "자궁",
-"rom": "jagung cervix",
+"rom": "jagung",
 "id": 1715
 },
 {
 "topic": "injury",
 "en": "labour",
 "ko": "분만",
-"rom": "bunman epidural",
+"rom": "bunman",
 "id": 1716
 },
 {
 "topic": "injury",
 "en": "Caesarean section",
 "ko": "제왕 절개 수술",
-"rom": "jewang jeolgae susul delivery",
+"rom": "jewang jeolgae susul",
 "id": 1717
 },
 {
@@ -12036,7 +12036,7 @@
 "topic": "pregnancy",
 "en": "miscarriage",
 "ko": "유산",
-"rom": "yusan stillborn",
+"rom": "yusan",
 "id": 1719
 },
 {
@@ -12085,42 +12085,42 @@
 "topic": "pregnancy",
 "en": "to breast-feed",
 "ko": "모유를 먹이다",
-"rom": "moyureul meogida incubator",
+"rom": "moyureul meogida",
 "id": 1726
 },
 {
 "topic": "pregnancy",
 "en": "labour suite",
 "ko": "분만실",
-"rom": "bunmansil midwife",
+"rom": "bunmansil",
 "id": 1727
 },
 {
 "topic": "pregnancy",
 "en": "pregnancy test",
 "ko": "임신 테스트",
-"rom": "imsin teseuteu sonographer",
+"rom": "imsin teseuteu",
 "id": 1728
 },
 {
 "topic": "pregnancy",
 "en": "ultrasound",
 "ko": "초음파",
-"rom": "choeumpa therapist",
+"rom": "choeumpa",
 "id": 1729
 },
 {
 "topic": "pregnancy",
 "en": "masseur/masseuse",
 "ko": "안마사",
-"rom": "anmasa chiropractor",
+"rom": "anmasa",
 "id": 1730
 },
 {
 "topic": "pregnancy",
 "en": "acupuncturist",
 "ko": "침술사",
-"rom": "chimsulsa reflexologist",
+"rom": "chimsulsa",
 "id": 1731
 },
 {
@@ -12162,7 +12162,7 @@
 "topic": "alternative therapies",
 "en": "to meditate",
 "ko": "명상하다",
-"rom": "myeongsanghada acupuncture",
+"rom": "myeongsanghada",
 "id": 1737
 },
 {
@@ -12190,42 +12190,42 @@
 "topic": "alternative therapies",
 "en": "herbal medicine",
 "ko": "한약",
-"rom": "hanyak hypnotherapy",
+"rom": "hanyak",
 "id": 1741
 },
 {
 "topic": "alternative therapies",
 "en": "massage",
 "ko": "안마",
-"rom": "anma meditation",
+"rom": "anma",
 "id": 1742
 },
 {
 "topic": "alternative therapies",
 "en": "moxibustion",
 "ko": "뜸 요법",
-"rom": "tteum yobeop osteopathy",
+"rom": "tteum yobeop",
 "id": 1743
 },
 {
 "topic": "alternative therapies",
 "en": "reflexology",
 "ko": "반사 요법",
-"rom": "bansa yobeop thalassotherapy",
+"rom": "bansa yobeop",
 "id": 1744
 },
 {
 "topic": "alternative therapies",
 "en": "veterinary clinic",
 "ko": "동물병원",
-"rom": "dongmulbyeongwon pet",
+"rom": "dongmulbyeongwon",
 "id": 1745
 },
 {
 "topic": "alternative therapies",
 "en": "flea",
 "ko": "벼룩",
-"rom": "byeoruk tick",
+"rom": "byeoruk",
 "id": 1746
 },
 {
@@ -12239,7 +12239,7 @@
 "topic": "alternative therapies",
 "en": "pet passport",
 "ko": "동물여권",
-"rom": "dongmuryeogwon quarantine",
+"rom": "dongmuryeogwon",
 "id": 1748
 },
 {
@@ -12274,14 +12274,14 @@
 "topic": "the vet",
 "en": "to put down",
 "ko": "안락사하다",
-"rom": "allaksahada collar",
+"rom": "allaksahada",
 "id": 1753
 },
 {
 "topic": "the vet",
 "en": "E-collar",
 "ko": "애완동물 넥카라",
-"rom": "aewandongmul nekkara lead",
+"rom": "aewandongmul nekkara",
 "id": 1754
 },
 {
@@ -12295,84 +12295,84 @@
 "topic": "the vet",
 "en": "pet carrier",
 "ko": "이동장",
-"rom": "idongjang vet",
+"rom": "idongjang",
 "id": 1756
 },
 {
 "topic": "the vet",
 "en": "parrot",
 "ko": "앵무새",
-"rom": "aengmusae beak",
+"rom": "aengmusae",
 "id": 1757
 },
 {
 "topic": "the vet",
 "en": "tail",
 "ko": "꼬리",
-"rom": "kkori claw",
+"rom": "kkori",
 "id": 1758
 },
 {
 "topic": "the vet",
 "en": "nature reserve",
 "ko": "자연 보호 구역",
-"rom": "jayeon boho guyeok zoo",
+"rom": "jayeon boho guyeok",
 "id": 1759
 },
 {
 "topic": "the vet",
 "en": "animal",
 "ko": "동물",
-"rom": "dongmul species",
+"rom": "dongmul",
 "id": 1760
 },
 {
 "topic": "the vet",
 "en": "fur",
 "ko": "모피",
-"rom": "mopi wool",
+"rom": "mopi",
 "id": 1761
 },
 {
 "topic": "the vet",
 "en": "paw",
 "ko": "발",
-"rom": "bal hoof",
+"rom": "bal",
 "id": 1762
 },
 {
 "topic": "the vet",
 "en": "snout",
 "ko": "코",
-"rom": "ko mane",
+"rom": "ko",
 "id": 1763
 },
 {
 "topic": "the vet",
 "en": "tail",
 "ko": "꼬리",
-"rom": "kkori claw",
+"rom": "kkori",
 "id": 1764
 },
 {
 "topic": "the vet",
 "en": "horn",
 "ko": "뿔",
-"rom": "ppul feather",
+"rom": "ppul",
 "id": 1765
 },
 {
 "topic": "the vet",
 "en": "wing",
 "ko": "날개",
-"rom": "nalgae beak",
+"rom": "nalgae",
 "id": 1766
 },
 {
 "topic": "the vet",
 "en": "warm-blooded",
 "ko": "온혈",
-"rom": "onhyeol cold-blooded",
+"rom": "onhyeol",
 "id": 1767
 },
 {
@@ -12414,7 +12414,7 @@
 "topic": "domestic animals and birds",
 "en": "companion cat",
 "ko": "반려묘",
-"rom": "ballyeomyo pet",
+"rom": "ballyeomyo",
 "id": 1773
 },
 {
@@ -12428,28 +12428,28 @@
 "topic": "domestic animals and birds",
 "en": "cat litter",
 "ko": "고양이 모래",
-"rom": "goyangi morae farmer",
+"rom": "goyangi morae",
 "id": 1775
 },
 {
 "topic": "domestic animals and birds",
 "en": "farm",
 "ko": "농장",
-"rom": "nongjang farmland",
+"rom": "nongjang",
 "id": 1776
 },
 {
 "topic": "domestic animals and birds",
 "en": "bull",
 "ko": "수소",
-"rom": "suso rat",
+"rom": "suso",
 "id": 1777
 },
 {
 "topic": "domestic animals and birds",
 "en": "guide dog",
 "ko": "안내견",
-"rom": "annaegyeon flock",
+"rom": "annaegyeon",
 "id": 1778
 },
 {
@@ -12463,7 +12463,7 @@
 "topic": "domestic animals and birds",
 "en": "animal feed",
 "ko": "사료",
-"rom": "saryo hay",
+"rom": "saryo",
 "id": 1780
 },
 {
@@ -12498,63 +12498,63 @@
 "topic": "domestic animals and birds",
 "en": "to farm",
 "ko": "사육하다",
-"rom": "sayukada pets budgerigar",
+"rom": "sayukada",
 "id": 1785
 },
 {
 "topic": "domestic animals and birds",
 "en": "canary",
 "ko": "카나리아",
-"rom": "kanaria cat",
+"rom": "kanaria",
 "id": 1786
 },
 {
 "topic": "domestic animals and birds",
 "en": "dog",
 "ko": "개",
-"rom": "gae goldfish",
+"rom": "gae",
 "id": 1787
 },
 {
 "topic": "domestic animals and birds",
 "en": "guinea pig",
 "ko": "기니피그",
-"rom": "ginipigeu hamster",
+"rom": "ginipigeu",
 "id": 1788
 },
 {
 "topic": "domestic animals and birds",
 "en": "parrot",
 "ko": "앵무새",
-"rom": "aengmusae rabbit",
+"rom": "aengmusae",
 "id": 1789
 },
 {
 "topic": "domestic animals and birds",
 "en": "chicken",
 "ko": "닭",
-"rom": "dak cow",
+"rom": "dak",
 "id": 1790
 },
 {
 "topic": "domestic animals and birds",
 "en": "donkey",
 "ko": "당나귀",
-"rom": "dangnagwi duck",
+"rom": "dangnagwi",
 "id": 1791
 },
 {
 "topic": "domestic animals and birds",
 "en": "goat",
 "ko": "염소",
-"rom": "yeomso goose",
+"rom": "yeomso",
 "id": 1792
 },
 {
 "topic": "domestic animals and birds",
 "en": "horse",
 "ko": "말",
-"rom": "mal pig",
+"rom": "mal",
 "id": 1793
 },
 {
@@ -12568,42 +12568,42 @@
 "topic": "domestic animals and birds",
 "en": "calf",
 "ko": "송아지",
-"rom": "songaji cub",
+"rom": "songaji",
 "id": 1795
 },
 {
 "topic": "domestic animals and birds",
 "en": "fawn",
 "ko": "새끼 사슴",
-"rom": "saekki saseum foal",
+"rom": "saekki saseum",
 "id": 1796
 },
 {
 "topic": "domestic animals and birds",
 "en": "kid",
 "ko": "새끼 염소",
-"rom": "saekki yeomso kitten",
+"rom": "saekki yeomso",
 "id": 1797
 },
 {
 "topic": "domestic animals and birds",
 "en": "lamb",
 "ko": "새끼 양",
-"rom": "saekki yang piglet",
+"rom": "saekki yang",
 "id": 1798
 },
 {
 "topic": "domestic animals and birds",
 "en": "puppy",
 "ko": "강아지",
-"rom": "gangaji general aquarium",
+"rom": "gangaji",
 "id": 1799
 },
 {
 "topic": "domestic animals and birds",
 "en": "barn",
 "ko": "헛간",
-"rom": "heotgan birdcage",
+"rom": "heotgan",
 "id": 1800
 },
 {
@@ -12617,7 +12617,7 @@
 "topic": "domestic animals and birds",
 "en": "dog basket",
 "ko": "반려견 방석",
-"rom": "ballyeogyeon bangseok hutch",
+"rom": "ballyeogyeon bangseok",
 "id": 1802
 },
 {
@@ -12645,49 +12645,49 @@
 "topic": "domestic animals and birds",
 "en": "pet food",
 "ko": "애완동물 사료",
-"rom": "aewandongmul saryo stable",
+"rom": "aewandongmul saryo",
 "id": 1806
 },
 {
 "topic": "domestic animals and birds",
 "en": "trough",
 "ko": "여물통",
-"rom": "yeomultong badger",
+"rom": "yeomultong",
 "id": 1807
 },
 {
 "topic": "domestic animals and birds",
 "en": "bat",
 "ko": "박쥐",
-"rom": "bagjwi boar",
+"rom": "bagjwi",
 "id": 1808
 },
 {
 "topic": "domestic animals and birds",
 "en": "deer",
 "ko": "사슴",
-"rom": "saseum fox",
+"rom": "saseum",
 "id": 1809
 },
 {
 "topic": "domestic animals and birds",
 "en": "hare",
 "ko": "산토끼",
-"rom": "santokki hedgehog",
+"rom": "santokki",
 "id": 1810
 },
 {
 "topic": "domestic animals and birds",
 "en": "mole",
 "ko": "두더지",
-"rom": "dudeoji mouse",
+"rom": "dudeoji",
 "id": 1811
 },
 {
 "topic": "domestic animals and birds",
 "en": "otter",
 "ko": "수달",
-"rom": "sudal squirrel",
+"rom": "sudal",
 "id": 1812
 },
 {
@@ -12701,112 +12701,112 @@
 "topic": "domestic animals and birds",
 "en": "bear",
 "ko": "곰",
-"rom": "gom camel",
+"rom": "gom",
 "id": 1814
 },
 {
 "topic": "domestic animals and birds",
 "en": "chimpanzee",
 "ko": "침팬지",
-"rom": "chimpaenji elephant",
+"rom": "chimpaenji",
 "id": 1815
 },
 {
 "topic": "domestic animals and birds",
 "en": "giant panda",
 "ko": "대왕판다",
-"rom": "daewangpanda giraffe",
+"rom": "daewangpanda",
 "id": 1816
 },
 {
 "topic": "domestic animals and birds",
 "en": "hippopotamus",
 "ko": "하마",
-"rom": "hama kangaroo",
+"rom": "hama",
 "id": 1817
 },
 {
 "topic": "domestic animals and birds",
 "en": "lion",
 "ko": "사자",
-"rom": "saja monkey",
+"rom": "saja",
 "id": 1818
 },
 {
 "topic": "domestic animals and birds",
 "en": "rhinoceros",
 "ko": "코뿔소",
-"rom": "koppulso tiger",
+"rom": "koppulso",
 "id": 1819
 },
 {
 "topic": "domestic animals and birds",
 "en": "blackbird",
 "ko": "찌르레기",
-"rom": "jjireuregi buzzard",
+"rom": "jjireuregi",
 "id": 1820
 },
 {
 "topic": "domestic animals and birds",
 "en": "crane",
 "ko": "두루미",
-"rom": "durumi crow",
+"rom": "durumi",
 "id": 1821
 },
 {
 "topic": "domestic animals and birds",
 "en": "dove",
 "ko": "흰 비둘기",
-"rom": "huin bidulgi eagle",
+"rom": "huin bidulgi",
 "id": 1822
 },
 {
 "topic": "domestic animals and birds",
 "en": "finch",
 "ko": "콩새",
-"rom": "kongsae flamingo",
+"rom": "kongsae",
 "id": 1823
 },
 {
 "topic": "domestic animals and birds",
 "en": "gull",
 "ko": "갈매기",
-"rom": "galmaegi heron",
+"rom": "galmaegi",
 "id": 1824
 },
 {
 "topic": "domestic animals and birds",
 "en": "kingfisher",
 "ko": "물총새",
-"rom": "mulchongsae lark",
+"rom": "mulchongsae",
 "id": 1825
 },
 {
 "topic": "domestic animals and birds",
 "en": "magpie",
 "ko": "까치",
-"rom": "kkachi ostrich",
+"rom": "kkachi",
 "id": 1826
 },
 {
 "topic": "domestic animals and birds",
 "en": "owl",
 "ko": "부엉이",
-"rom": "bueongi peacock",
+"rom": "bueongi",
 "id": 1827
 },
 {
 "topic": "domestic animals and birds",
 "en": "pelican",
 "ko": "사다새",
-"rom": "sadasae penguin",
+"rom": "sadasae",
 "id": 1828
 },
 {
 "topic": "domestic animals and birds",
 "en": "pigeon",
 "ko": "비둘기",
-"rom": "bidulgi sparrow",
+"rom": "bidulgi",
 "id": 1829
 },
 {
@@ -12820,21 +12820,21 @@
 "topic": "birds",
 "en": "swan",
 "ko": "백조",
-"rom": "baekjo thrush",
+"rom": "baekjo",
 "id": 1831
 },
 {
 "topic": "birds",
 "en": "vulture",
 "ko": "독수리",
-"rom": "doksuri tadpole",
+"rom": "doksuri",
 "id": 1832
 },
 {
 "topic": "birds",
 "en": "frogspawn",
 "ko": "개구리알",
-"rom": "gaegurial scales",
+"rom": "gaegurial",
 "id": 1833
 },
 {
@@ -12855,49 +12855,49 @@
 "topic": "birds",
 "en": "to croak",
 "ko": "개골개골 울다",
-"rom": "gaegolgaegol ulda alligator",
+"rom": "gaegolgaegol ulda",
 "id": 1836
 },
 {
 "topic": "birds",
 "en": "frog",
 "ko": "개구리",
-"rom": "gaeguri gecko",
+"rom": "gaeguri",
 "id": 1837
 },
 {
 "topic": "birds",
 "en": "lizard",
 "ko": "도마뱀",
-"rom": "domabaem newt",
+"rom": "domabaem",
 "id": 1838
 },
 {
 "topic": "birds",
 "en": "snake",
 "ko": "뱀",
-"rom": "baem toad",
+"rom": "baem",
 "id": 1839
 },
 {
 "topic": "birds",
 "en": "tortoise",
 "ko": "거북",
-"rom": "geobuk turtle",
+"rom": "geobuk",
 "id": 1840
 },
 {
 "topic": "birds",
 "en": "coral",
 "ko": "산호",
-"rom": "sanho crab",
+"rom": "sanho",
 "id": 1841
 },
 {
 "topic": "birds",
 "en": "dolphin",
 "ko": "돌고래",
-"rom": "dolgorae eel",
+"rom": "dolgorae",
 "id": 1842
 },
 {
@@ -12911,7 +12911,7 @@
 "topic": "birds",
 "en": "killer whale",
 "ko": "범고래",
-"rom": "beomgorae lobster",
+"rom": "beomgorae",
 "id": 1844
 },
 {
@@ -12925,21 +12925,21 @@
 "topic": "birds",
 "en": "sea urchin",
 "ko": "성게",
-"rom": "seongge shark",
+"rom": "seongge",
 "id": 1846
 },
 {
 "topic": "birds",
 "en": "starfish",
 "ko": "불가사리",
-"rom": "bulgasari whale",
+"rom": "bulgasari",
 "id": 1847
 },
 {
 "topic": "birds",
 "en": "swarm",
 "ko": "떼",
-"rom": "tte colony",
+"rom": "tte",
 "id": 1848
 },
 {
@@ -12967,105 +12967,105 @@
 "topic": "birds",
 "en": "to sting",
 "ko": "쏘다",
-"rom": "ssoda ant",
+"rom": "ssoda",
 "id": 1852
 },
 {
 "topic": "birds",
 "en": "bee",
 "ko": "벌",
-"rom": "beol beetle",
+"rom": "beol",
 "id": 1853
 },
 {
 "topic": "birds",
 "en": "butterfly",
 "ko": "나비",
-"rom": "nabi caterpillar",
+"rom": "nabi",
 "id": 1854
 },
 {
 "topic": "birds",
 "en": "centipede",
 "ko": "지네",
-"rom": "jine cockroach",
+"rom": "jine",
 "id": 1855
 },
 {
 "topic": "birds",
 "en": "cricket",
 "ko": "귀뚜라미",
-"rom": "gwitturami dragonfly",
+"rom": "gwitturami",
 "id": 1856
 },
 {
 "topic": "birds",
 "en": "earthworm",
 "ko": "지렁이",
-"rom": "jireongi fly",
+"rom": "jireongi",
 "id": 1857
 },
 {
 "topic": "birds",
 "en": "grasshopper",
 "ko": "메뚜기",
-"rom": "mettugi ladybird",
+"rom": "mettugi",
 "id": 1858
 },
 {
 "topic": "birds",
 "en": "mayfly",
 "ko": "하루살이",
-"rom": "harusari mosquito",
+"rom": "harusari",
 "id": 1859
 },
 {
 "topic": "birds",
 "en": "moth",
 "ko": "나방",
-"rom": "nabang slug",
+"rom": "nabang",
 "id": 1860
 },
 {
 "topic": "birds",
 "en": "snail",
 "ko": "달팽이",
-"rom": "dalpaengi spider",
+"rom": "dalpaengi",
 "id": 1861
 },
 {
 "topic": "birds",
 "en": "wasp",
 "ko": "말벌",
-"rom": "malbeol woodlouse",
+"rom": "malbeol",
 "id": 1862
 },
 {
 "topic": "birds",
 "en": "stalk",
 "ko": "줄기",
-"rom": "julgi leaf",
+"rom": "julgi",
 "id": 1863
 },
 {
 "topic": "birds",
 "en": "petal",
 "ko": "꽃잎",
-"rom": "kkonnip pollen",
+"rom": "kkonnip",
 "id": 1864
 },
 {
 "topic": "birds",
 "en": "bud",
 "ko": "싹",
-"rom": "ssak wildflower",
+"rom": "ssak",
 "id": 1865
 },
 {
 "topic": "birds",
 "en": "grass",
 "ko": "잔디",
-"rom": "jandi seed",
+"rom": "jandi",
 "id": 1866
 },
 {
@@ -13079,49 +13079,49 @@
 "topic": "birds",
 "en": "calla lily",
 "ko": "칼라",
-"rom": "kalla carnation",
+"rom": "kalla",
 "id": 1868
 },
 {
 "topic": "birds",
 "en": "chrysanthemum",
 "ko": "국화",
-"rom": "gukwa daffodil",
+"rom": "gukwa",
 "id": 1869
 },
 {
 "topic": "birds",
 "en": "daisy",
 "ko": "데이지",
-"rom": "deiji dandelion",
+"rom": "deiji",
 "id": 1870
 },
 {
 "topic": "birds",
 "en": "gypsophila",
 "ko": "안개꽃",
-"rom": "angaekkot iris",
+"rom": "angaekkot",
 "id": 1871
 },
 {
 "topic": "birds",
 "en": "jasmine",
 "ko": "재스민",
-"rom": "jaeseumin lily",
+"rom": "jaeseumin",
 "id": 1872
 },
 {
 "topic": "birds",
 "en": "lily-of-the-valley",
 "ko": "은방울꽃",
-"rom": "eunbangulkkot orchid",
+"rom": "eunbangulkkot",
 "id": 1873
 },
 {
 "topic": "birds",
 "en": "peony",
 "ko": "작약",
-"rom": "jagyak poppy",
+"rom": "jagyak",
 "id": 1874
 },
 {
@@ -13135,7 +13135,7 @@
 "topic": "birds",
 "en": "rose of sharon",
 "ko": "무궁화",
-"rom": "mugunghwa sunflower",
+"rom": "mugunghwa",
 "id": 1876
 },
 {
@@ -13149,21 +13149,21 @@
 "topic": "plant life",
 "en": "tree",
 "ko": "나무",
-"rom": "namu plant",
+"rom": "namu",
 "id": 1878
 },
 {
 "topic": "plant life",
 "en": "orchard",
 "ko": "과수원",
-"rom": "gwasuwon vineyard",
+"rom": "gwasuwon",
 "id": 1879
 },
 {
 "topic": "plant life",
 "en": "branch",
 "ko": "가지",
-"rom": "gaji berry",
+"rom": "gaji",
 "id": 1880
 },
 {
@@ -13184,63 +13184,63 @@
 "topic": "plant life",
 "en": "cherry tree",
 "ko": "벚꽃나무",
-"rom": "beotkkonnamu chestnut",
+"rom": "beotkkonnamu",
 "id": 1883
 },
 {
 "topic": "plant life",
 "en": "cypress",
 "ko": "편백나무",
-"rom": "pyeonbaengnamu fir",
+"rom": "pyeonbaengnamu",
 "id": 1884
 },
 {
 "topic": "plant life",
 "en": "fungus",
 "ko": "균류",
-"rom": "gyullyu grapevine",
+"rom": "gyullyu",
 "id": 1885
 },
 {
 "topic": "plant life",
 "en": "honeysuckle",
 "ko": "인동",
-"rom": "indong ivy",
+"rom": "indong",
 "id": 1886
 },
 {
 "topic": "plant life",
 "en": "lavender",
 "ko": "라벤더",
-"rom": "rabendeo lichen",
+"rom": "rabendeo",
 "id": 1887
 },
 {
 "topic": "plant life",
 "en": "lilac",
 "ko": "라일락",
-"rom": "raillak maidenhair tree",
+"rom": "raillak",
 "id": 1888
 },
 {
 "topic": "plant life",
 "en": "maple",
 "ko": "단풍나무",
-"rom": "danpungnamu moss",
+"rom": "danpungnamu",
 "id": 1889
 },
 {
 "topic": "plant life",
 "en": "oak",
 "ko": "참나무",
-"rom": "chamnamu pine",
+"rom": "chamnamu",
 "id": 1890
 },
 {
 "topic": "plant life",
 "en": "plane",
 "ko": "버즘나무",
-"rom": "beojeumnamu poplar",
+"rom": "beojeumnamu",
 "id": 1891
 },
 {
@@ -13254,154 +13254,154 @@
 "topic": "land, sea, and sky",
 "en": "landscape",
 "ko": "지형",
-"rom": "jihyeong soil",
+"rom": "jihyeong",
 "id": 1893
 },
 {
 "topic": "land, sea, and sky",
 "en": "mud",
 "ko": "진흙",
-"rom": "jinheuk water",
+"rom": "jinheuk",
 "id": 1894
 },
 {
 "topic": "land, sea, and sky",
 "en": "estuary",
 "ko": "어귀",
-"rom": "eogwi air",
+"rom": "eogwi",
 "id": 1895
 },
 {
 "topic": "land, sea, and sky",
 "en": "atmosphere",
 "ko": "대기",
-"rom": "daegi comet",
+"rom": "daegi",
 "id": 1896
 },
 {
 "topic": "land, sea, and sky",
 "en": "rural",
 "ko": "전원",
-"rom": "jeonwon urban",
+"rom": "jeonwon",
 "id": 1897
 },
 {
 "topic": "land, sea, and sky",
 "en": "polar",
 "ko": "극지방",
-"rom": "geukjibang tropical",
+"rom": "geukjibang",
 "id": 1898
 },
 {
 "topic": "land, sea, and sky",
 "en": "cave",
 "ko": "동굴",
-"rom": "donggul desert",
+"rom": "donggul",
 "id": 1899
 },
 {
 "topic": "land, sea, and sky",
 "en": "farmland",
 "ko": "농지",
-"rom": "nongji forest",
+"rom": "nongji",
 "id": 1900
 },
 {
 "topic": "land, sea, and sky",
 "en": "glacier",
 "ko": "빙하",
-"rom": "bingha grassland",
+"rom": "bingha",
 "id": 1901
 },
 {
 "topic": "land, sea, and sky",
 "en": "hill",
 "ko": "언덕",
-"rom": "eondeok lake",
+"rom": "eondeok",
 "id": 1902
 },
 {
 "topic": "land, sea, and sky",
 "en": "marsh",
 "ko": "습지",
-"rom": "seupji mountain",
+"rom": "seupji",
 "id": 1903
 },
 {
 "topic": "land, sea, and sky",
 "en": "pond",
 "ko": "연못",
-"rom": "yeonmot river",
+"rom": "yeonmot",
 "id": 1904
 },
 {
 "topic": "land, sea, and sky",
 "en": "rocks",
 "ko": "바위",
-"rom": "bawi scrub",
+"rom": "bawi",
 "id": 1905
 },
 {
 "topic": "land, sea, and sky",
 "en": "stream",
 "ko": "개울",
-"rom": "gaeul valley",
+"rom": "gaeul",
 "id": 1906
 },
 {
 "topic": "land, sea, and sky",
 "en": "volcano",
 "ko": "화산",
-"rom": "hwasan waterfall",
+"rom": "hwasan",
 "id": 1907
 },
 {
 "topic": "land, sea, and sky",
 "en": "cliff",
 "ko": "절벽",
-"rom": "jeolbyeok coast",
+"rom": "jeolbyeok",
 "id": 1908
 },
 {
 "topic": "land, sea, and sky",
 "en": "coral reef",
 "ko": "산호초",
-"rom": "sanhocho island",
+"rom": "sanhocho",
 "id": 1909
 },
 {
 "topic": "land, sea, and sky",
 "en": "peninsula",
 "ko": "반도",
-"rom": "bando rockpool",
+"rom": "bando",
 "id": 1910
 },
 {
 "topic": "land, sea, and sky",
 "en": "aurora",
 "ko": "오로라",
-"rom": "orora moon",
+"rom": "orora",
 "id": 1911
 },
 {
 "topic": "land, sea, and sky",
 "en": "rainbow",
 "ko": "무지개",
-"rom": "mujigae stars",
+"rom": "mujigae",
 "id": 1912
 },
 {
 "topic": "land, sea, and sky",
 "en": "sun",
 "ko": "해",
-"rom": "hae sunset",
+"rom": "hae",
 "id": 1913
 },
 {
 "topic": "land, sea, and sky",
 "en": "decoration",
 "ko": "노리개 장식",
-"rom": "norigae jangsik knot",
+"rom": "norigae jangsik",
 "id": 1914
 },
 {
@@ -13415,14 +13415,14 @@
 "topic": "the basics",
 "en": "celebration",
 "ko": "축하",
-"rom": "chuka birthday",
+"rom": "chuka",
 "id": 1916
 },
 {
 "topic": "the basics",
 "en": "anniversary",
 "ko": "기념일",
-"rom": "ginyeomil wedding anniversary",
+"rom": "ginyeomil",
 "id": 1917
 },
 {
@@ -13478,42 +13478,42 @@
 "topic": "the basics",
 "en": "to toast",
 "ko": "건배하다",
-"rom": "geonbaehada general bouquet",
+"rom": "geonbaehada",
 "id": 1925
 },
 {
 "topic": "the basics",
 "en": "box of chocolates",
 "ko": "󐵗릿 박스",
-"rom": "chokollit bakseu cake",
+"rom": "chokollit bakseu",
 "id": 1926
 },
 {
 "topic": "the basics",
 "en": "decorations",
 "ko": "장식품",
-"rom": "jangsikpum fireworks",
+"rom": "jangsikpum",
 "id": 1927
 },
 {
 "topic": "the basics",
 "en": "fizzy drink",
 "ko": "탄산음료",
-"rom": "tansaneumnyo gift",
+"rom": "tansaneumnyo",
 "id": 1928
 },
 {
 "topic": "the basics",
 "en": "greetings card",
 "ko": "인사 카드",
-"rom": "insa kadeu party",
+"rom": "insa kadeu",
 "id": 1929
 },
 {
 "topic": "the basics",
 "en": "birth",
 "ko": "출생",
-"rom": "chulsaeng 100-day celebration",
+"rom": "chulsaeng",
 "id": 1930
 },
 {
@@ -13527,28 +13527,28 @@
 "topic": "the basics",
 "en": "test",
 "ko": "운전면허 시험 통과",
-"rom": "unjeonmyeonheo siheom tonggwa graduation",
+"rom": "unjeonmyeonheo siheom tonggwa",
 "id": 1932
 },
 {
 "topic": "the basics",
 "en": "finding a job",
 "ko": "구직",
-"rom": "gujik engagement",
+"rom": "gujik",
 "id": 1933
 },
 {
 "topic": "the basics",
 "en": "marriage",
 "ko": "결혼",
-"rom": "gyeolhon divorce",
+"rom": "gyeolhon",
 "id": 1934
 },
 {
 "topic": "the basics",
 "en": "having a child",
 "ko": "아이를 갖는 것",
-"rom": "aireul ganneun geot retirement",
+"rom": "aireul ganneun geot",
 "id": 1935
 },
 {
@@ -13709,7 +13709,7 @@
 "topic": "festivals",
 "en": "ancestral rites food",
 "ko": "차례 음식",
-"rom": "charye eumsik five-grain rice and nuts",
+"rom": "charye eumsik",
 "id": 1958
 },
 {
@@ -13723,7 +13723,7 @@
 "topic": "festivals",
 "en": "rice cake soup",
 "ko": "떡국",
-"rom": "tteokguk rice cake with sweet filling",
+"rom": "tteokguk",
 "id": 1960
 },
 {

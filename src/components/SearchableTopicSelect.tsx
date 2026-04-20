@@ -120,7 +120,7 @@ export const SearchableTopicSelect = ({
               onKeyDown={onInputKeyDownHandler}
               placeholder="Search topics…"
               aria-label="Search topics"
-              className="w-full rounded-xl border border-white/10 bg-ink-900/60 px-3 py-2.5 text-sm text-paper placeholder:text-white/35 focus:border-mint/50 focus:outline-none focus:ring-2 focus:ring-mint/25"
+              className="w-full rounded-xl border border-white/10 bg-ink-900/60 px-3 py-2.5 text-base text-paper placeholder:text-white/35 focus:border-mint/50 focus:outline-none focus:ring-2 focus:ring-mint/25"
             />
           </div>
           <ul
@@ -136,7 +136,7 @@ export const SearchableTopicSelect = ({
                 aria-selected={value === null}
                 onMouseDown={(e) => e.preventDefault()}
                 onClick={() => onSelectTopicHandler(null)}
-                className="flex w-full items-center gap-2 px-3 py-2.5 text-left text-sm text-paper hover:bg-white/10 focus:bg-white/10 focus:outline-none"
+                className="flex w-full items-center gap-2 px-3 py-2.5 text-left text-base text-paper hover:bg-white/10 focus:bg-white/10 focus:outline-none"
               >
                 {value === null ? (
                   <Check className="h-4 w-4 shrink-0 text-mint" aria-hidden />
@@ -154,7 +154,7 @@ export const SearchableTopicSelect = ({
                   aria-selected={value === t}
                   onMouseDown={(e) => e.preventDefault()}
                   onClick={() => onSelectTopicHandler(t)}
-                  className="flex w-full items-center gap-2 px-3 py-2.5 text-left text-sm text-paper hover:bg-white/10 focus:bg-white/10 focus:outline-none"
+                  className="flex w-full items-center gap-2 px-3 py-2.5 text-left text-base text-paper hover:bg-white/10 focus:bg-white/10 focus:outline-none"
                 >
                   {value === t ? (
                     <Check className="h-4 w-4 shrink-0 text-mint" aria-hidden />
@@ -166,7 +166,7 @@ export const SearchableTopicSelect = ({
               </li>
             ))}
             {q && filteredTopics.length === 0 ? (
-              <li className="px-3 py-4 text-center text-sm text-white/45">No topic matches.</li>
+              <li className="px-3 py-4 text-center text-base text-white/45">No topic matches.</li>
             ) : null}
           </ul>
         </div>

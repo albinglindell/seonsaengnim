@@ -7,11 +7,12 @@ import { entryMatchesNumbersFilter, isNumbersTopic } from "@/lib/numbersTopic";
 
 type GlossaryBrowserProps = {
   items: VocabEntry[];
+  topic: string | null;
+  onTopicChangeHandler: (topic: string | null) => void;
 };
 
-export const GlossaryBrowser = ({ items }: GlossaryBrowserProps) => {
+export const GlossaryBrowser = ({ items, topic, onTopicChangeHandler }: GlossaryBrowserProps) => {
   const [query, setQuery] = useState(() => "");
-  const [topic, setTopic] = useState<string | null>(() => null);
   const [numbersFilter, setNumbersFilter] = useState<NumbersSystemFilter>(() => "all");
 
   const topics = useMemo(() => {
@@ -46,7 +47,7 @@ export const GlossaryBrowser = ({ items }: GlossaryBrowserProps) => {
   };
 
   const onTopicSelectChangeHandler = (t: string | null) => {
-    setTopic(() => t);
+    onTopicChangeHandler(t);
     if (!isNumbersTopic(t)) {
       setNumbersFilter(() => "all");
     }

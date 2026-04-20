@@ -13,12 +13,33 @@ const countHangulSyllables = (s: string): number => {
   return m ? m.length : 0;
 };
 
+const getEnglishWordLengthPattern = (value: string): number[] =>
+  value
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean)
+    .map((word) => {
+      const lettersOnlyLength = (word.match(/[a-z]/gi) ?? []).length;
+      return lettersOnlyLength > 0 ? lettersOnlyLength : word.length;
+    });
+
+const getKoreanSyllablePattern = (value: string): number[] =>
+  value
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean)
+    .map((chunk) => countHangulSyllables(chunk))
+    .filter((count) => count > 0);
+
 export const HintPanel = ({ entry, direction, hintTier, onHintClickHandler }: HintPanelProps) => {
   const enWords = entry.en.trim().split(/\s+/).filter(Boolean).length;
   const koSyl = countHangulSyllables(entry.ko);
-  const enFirst = entry.en.trim().charAt(0);
-  const koFirstMatch = entry.ko.match(/[\uac00-\ud7af]/);
-  const koFirst = koFirstMatch ? koFirstMatch[0] : entry.ko.charAt(0);
+  const enWordLengthPattern = getEnglishWordLengthPattern(entry.en);
+  const koSyllablePattern = getKoreanSyllablePattern(entry.ko);
+  const enLettersTotal = enWordLengthPattern.reduce((sum, count) => sum + count, 0);
+  const koSyllablesTotal = koSyllablePattern.reduce((sum, count) => sum + count, 0);
+  const enPatternText = enWordLengthPattern.join("-");
+  const koPatternText = koSyllablePattern.join("-");
 
   const onKeyDownHandler = (e: React.KeyboardEvent) => {
     if (e.key === "Enter" || e.key === " ") {
@@ -51,20 +72,31 @@ export const HintPanel = ({ entry, direction, hintTier, onHintClickHandler }: Hi
       </div>
       {hintTier >= 1 ? (
         <p className="mt-3 text-sm text-white/80">
-          <span className="font-medium text-paper">Topic:</span> {entry.topic}
+          <span className="font-medium text-paper">Category:</span> {entry.topic} ·{" "}
+          {direction === "koToEn" ? (
+            <>
+              target has {enWords} word{enWords === 1 ? "" : "s"}
+            </>
+          ) : (
+            <>
+              target has about {koSyl} syllable{koSyl === 1 ? "" : "s"}
+            </>
+          )}
         </p>
       ) : null}
       {hintTier >= 2 ? (
         <p className="mt-2 text-sm text-white/80">
           {direction === "koToEn" ? (
             <>
-              <span className="font-medium text-paper">English clue:</span> starts with “{enFirst}
-              …” · {enWords} word{enWords === 1 ? "" : "s"}
+              <span className="font-medium text-paper">English clue:</span> word-length pattern{" "}
+              {enPatternText || "unknown"} · about {enLettersTotal} letter
+              {enLettersTotal === 1 ? "" : "s"} total
             </>
           ) : (
             <>
-              <span className="font-medium text-paper">Korean clue:</span> first character “{koFirst}”
-              · about {koSyl} syllable{koSyl === 1 ? "" : "s"}
+              <span className="font-medium text-paper">Korean clue:</span> syllable pattern{" "}
+              {koPatternText || "unknown"} · about {koSyllablesTotal} syllable
+              {koSyllablesTotal === 1 ? "" : "s"} total
             </>
           )}
         </p>
